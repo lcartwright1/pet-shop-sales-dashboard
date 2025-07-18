@@ -27,16 +27,12 @@ This dashboard demonstrates:
 - Balance of creative flair with practical analysis
 - Familiarity with Power BI features like slicers, formatting, filters, and responsive design
 
-## 📂 Repo Structure
+## 📁 Project Structure
 
-pet-shop-sales-dashboard/
-├── assets/
-│ ├── dashboard-screenshot.png
-│ └── mobile-layout-preview.png
-├── data/
-│ └── pet_supply_sales_2000.csv
-├── PetStoreDashboard.pbix
-└── README.md
+- `assets/` – Dashboard screenshots (desktop & mobile)
+- `data/` – Synthetic sales data (CSV format)
+- `PetStoreDashboard.pbix` – Power BI report file
+- `README.md` – Project summary and roadmap
 
 ## 🔮 Future Plans
 
