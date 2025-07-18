@@ -29,14 +29,7 @@ This dashboard demonstrates:
 
 ## 📂 Repo Structure
 
-pet-shop-sales-dashboard/
-├── assets/
-│ ├── dashboard-screenshot.png
-│ └── mobile-layout-preview.png
-├── data/
-│ └── pet_supply_sales_2000.csv
-├── PetStoreDashboard.pbix
-└── README.md
+<pre> ```text pet-shop-sales-dashboard/ ├── assets/ │ ├── dashboard-screenshot.png │ └── mobile-layout-preview.png ├── data/ │ └── pet_supply_sales_2000.csv ├── PetStoreDashboard.pbix └── README.md ``` </pre>
 
 ## 🔮 Future Plans
 
