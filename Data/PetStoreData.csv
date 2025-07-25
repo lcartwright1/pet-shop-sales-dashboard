@@ -1,0 +1,2179 @@
+Sale_ID,Date,Store,Product,Units_Sold,Unit_Price,Category,Total_Sale
+1,2025-01-01 09:00:00,Oxford,Wet Cat Food,7,22.09,Bird,154.63
+2,2025-01-01 19:00:00,Buckingham,Flea Shampoo,7,28.01,Fish,196.07000000000002
+3,2025-01-01 16:00:00,Buckingham,Wet Cat Food,6,77.17,Fish,463.02
+4,2025-01-01 10:00:00,Oxford,Dog Chew Toy,1,23.2,Bird,23.2
+5,2025-01-01 18:00:00,Buckingham,Cat Litter,8,43.24,Dog,345.92
+6,2025-01-01 19:00:00,Buckingham,Dry Dog Food,3,35.84,Rodent,107.52000000000001
+7,2025-01-01 18:00:00,Oxford,Aquarium Filter,5,47.77,Rodent,238.85000000000002
+8,2025-01-01 13:00:00,Buckingham,Hamster Wheel,5,74.99,Rodent,374.95
+9,2025-01-01 13:00:00,Oxford,Dog Chew Toy,8,17.33,Dog,138.64
+10,2025-01-01 08:00:00,Buckingham,Rabbit Hutch,4,10.5,Fish,42.0
+11,2025-01-01 14:00:00,Milton Keynes,Flea Shampoo,5,29.67,Rodent,148.35000000000002
+12,2025-01-02 10:00:00,Milton Keynes,Wet Cat Food,5,78.04,Bird,390.20000000000005
+13,2025-01-02 17:00:00,Aylesbury,Flea Shampoo,7,68.98,Fish,482.86
+14,2025-01-02 15:00:00,Milton Keynes,Bird Seed,6,53.84,Cat,323.04
+15,2025-01-02 10:00:00,Aylesbury,Bird Seed,7,60.58,Dog,424.06
+16,2025-01-02 12:00:00,Milton Keynes,Aquarium Filter,8,63.53,Fish,508.24
+17,2025-01-02 18:00:00,Aylesbury,Fish Flakes,6,47.89,Rodent,287.34000000000003
+18,2025-01-02 16:00:00,Milton Keynes,Flea Shampoo,8,23.67,Cat,189.36
+19,2025-01-02 12:00:00,Aylesbury,Hamster Wheel,3,69.57,Dog,208.70999999999998
+20,2025-01-02 18:00:00,Aylesbury,Dog Chew Toy,2,13.79,Cat,27.58
+21,2025-01-03 09:00:00,Aylesbury,Flea Shampoo,2,17.6,Fish,35.2
+22,2025-01-03 12:00:00,Oxford,Fish Flakes,3,39.49,Cat,118.47
+23,2025-01-03 11:00:00,Oxford,Fish Flakes,2,42.43,Dog,84.86
+24,2025-01-03 17:00:00,Aylesbury,Rabbit Hutch,8,8.96,Dog,71.68
+25,2025-01-03 11:00:00,Milton Keynes,Flea Shampoo,6,10.63,Cat,63.78
+26,2025-01-03 14:00:00,Oxford,Fish Flakes,2,52.86,Dog,105.72
+27,2025-01-03 08:00:00,Oxford,Cat Litter,1,20.63,Bird,20.63
+28,2025-01-03 20:00:00,Buckingham,Dry Dog Food,6,54.47,Bird,326.82
+29,2025-01-03 10:00:00,Oxford,Dog Chew Toy,1,65.67,Fish,65.67
+30,2025-01-04 19:00:00,Buckingham,Flea Shampoo,5,64.61,Rodent,323.05
+31,2025-01-04 19:00:00,Milton Keynes,Flea Shampoo,8,30.84,Dog,246.72
+32,2025-01-04 14:00:00,Buckingham,Aquarium Filter,3,19.22,Bird,57.66
+33,2025-01-04 09:00:00,Buckingham,Cat Litter,7,32.7,Cat,228.90000000000003
+34,2025-01-04 19:00:00,Oxford,Hamster Wheel,2,30.24,Cat,60.48
+35,2025-01-04 08:00:00,Milton Keynes,Cat Litter,6,22.9,Bird,137.39999999999998
+36,2025-01-04 20:00:00,Aylesbury,Wet Cat Food,8,51.38,Bird,411.04
+37,2025-01-04 17:00:00,Oxford,Wet Cat Food,2,28.82,Bird,57.64
+38,2025-01-04 19:00:00,Buckingham,Hamster Wheel,6,26.53,Rodent,159.18
+39,2025-01-04 14:00:00,Oxford,Hamster Wheel,4,77.76,Cat,311.04
+40,2025-01-04 08:00:00,Buckingham,Bird Seed,6,72.23,Cat,433.38
+41,2025-01-04 14:00:00,Aylesbury,Wet Cat Food,2,28.33,Fish,56.66
+42,2025-01-04 10:00:00,Buckingham,Wet Cat Food,8,35.2,Bird,281.6
+43,2025-01-04 08:00:00,Buckingham,Hamster Wheel,6,19.51,Cat,117.06
+44,2025-01-04 12:00:00,Buckingham,Fish Flakes,1,25.12,Bird,25.12
+45,2025-01-05 11:00:00,Oxford,Wet Cat Food,2,61.7,Dog,123.4
+46,2025-01-05 19:00:00,Buckingham,Rabbit Hutch,7,26.06,Rodent,182.42
+47,2025-01-05 12:00:00,Milton Keynes,Aquarium Filter,1,66.52,Bird,66.52
+48,2025-01-05 18:00:00,Buckingham,Flea Shampoo,1,54.96,Bird,54.96
+49,2025-01-05 09:00:00,Oxford,Aquarium Filter,1,17.89,Cat,17.89
+50,2025-01-05 14:00:00,Buckingham,Cat Litter,8,52.03,Dog,416.24
+51,2025-01-05 13:00:00,Milton Keynes,Bird Seed,4,13.97,Dog,55.88
+52,2025-01-05 16:00:00,Buckingham,Flea Shampoo,8,58.24,Rodent,465.92
+53,2025-01-05 09:00:00,Milton Keynes,Dog Chew Toy,8,55.57,Fish,444.56
+54,2025-01-05 15:00:00,Aylesbury,Hamster Wheel,3,64.65,Fish,193.95000000000002
+55,2025-01-06 18:00:00,Oxford,Wet Cat Food,8,22.57,Dog,180.56
+56,2025-01-06 18:00:00,Oxford,Flea Shampoo,5,37.35,Cat,186.75
+57,2025-01-06 18:00:00,Buckingham,Bird Seed,3,34.82,Fish,104.46000000000001
+58,2025-01-06 15:00:00,Oxford,Dog Chew Toy,6,67.04,Dog,402.24
+59,2025-01-06 13:00:00,Aylesbury,Dry Dog Food,4,74.93,Bird,299.72
+60,2025-01-06 20:00:00,Oxford,Hamster Wheel,1,41.91,Rodent,41.91
+61,2025-01-06 12:00:00,Milton Keynes,Bird Seed,6,79.73,Cat,478.38
+62,2025-01-06 11:00:00,Oxford,Aquarium Filter,5,62.12,Fish,310.59999999999997
+63,2025-01-06 17:00:00,Milton Keynes,Wet Cat Food,4,66.56,Dog,266.24
+64,2025-01-06 10:00:00,Milton Keynes,Flea Shampoo,3,62.88,Cat,188.64000000000001
+65,2025-01-06 19:00:00,Milton Keynes,Fish Flakes,4,77.03,Rodent,308.12
+66,2025-01-06 08:00:00,Milton Keynes,Fish Flakes,5,9.7,Dog,48.5
+67,2025-01-07 12:00:00,Buckingham,Wet Cat Food,7,65.89,Fish,461.23
+68,2025-01-07 20:00:00,Aylesbury,Dog Chew Toy,1,39.2,Bird,39.2
+69,2025-01-07 15:00:00,Oxford,Hamster Wheel,3,63.11,Dog,189.32999999999998
+70,2025-01-07 16:00:00,Aylesbury,Flea Shampoo,2,17.38,Dog,34.76
+71,2025-01-07 11:00:00,Oxford,Bird Seed,5,69.21,Dog,346.04999999999995
+72,2025-01-07 10:00:00,Aylesbury,Hamster Wheel,3,49.09,Cat,147.27
+73,2025-01-07 14:00:00,Oxford,Hamster Wheel,6,26.18,Cat,157.07999999999998
+74,2025-01-07 14:00:00,Milton Keynes,Wet Cat Food,3,53.01,Dog,159.03
+75,2025-01-07 14:00:00,Milton Keynes,Flea Shampoo,8,36.68,Dog,293.44
+76,2025-01-07 20:00:00,Oxford,Aquarium Filter,4,17.06,Cat,68.24
+77,2025-01-07 15:00:00,Oxford,Dry Dog Food,5,65.27,Bird,326.34999999999997
+78,2025-01-07 08:00:00,Aylesbury,Flea Shampoo,2,26.03,Dog,52.06
+79,2025-01-07 17:00:00,Buckingham,Bird Seed,3,33.55,Rodent,100.64999999999999
+80,2025-01-07 15:00:00,Oxford,Bird Seed,3,13.56,Dog,40.68
+81,2025-01-07 10:00:00,Oxford,Bird Seed,1,59.56,Dog,59.56
+82,2025-01-08 10:00:00,Oxford,Bird Seed,6,22.39,Bird,134.34
+83,2025-01-08 09:00:00,Buckingham,Rabbit Hutch,5,62.22,Bird,311.1
+84,2025-01-08 11:00:00,Aylesbury,Rabbit Hutch,2,16.12,Fish,32.24
+85,2025-01-08 14:00:00,Aylesbury,Flea Shampoo,4,41.78,Rodent,167.12
+86,2025-01-08 17:00:00,Oxford,Aquarium Filter,1,54.93,Bird,54.93
+87,2025-01-08 10:00:00,Oxford,Rabbit Hutch,8,51.12,Bird,408.96
+88,2025-01-08 20:00:00,Buckingham,Bird Seed,5,9.27,Cat,46.349999999999994
+89,2025-01-08 10:00:00,Oxford,Cat Litter,1,33.83,Rodent,33.83
+90,2025-01-08 16:00:00,Oxford,Aquarium Filter,3,15.81,Cat,47.43
+91,2025-01-08 16:00:00,Aylesbury,Rabbit Hutch,7,50.68,Fish,354.76
+92,2025-01-08 09:00:00,Milton Keynes,Hamster Wheel,4,22.26,Dog,89.04
+93,2025-01-08 18:00:00,Buckingham,Hamster Wheel,6,53.27,Bird,319.62
+94,2025-01-08 17:00:00,Milton Keynes,Fish Flakes,3,47.57,Cat,142.71
+95,2025-01-08 14:00:00,Aylesbury,Cat Litter,8,13.18,Cat,105.44
+96,2025-01-08 09:00:00,Aylesbury,Wet Cat Food,1,12.49,Cat,12.49
+97,2025-01-09 20:00:00,Milton Keynes,Wet Cat Food,1,11.07,Cat,11.07
+98,2025-01-09 18:00:00,Aylesbury,Dog Chew Toy,7,13.34,Dog,93.38
+99,2025-01-09 08:00:00,Milton Keynes,Dog Chew Toy,7,28.11,Fish,196.76999999999998
+100,2025-01-09 08:00:00,Milton Keynes,Wet Cat Food,7,7.7,Fish,53.9
+101,2025-01-09 10:00:00,Milton Keynes,Bird Seed,6,26.16,Cat,156.96
+102,2025-01-09 18:00:00,Milton Keynes,Bird Seed,4,12.1,Fish,48.4
+103,2025-01-09 12:00:00,Buckingham,Flea Shampoo,4,15.79,Cat,63.16
+104,2025-01-09 12:00:00,Buckingham,Bird Seed,7,74.05,Cat,518.35
+105,2025-01-09 12:00:00,Buckingham,Cat Litter,6,77.9,Fish,467.40000000000003
+106,2025-01-09 13:00:00,Buckingham,Dry Dog Food,3,23.13,Fish,69.39
+107,2025-01-09 14:00:00,Buckingham,Aquarium Filter,3,12.22,Dog,36.660000000000004
+108,2025-01-09 13:00:00,Buckingham,Bird Seed,3,12.14,Dog,36.42
+109,2025-01-10 19:00:00,Aylesbury,Dry Dog Food,1,54.09,Bird,54.09
+110,2025-01-10 19:00:00,Aylesbury,Fish Flakes,7,59.16,Dog,414.12
+111,2025-01-10 09:00:00,Aylesbury,Fish Flakes,7,53.9,Dog,377.3
+112,2025-01-10 09:00:00,Milton Keynes,Cat Litter,6,36.93,Rodent,221.57999999999998
+113,2025-01-10 20:00:00,Aylesbury,Dog Chew Toy,7,9.19,Cat,64.33
+114,2025-01-10 09:00:00,Milton Keynes,Dry Dog Food,8,26.55,Dog,212.4
+115,2025-01-11 11:00:00,Aylesbury,Aquarium Filter,1,17.39,Dog,17.39
+116,2025-01-11 16:00:00,Milton Keynes,Aquarium Filter,8,62.2,Fish,497.6
+117,2025-01-11 15:00:00,Oxford,Wet Cat Food,8,30.05,Dog,240.4
+118,2025-01-11 17:00:00,Milton Keynes,Rabbit Hutch,1,22.9,Rodent,22.9
+119,2025-01-11 12:00:00,Buckingham,Bird Seed,1,63.2,Fish,63.2
+120,2025-01-11 11:00:00,Buckingham,Hamster Wheel,8,17.28,Fish,138.24
+121,2025-01-11 08:00:00,Oxford,Rabbit Hutch,1,46.19,Fish,46.19
+122,2025-01-11 18:00:00,Aylesbury,Hamster Wheel,7,27.1,Dog,189.70000000000002
+123,2025-01-11 16:00:00,Buckingham,Rabbit Hutch,6,31.31,Rodent,187.85999999999999
+124,2025-01-11 20:00:00,Milton Keynes,Bird Seed,2,18.39,Fish,36.78
+125,2025-01-11 15:00:00,Milton Keynes,Wet Cat Food,8,79.32,Fish,634.56
+126,2025-01-11 16:00:00,Milton Keynes,Wet Cat Food,4,20.7,Bird,82.8
+127,2025-01-11 20:00:00,Buckingham,Aquarium Filter,2,49.23,Dog,98.46
+128,2025-01-11 10:00:00,Buckingham,Rabbit Hutch,3,68.17,Cat,204.51
+129,2025-01-12 13:00:00,Buckingham,Bird Seed,1,65.49,Rodent,65.49
+130,2025-01-12 19:00:00,Aylesbury,Wet Cat Food,8,69.08,Dog,552.64
+131,2025-01-12 12:00:00,Milton Keynes,Rabbit Hutch,7,66.14,Bird,462.98
+132,2025-01-12 14:00:00,Buckingham,Hamster Wheel,6,59.08,Bird,354.48
+133,2025-01-12 17:00:00,Aylesbury,Dog Chew Toy,4,58.26,Cat,233.04
+134,2025-01-12 20:00:00,Buckingham,Bird Seed,4,75.84,Fish,303.36
+135,2025-01-12 09:00:00,Buckingham,Fish Flakes,7,14.38,Bird,100.66000000000001
+136,2025-01-12 18:00:00,Milton Keynes,Hamster Wheel,7,68.01,Dog,476.07000000000005
+137,2025-01-12 13:00:00,Oxford,Aquarium Filter,2,54.39,Fish,108.78
+138,2025-01-12 13:00:00,Oxford,Aquarium Filter,5,7.78,Rodent,38.9
+139,2025-01-12 19:00:00,Aylesbury,Bird Seed,8,78.9,Rodent,631.2
+140,2025-01-12 14:00:00,Buckingham,Hamster Wheel,5,54.39,Bird,271.95
+141,2025-01-12 17:00:00,Milton Keynes,Dry Dog Food,1,44.77,Bird,44.77
+142,2025-01-12 20:00:00,Milton Keynes,Cat Litter,8,7.54,Cat,60.32
+143,2025-01-12 16:00:00,Aylesbury,Fish Flakes,8,23.65,Fish,189.2
+144,2025-01-13 19:00:00,Aylesbury,Cat Litter,1,24.61,Rodent,24.61
+145,2025-01-13 16:00:00,Milton Keynes,Rabbit Hutch,2,13.42,Fish,26.84
+146,2025-01-13 14:00:00,Aylesbury,Hamster Wheel,8,67.95,Cat,543.6
+147,2025-01-13 18:00:00,Oxford,Rabbit Hutch,1,42.88,Dog,42.88
+148,2025-01-13 11:00:00,Oxford,Bird Seed,4,14.61,Bird,58.44
+149,2025-01-13 13:00:00,Oxford,Dry Dog Food,7,40.73,Bird,285.10999999999996
+150,2025-01-13 13:00:00,Milton Keynes,Flea Shampoo,6,35.3,Dog,211.79999999999998
+151,2025-01-13 09:00:00,Aylesbury,Flea Shampoo,7,25.59,Cat,179.13
+152,2025-01-13 12:00:00,Milton Keynes,Fish Flakes,8,56.35,Rodent,450.8
+153,2025-01-13 17:00:00,Milton Keynes,Dry Dog Food,3,6.01,Dog,18.03
+154,2025-01-13 10:00:00,Aylesbury,Rabbit Hutch,7,67.94,Cat,475.58
+155,2025-01-13 10:00:00,Buckingham,Fish Flakes,1,9.08,Dog,9.08
+156,2025-01-13 17:00:00,Buckingham,Hamster Wheel,7,32.96,Rodent,230.72
+157,2025-01-13 15:00:00,Buckingham,Cat Litter,3,56.31,Dog,168.93
+158,2025-01-13 11:00:00,Buckingham,Fish Flakes,6,26.5,Dog,159.0
+159,2025-01-14 13:00:00,Milton Keynes,Rabbit Hutch,2,47.96,Bird,95.92
+160,2025-01-14 19:00:00,Aylesbury,Dry Dog Food,7,63.77,Cat,446.39000000000004
+161,2025-01-14 15:00:00,Oxford,Bird Seed,3,75.56,Fish,226.68
+162,2025-01-14 14:00:00,Buckingham,Hamster Wheel,6,16.71,Fish,100.26
+163,2025-01-14 19:00:00,Milton Keynes,Bird Seed,6,24.87,Cat,149.22
+164,2025-01-14 13:00:00,Aylesbury,Dog Chew Toy,5,36.82,Fish,184.1
+165,2025-01-14 18:00:00,Oxford,Hamster Wheel,8,39.26,Dog,314.08
+166,2025-01-14 13:00:00,Buckingham,Rabbit Hutch,7,63.25,Rodent,442.75
+167,2025-01-14 13:00:00,Milton Keynes,Hamster Wheel,8,32.18,Dog,257.44
+168,2025-01-14 19:00:00,Oxford,Rabbit Hutch,8,37.17,Rodent,297.36
+169,2025-01-14 13:00:00,Buckingham,Aquarium Filter,1,27.61,Bird,27.61
+170,2025-01-14 20:00:00,Buckingham,Bird Seed,4,24.14,Bird,96.56
+171,2025-01-14 16:00:00,Oxford,Fish Flakes,3,61.29,Fish,183.87
+172,2025-01-15 18:00:00,Oxford,Wet Cat Food,4,43.13,Dog,172.52
+173,2025-01-15 17:00:00,Oxford,Cat Litter,3,25.84,Dog,77.52
+174,2025-01-15 18:00:00,Aylesbury,Fish Flakes,5,47.6,Rodent,238.0
+175,2025-01-15 20:00:00,Oxford,Hamster Wheel,8,12.48,Fish,99.84
+176,2025-01-15 15:00:00,Milton Keynes,Wet Cat Food,2,78.88,Fish,157.76
+177,2025-01-15 18:00:00,Buckingham,Fish Flakes,4,44.7,Cat,178.8
+178,2025-01-15 12:00:00,Milton Keynes,Hamster Wheel,1,62.12,Cat,62.12
+179,2025-01-15 13:00:00,Aylesbury,Rabbit Hutch,8,73.56,Dog,588.48
+180,2025-01-15 15:00:00,Oxford,Wet Cat Food,1,45.85,Cat,45.85
+181,2025-01-15 20:00:00,Buckingham,Flea Shampoo,8,51.17,Cat,409.36
+182,2025-01-15 10:00:00,Buckingham,Dog Chew Toy,4,15.56,Bird,62.24
+183,2025-01-15 08:00:00,Aylesbury,Aquarium Filter,4,12.14,Rodent,48.56
+184,2025-01-15 08:00:00,Buckingham,Dry Dog Food,6,9.53,Fish,57.17999999999999
+185,2025-01-16 15:00:00,Aylesbury,Wet Cat Food,8,6.05,Rodent,48.4
+186,2025-01-16 08:00:00,Oxford,Dry Dog Food,7,8.21,Dog,57.470000000000006
+187,2025-01-16 20:00:00,Milton Keynes,Cat Litter,2,41.22,Bird,82.44
+188,2025-01-16 17:00:00,Aylesbury,Aquarium Filter,2,57.47,Fish,114.94
+189,2025-01-16 19:00:00,Oxford,Wet Cat Food,7,63.61,Fish,445.27
+190,2025-01-16 14:00:00,Milton Keynes,Aquarium Filter,6,23.33,Cat,139.98
+191,2025-01-17 15:00:00,Oxford,Aquarium Filter,6,47.26,Fish,283.56
+192,2025-01-17 12:00:00,Oxford,Fish Flakes,3,18.9,Bird,56.699999999999996
+193,2025-01-17 19:00:00,Milton Keynes,Flea Shampoo,6,68.38,Cat,410.28
+194,2025-01-17 10:00:00,Aylesbury,Hamster Wheel,8,76.5,Fish,612.0
+195,2025-01-17 19:00:00,Milton Keynes,Dry Dog Food,8,18.0,Rodent,144.0
+196,2025-01-17 20:00:00,Oxford,Cat Litter,4,10.96,Dog,43.84
+197,2025-01-18 13:00:00,Aylesbury,Hamster Wheel,3,23.21,Rodent,69.63
+198,2025-01-18 12:00:00,Oxford,Hamster Wheel,4,5.17,Cat,20.68
+199,2025-01-18 17:00:00,Buckingham,Rabbit Hutch,6,27.95,Cat,167.7
+200,2025-01-18 13:00:00,Oxford,Dog Chew Toy,4,30.7,Rodent,122.8
+201,2025-01-18 18:00:00,Aylesbury,Bird Seed,6,57.12,Cat,342.71999999999997
+202,2025-01-18 13:00:00,Buckingham,Dry Dog Food,7,22.82,Bird,159.74
+203,2025-01-18 09:00:00,Oxford,Dry Dog Food,4,8.11,Bird,32.44
+204,2025-01-18 19:00:00,Milton Keynes,Dog Chew Toy,1,28.44,Rodent,28.44
+205,2025-01-18 16:00:00,Aylesbury,Hamster Wheel,3,73.14,Cat,219.42000000000002
+206,2025-01-18 11:00:00,Milton Keynes,Fish Flakes,4,63.89,Dog,255.56
+207,2025-01-18 12:00:00,Oxford,Flea Shampoo,5,32.15,Cat,160.75
+208,2025-01-18 11:00:00,Aylesbury,Bird Seed,4,38.41,Rodent,153.64
+209,2025-01-18 13:00:00,Buckingham,Bird Seed,8,75.77,Cat,606.16
+210,2025-01-19 11:00:00,Buckingham,Flea Shampoo,7,60.74,Fish,425.18
+211,2025-01-19 20:00:00,Milton Keynes,Dry Dog Food,7,40.36,Fish,282.52
+212,2025-01-19 16:00:00,Aylesbury,Hamster Wheel,4,13.49,Fish,53.96
+213,2025-01-19 15:00:00,Aylesbury,Rabbit Hutch,8,21.41,Cat,171.28
+214,2025-01-19 14:00:00,Milton Keynes,Dog Chew Toy,3,54.53,Cat,163.59
+215,2025-01-19 20:00:00,Buckingham,Flea Shampoo,4,30.4,Cat,121.6
+216,2025-01-19 17:00:00,Milton Keynes,Rabbit Hutch,1,20.43,Fish,20.43
+217,2025-01-19 17:00:00,Milton Keynes,Bird Seed,7,45.48,Fish,318.35999999999996
+218,2025-01-19 18:00:00,Buckingham,Wet Cat Food,4,72.53,Rodent,290.12
+219,2025-01-19 13:00:00,Milton Keynes,Bird Seed,5,55.05,Dog,275.25
+220,2025-01-19 13:00:00,Aylesbury,Wet Cat Food,4,36.74,Fish,146.96
+221,2025-01-20 16:00:00,Buckingham,Dry Dog Food,2,45.2,Rodent,90.4
+222,2025-01-20 17:00:00,Aylesbury,Cat Litter,8,9.38,Bird,75.04
+223,2025-01-20 16:00:00,Buckingham,Wet Cat Food,5,76.46,Dog,382.29999999999995
+224,2025-01-20 10:00:00,Aylesbury,Aquarium Filter,4,47.87,Cat,191.48
+225,2025-01-20 18:00:00,Oxford,Bird Seed,6,24.32,Rodent,145.92000000000002
+226,2025-01-20 13:00:00,Milton Keynes,Flea Shampoo,7,70.01,Bird,490.07000000000005
+227,2025-01-20 15:00:00,Oxford,Dog Chew Toy,7,73.54,Cat,514.7800000000001
+228,2025-01-20 09:00:00,Buckingham,Dry Dog Food,3,15.74,Fish,47.22
+229,2025-01-20 11:00:00,Oxford,Flea Shampoo,2,78.63,Cat,157.26
+230,2025-01-20 09:00:00,Aylesbury,Wet Cat Food,4,20.33,Bird,81.32
+231,2025-01-20 11:00:00,Milton Keynes,Dog Chew Toy,1,23.79,Cat,23.79
+232,2025-01-20 15:00:00,Milton Keynes,Flea Shampoo,4,29.31,Dog,117.24
+233,2025-01-20 15:00:00,Oxford,Hamster Wheel,7,47.05,Fish,329.34999999999997
+234,2025-01-21 16:00:00,Buckingham,Flea Shampoo,6,17.73,Cat,106.38
+235,2025-01-21 08:00:00,Aylesbury,Dog Chew Toy,2,34.68,Bird,69.36
+236,2025-01-21 10:00:00,Buckingham,Rabbit Hutch,3,28.93,Bird,86.78999999999999
+237,2025-01-21 20:00:00,Milton Keynes,Wet Cat Food,8,56.57,Cat,452.56
+238,2025-01-21 16:00:00,Oxford,Flea Shampoo,4,49.99,Rodent,199.96
+239,2025-01-21 12:00:00,Milton Keynes,Cat Litter,2,39.09,Dog,78.18
+240,2025-01-21 20:00:00,Buckingham,Dry Dog Food,3,73.7,Bird,221.10000000000002
+241,2025-01-21 08:00:00,Oxford,Cat Litter,3,68.9,Rodent,206.70000000000002
+242,2025-01-21 18:00:00,Buckingham,Flea Shampoo,2,51.34,Dog,102.68
+243,2025-01-21 17:00:00,Milton Keynes,Rabbit Hutch,6,36.89,Dog,221.34
+244,2025-01-21 17:00:00,Oxford,Aquarium Filter,2,36.2,Rodent,72.4
+245,2025-01-22 16:00:00,Milton Keynes,Wet Cat Food,6,42.59,Fish,255.54000000000002
+246,2025-01-22 20:00:00,Milton Keynes,Hamster Wheel,2,15.8,Cat,31.6
+247,2025-01-22 17:00:00,Milton Keynes,Dog Chew Toy,8,22.96,Dog,183.68
+248,2025-01-22 13:00:00,Aylesbury,Aquarium Filter,5,45.82,Cat,229.1
+249,2025-01-22 09:00:00,Milton Keynes,Flea Shampoo,6,40.25,Fish,241.5
+250,2025-01-22 18:00:00,Milton Keynes,Cat Litter,3,33.26,Fish,99.78
+251,2025-01-22 15:00:00,Milton Keynes,Hamster Wheel,1,40.39,Fish,40.39
+252,2025-01-22 16:00:00,Milton Keynes,Bird Seed,3,14.58,Dog,43.74
+253,2025-01-22 09:00:00,Buckingham,Dog Chew Toy,4,14.99,Bird,59.96
+254,2025-01-22 17:00:00,Buckingham,Flea Shampoo,7,25.71,Cat,179.97
+255,2025-01-23 17:00:00,Milton Keynes,Hamster Wheel,2,19.24,Cat,38.48
+256,2025-01-23 16:00:00,Milton Keynes,Dry Dog Food,2,46.88,Rodent,93.76
+257,2025-01-23 13:00:00,Aylesbury,Cat Litter,1,59.15,Cat,59.15
+258,2025-01-23 14:00:00,Milton Keynes,Hamster Wheel,5,78.43,Dog,392.15000000000003
+259,2025-01-23 10:00:00,Buckingham,Bird Seed,4,30.51,Rodent,122.04
+260,2025-01-23 11:00:00,Buckingham,Cat Litter,3,27.54,Cat,82.62
+261,2025-01-23 20:00:00,Milton Keynes,Aquarium Filter,2,60.79,Fish,121.58
+262,2025-01-23 11:00:00,Milton Keynes,Hamster Wheel,2,75.55,Dog,151.1
+263,2025-01-23 20:00:00,Milton Keynes,Rabbit Hutch,1,24.29,Bird,24.29
+264,2025-01-23 20:00:00,Buckingham,Cat Litter,8,48.87,Cat,390.96
+265,2025-01-23 18:00:00,Milton Keynes,Dry Dog Food,6,23.22,Rodent,139.32
+266,2025-01-23 20:00:00,Oxford,Rabbit Hutch,1,41.56,Cat,41.56
+267,2025-01-23 20:00:00,Milton Keynes,Aquarium Filter,7,7.05,Bird,49.35
+268,2025-01-24 14:00:00,Buckingham,Rabbit Hutch,1,27.18,Cat,27.18
+269,2025-01-24 17:00:00,Aylesbury,Bird Seed,8,17.31,Cat,138.48
+270,2025-01-24 10:00:00,Milton Keynes,Bird Seed,6,17.52,Rodent,105.12
+271,2025-01-24 19:00:00,Aylesbury,Cat Litter,1,45.2,Dog,45.2
+272,2025-01-24 10:00:00,Milton Keynes,Cat Litter,4,43.66,Bird,174.64
+273,2025-01-24 17:00:00,Buckingham,Cat Litter,7,57.35,Rodent,401.45
+274,2025-01-24 17:00:00,Buckingham,Fish Flakes,1,8.55,Dog,8.55
+275,2025-01-24 16:00:00,Oxford,Dog Chew Toy,1,63.06,Bird,63.06
+276,2025-01-24 12:00:00,Oxford,Rabbit Hutch,5,57.0,Rodent,285.0
+277,2025-01-24 08:00:00,Buckingham,Fish Flakes,4,30.68,Rodent,122.72
+278,2025-01-24 20:00:00,Milton Keynes,Flea Shampoo,1,64.09,Bird,64.09
+279,2025-01-24 17:00:00,Oxford,Flea Shampoo,5,9.47,Dog,47.35
+280,2025-01-25 19:00:00,Buckingham,Bird Seed,8,16.55,Rodent,132.4
+281,2025-01-25 09:00:00,Milton Keynes,Aquarium Filter,5,74.82,Dog,374.09999999999997
+282,2025-01-25 09:00:00,Buckingham,Aquarium Filter,7,74.87,Bird,524.09
+283,2025-01-25 08:00:00,Buckingham,Rabbit Hutch,5,77.39,Fish,386.95
+284,2025-01-25 18:00:00,Buckingham,Fish Flakes,2,6.83,Bird,13.66
+285,2025-01-25 12:00:00,Aylesbury,Wet Cat Food,7,15.29,Rodent,107.03
+286,2025-01-25 18:00:00,Oxford,Cat Litter,2,63.96,Rodent,127.92
+287,2025-01-25 09:00:00,Buckingham,Bird Seed,1,69.54,Bird,69.54
+288,2025-01-25 11:00:00,Buckingham,Bird Seed,6,29.46,Dog,176.76
+289,2025-01-25 13:00:00,Milton Keynes,Rabbit Hutch,1,57.05,Dog,57.05
+290,2025-01-26 10:00:00,Milton Keynes,Dry Dog Food,4,72.68,Bird,290.72
+291,2025-01-26 18:00:00,Oxford,Flea Shampoo,1,74.69,Bird,74.69
+292,2025-01-26 14:00:00,Aylesbury,Bird Seed,2,41.78,Fish,83.56
+293,2025-01-26 11:00:00,Oxford,Dog Chew Toy,1,17.0,Dog,17.0
+294,2025-01-26 10:00:00,Oxford,Dry Dog Food,3,68.19,Bird,204.57
+295,2025-01-26 10:00:00,Oxford,Rabbit Hutch,1,26.53,Cat,26.53
+296,2025-01-26 17:00:00,Buckingham,Cat Litter,2,41.02,Dog,82.04
+297,2025-01-26 14:00:00,Milton Keynes,Cat Litter,5,73.95,Dog,369.75
+298,2025-01-26 15:00:00,Aylesbury,Aquarium Filter,4,46.07,Fish,184.28
+299,2025-01-26 10:00:00,Oxford,Bird Seed,6,16.47,Fish,98.82
+300,2025-01-26 12:00:00,Aylesbury,Hamster Wheel,2,5.9,Fish,11.8
+301,2025-01-26 17:00:00,Oxford,Bird Seed,4,32.28,Cat,129.12
+302,2025-01-26 20:00:00,Milton Keynes,Flea Shampoo,5,77.85,Dog,389.25
+303,2025-01-26 14:00:00,Buckingham,Flea Shampoo,8,19.34,Fish,154.72
+304,2025-01-27 19:00:00,Buckingham,Rabbit Hutch,7,59.21,Dog,414.47
+305,2025-01-27 19:00:00,Buckingham,Aquarium Filter,5,77.46,Fish,387.29999999999995
+306,2025-01-27 10:00:00,Buckingham,Rabbit Hutch,5,71.44,Dog,357.2
+307,2025-01-27 11:00:00,Aylesbury,Dog Chew Toy,1,9.82,Dog,9.82
+308,2025-01-27 17:00:00,Aylesbury,Wet Cat Food,4,37.52,Dog,150.08
+309,2025-01-28 18:00:00,Aylesbury,Aquarium Filter,1,78.87,Fish,78.87
+310,2025-01-28 10:00:00,Aylesbury,Fish Flakes,4,78.04,Cat,312.16
+311,2025-01-28 13:00:00,Buckingham,Hamster Wheel,7,69.32,Cat,485.23999999999995
+312,2025-01-28 11:00:00,Aylesbury,Cat Litter,2,44.79,Rodent,89.58
+313,2025-01-28 20:00:00,Oxford,Dry Dog Food,6,6.6,Bird,39.599999999999994
+314,2025-01-29 14:00:00,Aylesbury,Rabbit Hutch,5,22.87,Bird,114.35000000000001
+315,2025-01-29 08:00:00,Oxford,Cat Litter,1,72.38,Cat,72.38
+316,2025-01-29 19:00:00,Oxford,Dog Chew Toy,6,32.42,Cat,194.52
+317,2025-01-29 15:00:00,Buckingham,Aquarium Filter,3,64.3,Cat,192.89999999999998
+318,2025-01-29 08:00:00,Buckingham,Rabbit Hutch,8,56.78,Cat,454.24
+319,2025-01-29 11:00:00,Milton Keynes,Wet Cat Food,3,56.14,Cat,168.42000000000002
+320,2025-01-29 12:00:00,Aylesbury,Bird Seed,3,21.83,Fish,65.49
+321,2025-01-29 13:00:00,Buckingham,Fish Flakes,6,43.71,Dog,262.26
+322,2025-01-29 11:00:00,Oxford,Rabbit Hutch,7,24.11,Cat,168.76999999999998
+323,2025-01-29 11:00:00,Milton Keynes,Aquarium Filter,6,47.84,Dog,287.04
+324,2025-01-29 19:00:00,Aylesbury,Dog Chew Toy,5,69.16,Rodent,345.79999999999995
+325,2025-01-29 19:00:00,Aylesbury,Fish Flakes,2,26.48,Dog,52.96
+326,2025-01-29 11:00:00,Buckingham,Rabbit Hutch,7,42.91,Dog,300.37
+327,2025-01-29 13:00:00,Aylesbury,Cat Litter,3,62.48,Bird,187.44
+328,2025-01-30 15:00:00,Buckingham,Flea Shampoo,5,12.91,Dog,64.55
+329,2025-01-30 09:00:00,Buckingham,Flea Shampoo,4,22.11,Cat,88.44
+330,2025-01-30 19:00:00,Aylesbury,Bird Seed,4,65.0,Fish,260.0
+331,2025-01-30 09:00:00,Oxford,Fish Flakes,5,34.63,Bird,173.15
+332,2025-01-30 10:00:00,Buckingham,Aquarium Filter,6,63.99,Cat,383.94
+333,2025-01-31 15:00:00,Oxford,Flea Shampoo,1,23.85,Fish,23.85
+334,2025-01-31 11:00:00,Aylesbury,Bird Seed,7,75.78,Dog,530.46
+335,2025-01-31 20:00:00,Milton Keynes,Dog Chew Toy,2,23.68,Rodent,47.36
+336,2025-01-31 20:00:00,Buckingham,Fish Flakes,2,15.2,Rodent,30.4
+337,2025-01-31 08:00:00,Oxford,Hamster Wheel,2,38.52,Cat,77.04
+338,2025-01-31 17:00:00,Buckingham,Wet Cat Food,2,47.32,Fish,94.64
+339,2025-01-31 12:00:00,Oxford,Flea Shampoo,2,28.82,Dog,57.64
+340,2025-01-31 19:00:00,Buckingham,Aquarium Filter,7,20.42,Cat,142.94
+341,2025-01-31 12:00:00,Buckingham,Dog Chew Toy,3,57.25,Bird,171.75
+342,2025-01-31 17:00:00,Milton Keynes,Fish Flakes,8,76.06,Cat,608.48
+343,2025-01-31 12:00:00,Milton Keynes,Hamster Wheel,3,40.9,Rodent,122.69999999999999
+344,2025-01-31 10:00:00,Buckingham,Rabbit Hutch,8,53.86,Dog,430.88
+345,2025-02-01 09:00:00,Milton Keynes,Dog Chew Toy,1,45.09,Bird,45.09
+346,2025-02-01 20:00:00,Aylesbury,Dog Chew Toy,7,43.97,Dog,307.78999999999996
+347,2025-02-01 14:00:00,Aylesbury,Bird Seed,7,5.57,Rodent,38.99
+348,2025-02-01 09:00:00,Oxford,Dog Chew Toy,7,40.33,Fish,282.31
+349,2025-02-01 18:00:00,Buckingham,Bird Seed,5,45.96,Bird,229.8
+350,2025-02-01 15:00:00,Milton Keynes,Aquarium Filter,2,24.76,Fish,49.52
+351,2025-02-01 17:00:00,Milton Keynes,Flea Shampoo,2,51.29,Fish,102.58
+352,2025-02-01 20:00:00,Buckingham,Flea Shampoo,8,15.78,Cat,126.24
+353,2025-02-01 17:00:00,Milton Keynes,Hamster Wheel,3,32.99,Cat,98.97
+354,2025-02-01 18:00:00,Aylesbury,Flea Shampoo,6,39.71,Bird,238.26
+355,2025-02-01 20:00:00,Buckingham,Cat Litter,6,19.93,Rodent,119.58
+356,2025-02-02 10:00:00,Oxford,Bird Seed,8,47.1,Dog,376.8
+357,2025-02-02 19:00:00,Milton Keynes,Dry Dog Food,8,58.06,Fish,464.48
+358,2025-02-02 12:00:00,Aylesbury,Bird Seed,6,76.56,Rodent,459.36
+359,2025-02-02 08:00:00,Milton Keynes,Dog Chew Toy,2,22.74,Dog,45.48
+360,2025-02-02 10:00:00,Buckingham,Rabbit Hutch,3,24.36,Fish,73.08
+361,2025-02-02 17:00:00,Milton Keynes,Hamster Wheel,2,52.69,Bird,105.38
+362,2025-02-02 14:00:00,Buckingham,Flea Shampoo,8,37.88,Bird,303.04
+363,2025-02-02 14:00:00,Milton Keynes,Dog Chew Toy,2,58.27,Rodent,116.54
+364,2025-02-02 08:00:00,Milton Keynes,Aquarium Filter,6,7.0,Fish,42.0
+365,2025-02-02 17:00:00,Milton Keynes,Rabbit Hutch,7,20.28,Dog,141.96
+366,2025-02-02 10:00:00,Milton Keynes,Dry Dog Food,6,45.33,Dog,271.98
+367,2025-02-03 09:00:00,Milton Keynes,Fish Flakes,1,53.57,Dog,53.57
+368,2025-02-03 15:00:00,Oxford,Bird Seed,6,40.45,Bird,242.70000000000002
+369,2025-02-03 13:00:00,Milton Keynes,Rabbit Hutch,8,51.37,Rodent,410.96
+370,2025-02-03 08:00:00,Aylesbury,Fish Flakes,8,27.25,Rodent,218.0
+371,2025-02-03 16:00:00,Oxford,Dog Chew Toy,2,77.05,Cat,154.1
+372,2025-02-03 13:00:00,Milton Keynes,Rabbit Hutch,6,20.76,Rodent,124.56
+373,2025-02-03 16:00:00,Buckingham,Fish Flakes,5,58.0,Bird,290.0
+374,2025-02-03 17:00:00,Aylesbury,Bird Seed,1,22.72,Dog,22.72
+375,2025-02-03 10:00:00,Buckingham,Dry Dog Food,3,38.56,Cat,115.68
+376,2025-02-03 20:00:00,Oxford,Dog Chew Toy,5,37.29,Fish,186.45
+377,2025-02-03 09:00:00,Milton Keynes,Flea Shampoo,7,38.45,Cat,269.15000000000003
+378,2025-02-03 16:00:00,Buckingham,Wet Cat Food,3,22.61,Fish,67.83
+379,2025-02-03 14:00:00,Milton Keynes,Cat Litter,3,48.39,Dog,145.17000000000002
+380,2025-02-03 18:00:00,Milton Keynes,Fish Flakes,5,76.05,Dog,380.25
+381,2025-02-03 20:00:00,Buckingham,Dry Dog Food,8,38.8,Bird,310.4
+382,2025-02-04 11:00:00,Aylesbury,Dry Dog Food,2,59.47,Bird,118.94
+383,2025-02-04 17:00:00,Buckingham,Rabbit Hutch,6,28.14,Bird,168.84
+384,2025-02-04 15:00:00,Milton Keynes,Dry Dog Food,2,55.19,Cat,110.38
+385,2025-02-04 09:00:00,Aylesbury,Hamster Wheel,8,48.55,Dog,388.4
+386,2025-02-04 10:00:00,Oxford,Flea Shampoo,1,76.52,Dog,76.52
+387,2025-02-04 13:00:00,Oxford,Wet Cat Food,1,50.53,Fish,50.53
+388,2025-02-05 12:00:00,Milton Keynes,Aquarium Filter,4,54.49,Rodent,217.96
+389,2025-02-05 15:00:00,Milton Keynes,Bird Seed,7,36.96,Rodent,258.72
+390,2025-02-05 10:00:00,Buckingham,Dry Dog Food,4,17.9,Bird,71.6
+391,2025-02-05 12:00:00,Milton Keynes,Dog Chew Toy,6,30.4,Fish,182.39999999999998
+392,2025-02-05 18:00:00,Aylesbury,Flea Shampoo,1,63.09,Rodent,63.09
+393,2025-02-05 09:00:00,Buckingham,Fish Flakes,2,8.84,Fish,17.68
+394,2025-02-05 19:00:00,Oxford,Wet Cat Food,2,71.0,Cat,142.0
+395,2025-02-06 08:00:00,Aylesbury,Hamster Wheel,6,77.52,Cat,465.12
+396,2025-02-06 09:00:00,Oxford,Fish Flakes,4,29.94,Fish,119.76
+397,2025-02-06 10:00:00,Oxford,Dog Chew Toy,4,50.89,Dog,203.56
+398,2025-02-06 09:00:00,Milton Keynes,Rabbit Hutch,3,49.85,Fish,149.55
+399,2025-02-06 18:00:00,Aylesbury,Bird Seed,4,28.17,Bird,112.68
+400,2025-02-06 16:00:00,Buckingham,Wet Cat Food,6,26.22,Bird,157.32
+401,2025-02-06 18:00:00,Oxford,Cat Litter,3,11.25,Cat,33.75
+402,2025-02-06 20:00:00,Buckingham,Dry Dog Food,4,69.54,Rodent,278.16
+403,2025-02-06 11:00:00,Buckingham,Aquarium Filter,3,14.69,Rodent,44.07
+404,2025-02-06 15:00:00,Aylesbury,Dog Chew Toy,1,19.1,Rodent,19.1
+405,2025-02-06 14:00:00,Oxford,Bird Seed,5,68.91,Dog,344.54999999999995
+406,2025-02-07 14:00:00,Milton Keynes,Wet Cat Food,1,60.43,Fish,60.43
+407,2025-02-07 11:00:00,Buckingham,Wet Cat Food,6,28.18,Rodent,169.07999999999998
+408,2025-02-07 15:00:00,Aylesbury,Fish Flakes,3,15.74,Dog,47.22
+409,2025-02-07 17:00:00,Aylesbury,Aquarium Filter,6,14.99,Bird,89.94
+410,2025-02-07 13:00:00,Buckingham,Cat Litter,4,15.29,Cat,61.16
+411,2025-02-07 18:00:00,Oxford,Hamster Wheel,1,11.44,Cat,11.44
+412,2025-02-07 11:00:00,Aylesbury,Dog Chew Toy,1,46.6,Dog,46.6
+413,2025-02-07 09:00:00,Buckingham,Aquarium Filter,6,55.67,Bird,334.02
+414,2025-02-07 16:00:00,Buckingham,Dog Chew Toy,2,77.48,Dog,154.96
+415,2025-02-07 15:00:00,Aylesbury,Wet Cat Food,4,7.25,Cat,29.0
+416,2025-02-07 20:00:00,Buckingham,Wet Cat Food,6,44.85,Bird,269.1
+417,2025-02-08 17:00:00,Aylesbury,Wet Cat Food,7,69.56,Fish,486.92
+418,2025-02-08 11:00:00,Oxford,Rabbit Hutch,6,9.73,Dog,58.38
+419,2025-02-08 19:00:00,Aylesbury,Bird Seed,5,77.95,Dog,389.75
+420,2025-02-08 19:00:00,Buckingham,Hamster Wheel,2,14.25,Dog,28.5
+421,2025-02-08 08:00:00,Milton Keynes,Dog Chew Toy,4,18.13,Rodent,72.52
+422,2025-02-08 11:00:00,Buckingham,Dry Dog Food,1,47.73,Dog,47.73
+423,2025-02-08 17:00:00,Milton Keynes,Flea Shampoo,1,78.57,Bird,78.57
+424,2025-02-08 16:00:00,Milton Keynes,Dry Dog Food,4,26.15,Dog,104.6
+425,2025-02-09 16:00:00,Aylesbury,Flea Shampoo,1,56.72,Rodent,56.72
+426,2025-02-09 15:00:00,Buckingham,Aquarium Filter,6,31.97,Cat,191.82
+427,2025-02-09 20:00:00,Oxford,Hamster Wheel,2,42.42,Dog,84.84
+428,2025-02-09 17:00:00,Oxford,Wet Cat Food,6,16.56,Rodent,99.35999999999999
+429,2025-02-09 17:00:00,Milton Keynes,Cat Litter,3,53.52,Cat,160.56
+430,2025-02-09 15:00:00,Oxford,Cat Litter,1,48.73,Fish,48.73
+431,2025-02-09 11:00:00,Oxford,Bird Seed,1,34.3,Bird,34.3
+432,2025-02-09 12:00:00,Milton Keynes,Rabbit Hutch,3,76.44,Dog,229.32
+433,2025-02-09 13:00:00,Oxford,Rabbit Hutch,7,51.54,Rodent,360.78
+434,2025-02-09 12:00:00,Buckingham,Dog Chew Toy,7,45.91,Cat,321.37
+435,2025-02-10 13:00:00,Milton Keynes,Dog Chew Toy,6,70.37,Rodent,422.22
+436,2025-02-10 10:00:00,Milton Keynes,Wet Cat Food,8,52.09,Cat,416.72
+437,2025-02-10 18:00:00,Buckingham,Hamster Wheel,8,53.76,Dog,430.08
+438,2025-02-10 11:00:00,Oxford,Cat Litter,2,33.68,Dog,67.36
+439,2025-02-10 18:00:00,Oxford,Dog Chew Toy,2,25.26,Rodent,50.52
+440,2025-02-10 17:00:00,Milton Keynes,Fish Flakes,2,52.7,Cat,105.4
+441,2025-02-10 14:00:00,Oxford,Wet Cat Food,1,11.48,Bird,11.48
+442,2025-02-10 20:00:00,Aylesbury,Wet Cat Food,8,46.38,Cat,371.04
+443,2025-02-10 08:00:00,Aylesbury,Rabbit Hutch,6,35.84,Bird,215.04000000000002
+444,2025-02-10 09:00:00,Oxford,Dry Dog Food,7,12.68,Cat,88.75999999999999
+445,2025-02-10 15:00:00,Milton Keynes,Dog Chew Toy,7,55.88,Rodent,391.16
+446,2025-02-10 17:00:00,Buckingham,Bird Seed,4,65.12,Rodent,260.48
+447,2025-02-11 12:00:00,Aylesbury,Dry Dog Food,7,59.66,Bird,417.62
+448,2025-02-11 11:00:00,Oxford,Fish Flakes,7,6.33,Fish,44.31
+449,2025-02-11 11:00:00,Oxford,Fish Flakes,1,29.39,Cat,29.39
+450,2025-02-11 17:00:00,Buckingham,Hamster Wheel,6,38.65,Bird,231.89999999999998
+451,2025-02-11 13:00:00,Oxford,Rabbit Hutch,3,7.92,Fish,23.759999999999998
+452,2025-02-11 13:00:00,Oxford,Flea Shampoo,3,72.89,Fish,218.67000000000002
+453,2025-02-11 08:00:00,Milton Keynes,Bird Seed,1,70.64,Dog,70.64
+454,2025-02-11 16:00:00,Aylesbury,Bird Seed,7,72.47,Bird,507.28999999999996
+455,2025-02-11 08:00:00,Aylesbury,Rabbit Hutch,5,43.31,Dog,216.55
+456,2025-02-12 13:00:00,Aylesbury,Bird Seed,5,6.37,Rodent,31.85
+457,2025-02-12 16:00:00,Milton Keynes,Cat Litter,7,47.18,Bird,330.26
+458,2025-02-12 14:00:00,Buckingham,Dry Dog Food,6,51.95,Cat,311.70000000000005
+459,2025-02-12 18:00:00,Buckingham,Dry Dog Food,3,23.09,Bird,69.27
+460,2025-02-12 08:00:00,Aylesbury,Wet Cat Food,8,69.61,Cat,556.88
+461,2025-02-12 15:00:00,Oxford,Rabbit Hutch,7,16.51,Dog,115.57000000000001
+462,2025-02-12 17:00:00,Aylesbury,Hamster Wheel,3,22.34,Fish,67.02
+463,2025-02-12 11:00:00,Milton Keynes,Bird Seed,5,74.9,Cat,374.5
+464,2025-02-12 13:00:00,Aylesbury,Cat Litter,8,63.43,Bird,507.44
+465,2025-02-12 17:00:00,Milton Keynes,Rabbit Hutch,8,48.15,Rodent,385.2
+466,2025-02-12 11:00:00,Milton Keynes,Aquarium Filter,7,70.35,Fish,492.44999999999993
+467,2025-02-12 09:00:00,Milton Keynes,Flea Shampoo,6,42.16,Dog,252.95999999999998
+468,2025-02-12 10:00:00,Milton Keynes,Dry Dog Food,2,59.12,Dog,118.24
+469,2025-02-12 19:00:00,Aylesbury,Aquarium Filter,5,58.21,Bird,291.05
+470,2025-02-12 18:00:00,Oxford,Bird Seed,3,53.81,Bird,161.43
+471,2025-02-13 16:00:00,Oxford,Wet Cat Food,8,28.87,Fish,230.96
+472,2025-02-13 12:00:00,Oxford,Wet Cat Food,5,40.85,Bird,204.25
+473,2025-02-13 16:00:00,Buckingham,Fish Flakes,1,16.6,Cat,16.6
+474,2025-02-13 14:00:00,Aylesbury,Hamster Wheel,6,74.76,Dog,448.56000000000006
+475,2025-02-13 10:00:00,Buckingham,Fish Flakes,8,36.35,Cat,290.8
+476,2025-02-13 18:00:00,Milton Keynes,Dry Dog Food,4,35.33,Dog,141.32
+477,2025-02-13 13:00:00,Aylesbury,Dry Dog Food,5,24.49,Cat,122.44999999999999
+478,2025-02-13 16:00:00,Buckingham,Fish Flakes,1,21.47,Bird,21.47
+479,2025-02-13 10:00:00,Aylesbury,Dog Chew Toy,3,68.3,Bird,204.89999999999998
+480,2025-02-14 10:00:00,Aylesbury,Hamster Wheel,8,36.93,Dog,295.44
+481,2025-02-14 18:00:00,Oxford,Hamster Wheel,1,14.75,Rodent,14.75
+482,2025-02-14 10:00:00,Buckingham,Wet Cat Food,6,72.68,Rodent,436.08000000000004
+483,2025-02-14 20:00:00,Aylesbury,Dog Chew Toy,2,45.07,Fish,90.14
+484,2025-02-14 15:00:00,Buckingham,Dog Chew Toy,2,11.47,Dog,22.94
+485,2025-02-14 20:00:00,Aylesbury,Dry Dog Food,5,29.69,Dog,148.45000000000002
+486,2025-02-14 15:00:00,Oxford,Dog Chew Toy,4,16.15,Dog,64.6
+487,2025-02-14 10:00:00,Aylesbury,Bird Seed,8,44.07,Rodent,352.56
+488,2025-02-14 20:00:00,Oxford,Wet Cat Food,3,41.34,Bird,124.02000000000001
+489,2025-02-14 18:00:00,Milton Keynes,Bird Seed,2,23.5,Dog,47.0
+490,2025-02-15 17:00:00,Aylesbury,Flea Shampoo,8,30.01,Bird,240.08
+491,2025-02-15 19:00:00,Aylesbury,Cat Litter,3,52.97,Bird,158.91
+492,2025-02-15 20:00:00,Buckingham,Rabbit Hutch,7,27.65,Dog,193.54999999999998
+493,2025-02-15 20:00:00,Buckingham,Bird Seed,1,20.19,Cat,20.19
+494,2025-02-15 15:00:00,Milton Keynes,Fish Flakes,4,16.86,Cat,67.44
+495,2025-02-15 19:00:00,Oxford,Dry Dog Food,7,45.57,Cat,318.99
+496,2025-02-15 15:00:00,Aylesbury,Cat Litter,2,66.49,Dog,132.98
+497,2025-02-15 15:00:00,Milton Keynes,Dry Dog Food,6,54.57,Rodent,327.42
+498,2025-02-16 15:00:00,Oxford,Fish Flakes,5,21.4,Cat,107.0
+499,2025-02-16 09:00:00,Aylesbury,Hamster Wheel,8,11.92,Bird,95.36
+500,2025-02-16 12:00:00,Milton Keynes,Cat Litter,4,27.44,Cat,109.76
+501,2025-02-16 17:00:00,Aylesbury,Aquarium Filter,4,68.48,Dog,273.92
+502,2025-02-16 08:00:00,Aylesbury,Dog Chew Toy,7,44.48,Bird,311.35999999999996
+503,2025-02-16 14:00:00,Oxford,Hamster Wheel,8,20.07,Bird,160.56
+504,2025-02-16 09:00:00,Aylesbury,Cat Litter,3,30.61,Dog,91.83
+505,2025-02-16 17:00:00,Milton Keynes,Flea Shampoo,3,6.0,Bird,18.0
+506,2025-02-16 18:00:00,Milton Keynes,Hamster Wheel,2,16.12,Fish,32.24
+507,2025-02-16 08:00:00,Aylesbury,Aquarium Filter,1,9.03,Fish,9.03
+508,2025-02-16 19:00:00,Aylesbury,Flea Shampoo,5,34.87,Bird,174.35
+509,2025-02-16 11:00:00,Oxford,Flea Shampoo,1,74.97,Dog,74.97
+510,2025-02-16 20:00:00,Buckingham,Rabbit Hutch,8,22.11,Fish,176.88
+511,2025-02-16 13:00:00,Milton Keynes,Wet Cat Food,7,5.74,Rodent,40.18
+512,2025-02-17 09:00:00,Oxford,Fish Flakes,4,17.14,Fish,68.56
+513,2025-02-17 15:00:00,Oxford,Flea Shampoo,5,11.63,Bird,58.150000000000006
+514,2025-02-17 09:00:00,Milton Keynes,Fish Flakes,8,61.76,Fish,494.08
+515,2025-02-17 09:00:00,Oxford,Dry Dog Food,4,65.44,Bird,261.76
+516,2025-02-17 14:00:00,Oxford,Flea Shampoo,2,47.9,Cat,95.8
+517,2025-02-17 16:00:00,Milton Keynes,Dry Dog Food,5,13.35,Rodent,66.75
+518,2025-02-17 13:00:00,Aylesbury,Hamster Wheel,4,43.9,Fish,175.6
+519,2025-02-17 14:00:00,Buckingham,Fish Flakes,8,54.53,Bird,436.24
+520,2025-02-17 10:00:00,Buckingham,Flea Shampoo,8,6.65,Dog,53.2
+521,2025-02-17 11:00:00,Milton Keynes,Bird Seed,5,77.31,Fish,386.55
+522,2025-02-17 12:00:00,Oxford,Hamster Wheel,8,29.63,Rodent,237.04
+523,2025-02-17 11:00:00,Aylesbury,Flea Shampoo,5,69.1,Cat,345.5
+524,2025-02-17 08:00:00,Buckingham,Wet Cat Food,6,27.52,Fish,165.12
+525,2025-02-17 16:00:00,Aylesbury,Fish Flakes,5,75.86,Rodent,379.3
+526,2025-02-18 12:00:00,Buckingham,Dry Dog Food,2,8.09,Bird,16.18
+527,2025-02-18 10:00:00,Aylesbury,Rabbit Hutch,8,43.34,Bird,346.72
+528,2025-02-18 14:00:00,Buckingham,Wet Cat Food,1,79.17,Dog,79.17
+529,2025-02-18 09:00:00,Milton Keynes,Aquarium Filter,1,43.57,Bird,43.57
+530,2025-02-18 19:00:00,Buckingham,Aquarium Filter,3,69.72,Cat,209.16
+531,2025-02-18 15:00:00,Oxford,Aquarium Filter,3,60.6,Bird,181.8
+532,2025-02-18 19:00:00,Aylesbury,Rabbit Hutch,7,31.46,Rodent,220.22
+533,2025-02-18 08:00:00,Milton Keynes,Flea Shampoo,7,45.8,Dog,320.59999999999997
+534,2025-02-18 18:00:00,Aylesbury,Flea Shampoo,4,37.11,Rodent,148.44
+535,2025-02-18 10:00:00,Oxford,Rabbit Hutch,1,27.22,Dog,27.22
+536,2025-02-18 12:00:00,Milton Keynes,Cat Litter,8,40.86,Dog,326.88
+537,2025-02-18 13:00:00,Aylesbury,Cat Litter,8,57.27,Dog,458.16
+538,2025-02-18 15:00:00,Oxford,Bird Seed,6,51.92,Dog,311.52
+539,2025-02-19 14:00:00,Buckingham,Fish Flakes,6,34.68,Dog,208.07999999999998
+540,2025-02-19 17:00:00,Buckingham,Hamster Wheel,4,42.42,Rodent,169.68
+541,2025-02-19 19:00:00,Buckingham,Flea Shampoo,8,34.26,Dog,274.08
+542,2025-02-19 11:00:00,Aylesbury,Hamster Wheel,2,77.49,Fish,154.98
+543,2025-02-19 10:00:00,Milton Keynes,Cat Litter,5,18.6,Cat,93.0
+544,2025-02-19 20:00:00,Buckingham,Dog Chew Toy,2,26.12,Bird,52.24
+545,2025-02-19 18:00:00,Milton Keynes,Bird Seed,1,72.09,Cat,72.09
+546,2025-02-19 20:00:00,Buckingham,Hamster Wheel,2,75.8,Fish,151.6
+547,2025-02-20 19:00:00,Aylesbury,Wet Cat Food,5,40.92,Rodent,204.60000000000002
+548,2025-02-20 09:00:00,Buckingham,Dog Chew Toy,3,65.09,Rodent,195.27
+549,2025-02-20 11:00:00,Oxford,Fish Flakes,4,21.42,Fish,85.68
+550,2025-02-20 20:00:00,Milton Keynes,Aquarium Filter,1,56.74,Cat,56.74
+551,2025-02-20 10:00:00,Aylesbury,Cat Litter,4,62.35,Bird,249.4
+552,2025-02-20 18:00:00,Aylesbury,Dry Dog Food,5,54.86,Cat,274.3
+553,2025-02-20 19:00:00,Milton Keynes,Flea Shampoo,4,53.72,Rodent,214.88
+554,2025-02-20 17:00:00,Oxford,Wet Cat Food,4,38.8,Bird,155.2
+555,2025-02-21 08:00:00,Oxford,Hamster Wheel,4,57.59,Cat,230.36
+556,2025-02-21 09:00:00,Aylesbury,Hamster Wheel,4,47.75,Cat,191.0
+557,2025-02-21 16:00:00,Milton Keynes,Dry Dog Food,1,8.11,Cat,8.11
+558,2025-02-21 08:00:00,Milton Keynes,Wet Cat Food,3,19.67,Fish,59.010000000000005
+559,2025-02-21 19:00:00,Oxford,Flea Shampoo,6,20.57,Fish,123.42
+560,2025-02-21 08:00:00,Oxford,Bird Seed,3,71.11,Dog,213.32999999999998
+561,2025-02-22 12:00:00,Oxford,Hamster Wheel,1,42.97,Bird,42.97
+562,2025-02-22 15:00:00,Milton Keynes,Bird Seed,4,70.96,Dog,283.84
+563,2025-02-22 10:00:00,Oxford,Wet Cat Food,7,6.95,Fish,48.65
+564,2025-02-22 20:00:00,Buckingham,Rabbit Hutch,1,41.09,Fish,41.09
+565,2025-02-22 17:00:00,Oxford,Fish Flakes,4,24.88,Cat,99.52
+566,2025-02-22 20:00:00,Milton Keynes,Fish Flakes,2,61.19,Bird,122.38
+567,2025-02-22 15:00:00,Aylesbury,Cat Litter,1,12.08,Fish,12.08
+568,2025-02-22 08:00:00,Aylesbury,Dog Chew Toy,5,6.29,Bird,31.45
+569,2025-02-22 10:00:00,Buckingham,Dry Dog Food,8,14.52,Bird,116.16
+570,2025-02-22 15:00:00,Buckingham,Bird Seed,6,77.83,Bird,466.98
+571,2025-02-22 17:00:00,Milton Keynes,Bird Seed,7,23.23,Dog,162.61
+572,2025-02-22 20:00:00,Oxford,Dry Dog Food,1,39.17,Dog,39.17
+573,2025-02-22 12:00:00,Milton Keynes,Cat Litter,5,74.41,Fish,372.04999999999995
+574,2025-02-22 13:00:00,Milton Keynes,Hamster Wheel,3,57.82,Bird,173.46
+575,2025-02-22 19:00:00,Milton Keynes,Hamster Wheel,4,8.67,Cat,34.68
+576,2025-02-23 14:00:00,Buckingham,Hamster Wheel,7,63.29,Fish,443.03
+577,2025-02-23 16:00:00,Buckingham,Bird Seed,5,72.1,Fish,360.5
+578,2025-02-23 18:00:00,Oxford,Dog Chew Toy,7,19.02,Cat,133.14
+579,2025-02-23 19:00:00,Buckingham,Dry Dog Food,4,63.27,Rodent,253.08
+580,2025-02-23 20:00:00,Aylesbury,Cat Litter,1,5.13,Bird,5.13
+581,2025-02-23 18:00:00,Oxford,Fish Flakes,4,17.4,Dog,69.6
+582,2025-02-23 18:00:00,Buckingham,Dog Chew Toy,6,70.16,Dog,420.96
+583,2025-02-23 14:00:00,Milton Keynes,Bird Seed,5,55.56,Rodent,277.8
+584,2025-02-23 14:00:00,Milton Keynes,Fish Flakes,7,23.24,Bird,162.67999999999998
+585,2025-02-23 08:00:00,Aylesbury,Cat Litter,4,16.19,Rodent,64.76
+586,2025-02-23 19:00:00,Aylesbury,Cat Litter,8,54.44,Dog,435.52
+587,2025-02-24 09:00:00,Aylesbury,Cat Litter,1,44.73,Fish,44.73
+588,2025-02-24 16:00:00,Buckingham,Flea Shampoo,4,7.28,Bird,29.12
+589,2025-02-24 13:00:00,Buckingham,Fish Flakes,1,5.22,Cat,5.22
+590,2025-02-24 18:00:00,Oxford,Rabbit Hutch,8,69.46,Dog,555.68
+591,2025-02-24 09:00:00,Buckingham,Aquarium Filter,3,79.05,Rodent,237.14999999999998
+592,2025-02-25 18:00:00,Milton Keynes,Bird Seed,3,32.34,Bird,97.02000000000001
+593,2025-02-25 12:00:00,Buckingham,Cat Litter,1,22.35,Fish,22.35
+594,2025-02-25 10:00:00,Buckingham,Dry Dog Food,6,49.95,Fish,299.70000000000005
+595,2025-02-25 20:00:00,Milton Keynes,Dog Chew Toy,1,31.26,Bird,31.26
+596,2025-02-25 16:00:00,Milton Keynes,Bird Seed,6,7.03,Fish,42.18
+597,2025-02-25 16:00:00,Aylesbury,Fish Flakes,5,66.79,Fish,333.95000000000005
+598,2025-02-25 15:00:00,Buckingham,Flea Shampoo,4,73.19,Bird,292.76
+599,2025-02-26 14:00:00,Oxford,Fish Flakes,1,11.85,Dog,11.85
+600,2025-02-26 10:00:00,Milton Keynes,Hamster Wheel,8,14.34,Bird,114.72
+601,2025-02-26 19:00:00,Aylesbury,Fish Flakes,7,40.36,Bird,282.52
+602,2025-02-26 13:00:00,Oxford,Dog Chew Toy,4,52.08,Dog,208.32
+603,2025-02-26 11:00:00,Aylesbury,Dog Chew Toy,2,37.93,Cat,75.86
+604,2025-02-26 14:00:00,Aylesbury,Flea Shampoo,6,12.48,Cat,74.88
+605,2025-02-26 19:00:00,Buckingham,Dog Chew Toy,7,57.45,Bird,402.15000000000003
+606,2025-02-26 16:00:00,Oxford,Hamster Wheel,5,21.97,Cat,109.85
+607,2025-02-26 16:00:00,Milton Keynes,Hamster Wheel,4,18.23,Cat,72.92
+608,2025-02-26 11:00:00,Aylesbury,Bird Seed,4,26.22,Dog,104.88
+609,2025-02-26 11:00:00,Aylesbury,Aquarium Filter,5,46.66,Cat,233.29999999999998
+610,2025-02-26 18:00:00,Buckingham,Flea Shampoo,8,59.62,Dog,476.96
+611,2025-02-26 16:00:00,Milton Keynes,Bird Seed,2,30.27,Fish,60.54
+612,2025-02-26 17:00:00,Milton Keynes,Dry Dog Food,2,25.02,Cat,50.04
+613,2025-02-26 09:00:00,Aylesbury,Dry Dog Food,4,47.57,Rodent,190.28
+614,2025-02-27 11:00:00,Milton Keynes,Bird Seed,1,70.75,Cat,70.75
+615,2025-02-27 18:00:00,Buckingham,Hamster Wheel,8,38.79,Cat,310.32
+616,2025-02-27 19:00:00,Buckingham,Rabbit Hutch,8,59.51,Bird,476.08
+617,2025-02-27 12:00:00,Buckingham,Rabbit Hutch,7,49.93,Cat,349.51
+618,2025-02-27 11:00:00,Oxford,Fish Flakes,6,55.76,Bird,334.56
+619,2025-02-27 10:00:00,Oxford,Flea Shampoo,6,61.38,Dog,368.28000000000003
+620,2025-02-27 18:00:00,Aylesbury,Fish Flakes,4,68.6,Dog,274.4
+621,2025-02-27 13:00:00,Buckingham,Dry Dog Food,2,40.36,Rodent,80.72
+622,2025-02-27 09:00:00,Oxford,Cat Litter,8,44.48,Cat,355.84
+623,2025-02-27 08:00:00,Aylesbury,Fish Flakes,2,48.02,Rodent,96.04
+624,2025-02-27 18:00:00,Aylesbury,Flea Shampoo,7,25.77,Dog,180.39
+625,2025-02-28 12:00:00,Buckingham,Cat Litter,7,58.31,Fish,408.17
+626,2025-02-28 18:00:00,Oxford,Wet Cat Food,7,44.12,Rodent,308.84
+627,2025-02-28 09:00:00,Milton Keynes,Dry Dog Food,7,59.21,Dog,414.47
+628,2025-02-28 15:00:00,Aylesbury,Cat Litter,4,7.02,Fish,28.08
+629,2025-02-28 17:00:00,Oxford,Aquarium Filter,8,56.86,Dog,454.88
+630,2025-02-28 12:00:00,Oxford,Dry Dog Food,5,66.68,Rodent,333.40000000000003
+631,2025-02-28 16:00:00,Buckingham,Fish Flakes,2,8.26,Bird,16.52
+632,2025-02-28 11:00:00,Milton Keynes,Flea Shampoo,3,8.22,Cat,24.660000000000004
+633,2025-02-28 11:00:00,Milton Keynes,Wet Cat Food,2,26.45,Cat,52.9
+634,2025-03-01 12:00:00,Buckingham,Bird Seed,6,43.19,Rodent,259.14
+635,2025-03-01 14:00:00,Buckingham,Bird Seed,5,25.23,Fish,126.15
+636,2025-03-01 17:00:00,Oxford,Bird Seed,2,38.65,Rodent,77.3
+637,2025-03-01 19:00:00,Aylesbury,Aquarium Filter,2,13.31,Fish,26.62
+638,2025-03-01 20:00:00,Aylesbury,Cat Litter,6,17.27,Dog,103.62
+639,2025-03-01 09:00:00,Aylesbury,Dry Dog Food,8,66.98,Dog,535.84
+640,2025-03-01 12:00:00,Milton Keynes,Rabbit Hutch,7,68.08,Cat,476.56
+641,2025-03-01 13:00:00,Oxford,Flea Shampoo,6,79.45,Cat,476.70000000000005
+642,2025-03-01 10:00:00,Milton Keynes,Cat Litter,1,45.87,Dog,45.87
+643,2025-03-01 15:00:00,Milton Keynes,Rabbit Hutch,3,21.7,Bird,65.1
+644,2025-03-01 11:00:00,Aylesbury,Aquarium Filter,1,35.68,Bird,35.68
+645,2025-03-01 08:00:00,Milton Keynes,Dog Chew Toy,3,26.37,Fish,79.11
+646,2025-03-02 15:00:00,Aylesbury,Bird Seed,7,76.05,Cat,532.35
+647,2025-03-02 09:00:00,Oxford,Rabbit Hutch,6,23.54,Bird,141.24
+648,2025-03-02 17:00:00,Buckingham,Fish Flakes,8,45.09,Rodent,360.72
+649,2025-03-02 08:00:00,Oxford,Flea Shampoo,4,73.11,Rodent,292.44
+650,2025-03-02 16:00:00,Oxford,Dog Chew Toy,6,49.97,Rodent,299.82
+651,2025-03-02 19:00:00,Buckingham,Cat Litter,7,70.73,Dog,495.11
+652,2025-03-02 13:00:00,Aylesbury,Hamster Wheel,4,68.99,Dog,275.96
+653,2025-03-02 14:00:00,Milton Keynes,Dog Chew Toy,1,15.76,Cat,15.76
+654,2025-03-02 19:00:00,Oxford,Hamster Wheel,4,68.37,Dog,273.48
+655,2025-03-02 13:00:00,Aylesbury,Dog Chew Toy,1,26.8,Bird,26.8
+656,2025-03-03 15:00:00,Buckingham,Dog Chew Toy,3,36.87,Dog,110.60999999999999
+657,2025-03-03 12:00:00,Aylesbury,Fish Flakes,5,39.04,Fish,195.2
+658,2025-03-03 11:00:00,Oxford,Cat Litter,4,34.88,Rodent,139.52
+659,2025-03-03 15:00:00,Milton Keynes,Wet Cat Food,3,27.77,Rodent,83.31
+660,2025-03-03 09:00:00,Aylesbury,Cat Litter,8,37.68,Bird,301.44
+661,2025-03-03 09:00:00,Milton Keynes,Dog Chew Toy,4,62.52,Fish,250.08
+662,2025-03-03 09:00:00,Buckingham,Aquarium Filter,2,37.6,Rodent,75.2
+663,2025-03-03 16:00:00,Oxford,Bird Seed,6,51.29,Dog,307.74
+664,2025-03-04 18:00:00,Buckingham,Aquarium Filter,8,64.83,Cat,518.64
+665,2025-03-04 11:00:00,Aylesbury,Rabbit Hutch,7,18.09,Bird,126.63
+666,2025-03-04 17:00:00,Milton Keynes,Hamster Wheel,3,46.95,Fish,140.85000000000002
+667,2025-03-04 08:00:00,Oxford,Dry Dog Food,1,48.33,Rodent,48.33
+668,2025-03-04 08:00:00,Oxford,Fish Flakes,4,68.71,Dog,274.84
+669,2025-03-04 17:00:00,Oxford,Rabbit Hutch,1,28.36,Cat,28.36
+670,2025-03-04 10:00:00,Buckingham,Wet Cat Food,2,70.93,Rodent,141.86
+671,2025-03-04 11:00:00,Buckingham,Rabbit Hutch,6,21.28,Cat,127.68
+672,2025-03-04 14:00:00,Oxford,Dog Chew Toy,7,38.38,Bird,268.66
+673,2025-03-04 12:00:00,Buckingham,Fish Flakes,6,55.55,Bird,333.29999999999995
+674,2025-03-04 17:00:00,Buckingham,Dog Chew Toy,7,42.37,Dog,296.59
+675,2025-03-05 20:00:00,Buckingham,Wet Cat Food,8,30.91,Fish,247.28
+676,2025-03-05 19:00:00,Milton Keynes,Aquarium Filter,3,35.47,Dog,106.41
+677,2025-03-05 16:00:00,Oxford,Bird Seed,3,36.62,Dog,109.85999999999999
+678,2025-03-05 09:00:00,Oxford,Fish Flakes,2,33.27,Bird,66.54
+679,2025-03-05 19:00:00,Oxford,Dog Chew Toy,2,21.01,Fish,42.02
+680,2025-03-05 10:00:00,Oxford,Aquarium Filter,6,50.93,Rodent,305.58
+681,2025-03-05 13:00:00,Oxford,Bird Seed,6,43.54,Dog,261.24
+682,2025-03-06 19:00:00,Aylesbury,Cat Litter,4,33.94,Dog,135.76
+683,2025-03-06 14:00:00,Buckingham,Hamster Wheel,6,69.28,Bird,415.68
+684,2025-03-06 11:00:00,Milton Keynes,Rabbit Hutch,8,50.92,Bird,407.36
+685,2025-03-06 09:00:00,Buckingham,Flea Shampoo,7,64.35,Rodent,450.44999999999993
+686,2025-03-06 17:00:00,Aylesbury,Hamster Wheel,2,78.9,Bird,157.8
+687,2025-03-06 20:00:00,Aylesbury,Wet Cat Food,8,59.06,Bird,472.48
+688,2025-03-06 18:00:00,Buckingham,Dry Dog Food,5,44.05,Cat,220.25
+689,2025-03-07 08:00:00,Oxford,Fish Flakes,6,53.87,Bird,323.21999999999997
+690,2025-03-07 18:00:00,Aylesbury,Rabbit Hutch,8,60.92,Dog,487.36
+691,2025-03-07 15:00:00,Buckingham,Aquarium Filter,8,54.05,Fish,432.4
+692,2025-03-07 20:00:00,Aylesbury,Dog Chew Toy,5,61.47,Fish,307.35
+693,2025-03-07 16:00:00,Oxford,Wet Cat Food,8,46.93,Fish,375.44
+694,2025-03-07 20:00:00,Buckingham,Aquarium Filter,5,53.43,Fish,267.15
+695,2025-03-07 19:00:00,Aylesbury,Fish Flakes,5,34.74,Dog,173.70000000000002
+696,2025-03-07 10:00:00,Milton Keynes,Dry Dog Food,5,61.18,Dog,305.9
+697,2025-03-08 14:00:00,Buckingham,Aquarium Filter,5,22.4,Cat,112.0
+698,2025-03-08 13:00:00,Milton Keynes,Wet Cat Food,1,6.87,Bird,6.87
+699,2025-03-08 20:00:00,Milton Keynes,Rabbit Hutch,6,50.41,Rodent,302.46
+700,2025-03-08 14:00:00,Buckingham,Rabbit Hutch,8,62.46,Rodent,499.68
+701,2025-03-08 10:00:00,Milton Keynes,Dog Chew Toy,5,54.54,Rodent,272.7
+702,2025-03-08 12:00:00,Buckingham,Dry Dog Food,2,46.79,Fish,93.58
+703,2025-03-08 14:00:00,Aylesbury,Hamster Wheel,6,25.15,Dog,150.89999999999998
+704,2025-03-09 20:00:00,Milton Keynes,Cat Litter,1,17.03,Bird,17.03
+705,2025-03-09 19:00:00,Aylesbury,Bird Seed,5,45.61,Fish,228.05
+706,2025-03-09 10:00:00,Buckingham,Hamster Wheel,4,14.71,Fish,58.84
+707,2025-03-09 17:00:00,Milton Keynes,Flea Shampoo,1,8.14,Rodent,8.14
+708,2025-03-09 15:00:00,Buckingham,Bird Seed,2,78.34,Bird,156.68
+709,2025-03-09 14:00:00,Oxford,Rabbit Hutch,1,19.43,Cat,19.43
+710,2025-03-10 17:00:00,Buckingham,Cat Litter,8,76.09,Fish,608.72
+711,2025-03-10 20:00:00,Milton Keynes,Dog Chew Toy,8,5.61,Cat,44.88
+712,2025-03-10 11:00:00,Oxford,Dog Chew Toy,7,15.18,Cat,106.25999999999999
+713,2025-03-10 19:00:00,Oxford,Flea Shampoo,4,11.75,Rodent,47.0
+714,2025-03-10 20:00:00,Buckingham,Bird Seed,5,29.37,Dog,146.85
+715,2025-03-10 20:00:00,Milton Keynes,Wet Cat Food,4,47.23,Cat,188.92
+716,2025-03-10 14:00:00,Buckingham,Bird Seed,1,12.38,Rodent,12.38
+717,2025-03-10 13:00:00,Buckingham,Rabbit Hutch,3,16.74,Dog,50.22
+718,2025-03-10 10:00:00,Oxford,Flea Shampoo,8,16.01,Dog,128.08
+719,2025-03-10 13:00:00,Oxford,Bird Seed,5,51.7,Dog,258.5
+720,2025-03-10 14:00:00,Milton Keynes,Dry Dog Food,2,46.34,Rodent,92.68
+721,2025-03-10 10:00:00,Milton Keynes,Dry Dog Food,6,43.83,Dog,262.98
+722,2025-03-10 08:00:00,Buckingham,Rabbit Hutch,1,55.28,Dog,55.28
+723,2025-03-11 11:00:00,Oxford,Bird Seed,7,41.13,Bird,287.91
+724,2025-03-11 20:00:00,Oxford,Wet Cat Food,2,25.24,Fish,50.48
+725,2025-03-11 10:00:00,Milton Keynes,Aquarium Filter,2,58.51,Dog,117.02
+726,2025-03-11 18:00:00,Aylesbury,Hamster Wheel,4,19.52,Rodent,78.08
+727,2025-03-11 14:00:00,Milton Keynes,Dry Dog Food,1,63.0,Bird,63.0
+728,2025-03-11 08:00:00,Buckingham,Flea Shampoo,6,39.44,Dog,236.64
+729,2025-03-11 16:00:00,Milton Keynes,Bird Seed,8,70.78,Rodent,566.24
+730,2025-03-11 11:00:00,Aylesbury,Flea Shampoo,8,25.47,Bird,203.76
+731,2025-03-11 13:00:00,Buckingham,Hamster Wheel,4,11.28,Rodent,45.12
+732,2025-03-11 20:00:00,Buckingham,Flea Shampoo,7,12.35,Rodent,86.45
+733,2025-03-11 20:00:00,Aylesbury,Rabbit Hutch,1,64.13,Fish,64.13
+734,2025-03-11 20:00:00,Aylesbury,Dry Dog Food,5,48.73,Dog,243.64999999999998
+735,2025-03-11 15:00:00,Buckingham,Dry Dog Food,1,47.96,Dog,47.96
+736,2025-03-11 13:00:00,Oxford,Wet Cat Food,2,61.7,Bird,123.4
+737,2025-03-12 16:00:00,Oxford,Flea Shampoo,5,65.17,Rodent,325.85
+738,2025-03-12 11:00:00,Oxford,Rabbit Hutch,8,23.72,Bird,189.76
+739,2025-03-12 11:00:00,Milton Keynes,Hamster Wheel,2,75.7,Rodent,151.4
+740,2025-03-12 12:00:00,Milton Keynes,Rabbit Hutch,7,56.85,Dog,397.95
+741,2025-03-12 16:00:00,Milton Keynes,Rabbit Hutch,2,38.68,Cat,77.36
+742,2025-03-12 15:00:00,Oxford,Fish Flakes,4,75.28,Dog,301.12
+743,2025-03-12 08:00:00,Aylesbury,Cat Litter,6,21.24,Cat,127.44
+744,2025-03-12 18:00:00,Buckingham,Wet Cat Food,5,26.88,Dog,134.4
+745,2025-03-12 09:00:00,Milton Keynes,Wet Cat Food,4,48.59,Rodent,194.36
+746,2025-03-12 13:00:00,Buckingham,Bird Seed,7,20.6,Bird,144.20000000000002
+747,2025-03-12 19:00:00,Milton Keynes,Hamster Wheel,1,11.41,Fish,11.41
+748,2025-03-12 10:00:00,Aylesbury,Cat Litter,2,44.76,Dog,89.52
+749,2025-03-12 14:00:00,Milton Keynes,Dry Dog Food,8,76.52,Bird,612.16
+750,2025-03-13 20:00:00,Buckingham,Dog Chew Toy,4,64.74,Cat,258.96
+751,2025-03-13 13:00:00,Aylesbury,Bird Seed,2,58.4,Dog,116.8
+752,2025-03-13 16:00:00,Aylesbury,Fish Flakes,3,61.12,Dog,183.35999999999999
+753,2025-03-13 09:00:00,Milton Keynes,Hamster Wheel,2,53.54,Dog,107.08
+754,2025-03-13 20:00:00,Aylesbury,Hamster Wheel,2,79.35,Dog,158.7
+755,2025-03-13 14:00:00,Oxford,Bird Seed,5,48.6,Rodent,243.0
+756,2025-03-13 11:00:00,Milton Keynes,Flea Shampoo,8,30.56,Dog,244.48
+757,2025-03-13 19:00:00,Milton Keynes,Cat Litter,6,11.34,Dog,68.03999999999999
+758,2025-03-13 19:00:00,Aylesbury,Aquarium Filter,1,79.49,Rodent,79.49
+759,2025-03-13 16:00:00,Aylesbury,Flea Shampoo,2,56.74,Bird,113.48
+760,2025-03-13 08:00:00,Oxford,Hamster Wheel,1,48.43,Rodent,48.43
+761,2025-03-13 19:00:00,Aylesbury,Flea Shampoo,7,9.41,Bird,65.87
+762,2025-03-13 20:00:00,Aylesbury,Flea Shampoo,1,11.15,Dog,11.15
+763,2025-03-13 11:00:00,Buckingham,Fish Flakes,6,30.87,Bird,185.22
+764,2025-03-13 20:00:00,Buckingham,Hamster Wheel,6,61.4,Dog,368.4
+765,2025-03-14 18:00:00,Buckingham,Flea Shampoo,6,20.04,Bird,120.24
+766,2025-03-14 19:00:00,Oxford,Aquarium Filter,2,15.49,Cat,30.98
+767,2025-03-14 15:00:00,Milton Keynes,Dog Chew Toy,5,53.21,Bird,266.05
+768,2025-03-14 08:00:00,Milton Keynes,Wet Cat Food,4,12.3,Dog,49.2
+769,2025-03-14 14:00:00,Oxford,Fish Flakes,5,55.64,Rodent,278.2
+770,2025-03-14 12:00:00,Milton Keynes,Cat Litter,3,34.14,Fish,102.42
+771,2025-03-14 20:00:00,Milton Keynes,Fish Flakes,8,39.04,Fish,312.32
+772,2025-03-14 17:00:00,Buckingham,Dog Chew Toy,4,38.29,Rodent,153.16
+773,2025-03-14 17:00:00,Buckingham,Aquarium Filter,3,14.77,Cat,44.31
+774,2025-03-14 12:00:00,Aylesbury,Rabbit Hutch,7,17.25,Fish,120.75
+775,2025-03-14 19:00:00,Oxford,Fish Flakes,6,77.24,Cat,463.43999999999994
+776,2025-03-14 08:00:00,Buckingham,Aquarium Filter,1,64.4,Cat,64.4
+777,2025-03-15 14:00:00,Oxford,Rabbit Hutch,8,79.69,Bird,637.52
+778,2025-03-15 08:00:00,Oxford,Flea Shampoo,3,51.97,Rodent,155.91
+779,2025-03-15 11:00:00,Aylesbury,Rabbit Hutch,2,75.55,Rodent,151.1
+780,2025-03-15 19:00:00,Oxford,Hamster Wheel,8,37.39,Rodent,299.12
+781,2025-03-15 18:00:00,Aylesbury,Aquarium Filter,6,66.74,Bird,400.43999999999994
+782,2025-03-15 17:00:00,Aylesbury,Fish Flakes,1,50.09,Fish,50.09
+783,2025-03-15 18:00:00,Milton Keynes,Aquarium Filter,2,56.66,Cat,113.32
+784,2025-03-15 15:00:00,Aylesbury,Dog Chew Toy,6,37.5,Cat,225.0
+785,2025-03-16 15:00:00,Milton Keynes,Rabbit Hutch,7,15.4,Cat,107.8
+786,2025-03-16 13:00:00,Milton Keynes,Aquarium Filter,7,39.81,Bird,278.67
+787,2025-03-16 10:00:00,Oxford,Bird Seed,4,12.01,Fish,48.04
+788,2025-03-16 10:00:00,Buckingham,Bird Seed,4,64.59,Bird,258.36
+789,2025-03-16 10:00:00,Oxford,Rabbit Hutch,3,40.14,Fish,120.42
+790,2025-03-16 13:00:00,Milton Keynes,Aquarium Filter,6,17.03,Rodent,102.18
+791,2025-03-16 08:00:00,Milton Keynes,Cat Litter,4,36.05,Bird,144.2
+792,2025-03-16 14:00:00,Buckingham,Rabbit Hutch,8,19.39,Rodent,155.12
+793,2025-03-17 15:00:00,Oxford,Dog Chew Toy,7,39.91,Dog,279.37
+794,2025-03-17 09:00:00,Oxford,Fish Flakes,5,51.34,Cat,256.70000000000005
+795,2025-03-17 20:00:00,Oxford,Cat Litter,2,34.07,Fish,68.14
+796,2025-03-17 17:00:00,Milton Keynes,Dog Chew Toy,7,18.39,Cat,128.73000000000002
+797,2025-03-17 11:00:00,Oxford,Cat Litter,4,12.83,Bird,51.32
+798,2025-03-17 19:00:00,Oxford,Hamster Wheel,1,50.75,Cat,50.75
+799,2025-03-17 16:00:00,Oxford,Dry Dog Food,5,75.53,Dog,377.65
+800,2025-03-17 17:00:00,Aylesbury,Dry Dog Food,3,23.91,Fish,71.73
+801,2025-03-17 12:00:00,Milton Keynes,Aquarium Filter,6,42.23,Rodent,253.38
+802,2025-03-18 17:00:00,Milton Keynes,Hamster Wheel,2,53.03,Cat,106.06
+803,2025-03-18 11:00:00,Milton Keynes,Dry Dog Food,7,34.19,Fish,239.32999999999998
+804,2025-03-18 08:00:00,Oxford,Cat Litter,2,66.99,Cat,133.98
+805,2025-03-18 18:00:00,Buckingham,Fish Flakes,6,8.49,Cat,50.94
+806,2025-03-18 19:00:00,Buckingham,Cat Litter,8,40.89,Bird,327.12
+807,2025-03-18 18:00:00,Aylesbury,Wet Cat Food,2,52.02,Rodent,104.04
+808,2025-03-18 13:00:00,Milton Keynes,Flea Shampoo,7,18.25,Fish,127.75
+809,2025-03-18 13:00:00,Aylesbury,Cat Litter,3,38.3,Dog,114.89999999999999
+810,2025-03-18 19:00:00,Milton Keynes,Aquarium Filter,1,47.08,Bird,47.08
+811,2025-03-18 11:00:00,Oxford,Dog Chew Toy,1,26.42,Bird,26.42
+812,2025-03-18 10:00:00,Oxford,Dog Chew Toy,6,38.54,Bird,231.24
+813,2025-03-18 18:00:00,Aylesbury,Hamster Wheel,6,10.22,Rodent,61.32000000000001
+814,2025-03-18 13:00:00,Milton Keynes,Cat Litter,5,71.34,Rodent,356.70000000000005
+815,2025-03-18 10:00:00,Aylesbury,Rabbit Hutch,5,70.51,Bird,352.55
+816,2025-03-18 20:00:00,Aylesbury,Hamster Wheel,5,59.02,Bird,295.1
+817,2025-03-19 16:00:00,Buckingham,Fish Flakes,2,35.31,Bird,70.62
+818,2025-03-19 12:00:00,Oxford,Hamster Wheel,1,32.16,Bird,32.16
+819,2025-03-19 20:00:00,Oxford,Dog Chew Toy,7,7.71,Cat,53.97
+820,2025-03-19 12:00:00,Oxford,Bird Seed,7,58.68,Rodent,410.76
+821,2025-03-19 20:00:00,Oxford,Dog Chew Toy,3,72.35,Dog,217.04999999999998
+822,2025-03-19 10:00:00,Buckingham,Fish Flakes,3,46.42,Dog,139.26
+823,2025-03-19 11:00:00,Oxford,Dog Chew Toy,5,11.83,Rodent,59.15
+824,2025-03-19 18:00:00,Oxford,Cat Litter,6,58.04,Fish,348.24
+825,2025-03-19 19:00:00,Buckingham,Dog Chew Toy,7,27.63,Dog,193.41
+826,2025-03-19 08:00:00,Milton Keynes,Aquarium Filter,8,49.5,Dog,396.0
+827,2025-03-19 10:00:00,Milton Keynes,Wet Cat Food,2,13.06,Fish,26.12
+828,2025-03-19 10:00:00,Milton Keynes,Dry Dog Food,2,23.39,Bird,46.78
+829,2025-03-19 12:00:00,Oxford,Dry Dog Food,7,15.49,Dog,108.43
+830,2025-03-20 12:00:00,Buckingham,Bird Seed,3,38.66,Cat,115.97999999999999
+831,2025-03-20 16:00:00,Oxford,Dog Chew Toy,3,41.56,Rodent,124.68
+832,2025-03-20 13:00:00,Aylesbury,Wet Cat Food,4,43.22,Dog,172.88
+833,2025-03-20 14:00:00,Milton Keynes,Cat Litter,3,26.33,Bird,78.99
+834,2025-03-20 12:00:00,Aylesbury,Flea Shampoo,3,18.39,Fish,55.17
+835,2025-03-20 08:00:00,Milton Keynes,Dry Dog Food,2,36.33,Bird,72.66
+836,2025-03-20 19:00:00,Buckingham,Rabbit Hutch,4,52.93,Rodent,211.72
+837,2025-03-20 20:00:00,Milton Keynes,Bird Seed,2,50.34,Fish,100.68
+838,2025-03-20 10:00:00,Aylesbury,Fish Flakes,3,18.3,Rodent,54.900000000000006
+839,2025-03-20 12:00:00,Oxford,Cat Litter,3,38.68,Cat,116.03999999999999
+840,2025-03-20 18:00:00,Oxford,Flea Shampoo,7,32.86,Cat,230.01999999999998
+841,2025-03-20 18:00:00,Buckingham,Aquarium Filter,3,43.73,Fish,131.19
+842,2025-03-21 11:00:00,Aylesbury,Wet Cat Food,8,50.26,Cat,402.08
+843,2025-03-21 18:00:00,Milton Keynes,Cat Litter,6,15.31,Dog,91.86
+844,2025-03-21 08:00:00,Milton Keynes,Dog Chew Toy,1,35.26,Dog,35.26
+845,2025-03-21 13:00:00,Oxford,Cat Litter,5,21.34,Rodent,106.7
+846,2025-03-21 13:00:00,Oxford,Cat Litter,1,10.37,Fish,10.37
+847,2025-03-21 19:00:00,Milton Keynes,Dog Chew Toy,8,55.72,Rodent,445.76
+848,2025-03-21 08:00:00,Milton Keynes,Hamster Wheel,7,46.84,Rodent,327.88
+849,2025-03-21 09:00:00,Buckingham,Fish Flakes,2,5.86,Bird,11.72
+850,2025-03-21 10:00:00,Aylesbury,Hamster Wheel,4,75.29,Bird,301.16
+851,2025-03-21 08:00:00,Milton Keynes,Aquarium Filter,4,49.51,Bird,198.04
+852,2025-03-21 15:00:00,Aylesbury,Aquarium Filter,8,27.56,Fish,220.48
+853,2025-03-21 14:00:00,Aylesbury,Wet Cat Food,3,73.34,Cat,220.02
+854,2025-03-22 11:00:00,Aylesbury,Dog Chew Toy,6,15.85,Dog,95.1
+855,2025-03-22 09:00:00,Aylesbury,Hamster Wheel,2,30.21,Fish,60.42
+856,2025-03-22 13:00:00,Oxford,Aquarium Filter,5,42.22,Rodent,211.1
+857,2025-03-22 14:00:00,Aylesbury,Dry Dog Food,8,74.9,Dog,599.2
+858,2025-03-22 15:00:00,Buckingham,Cat Litter,1,60.71,Rodent,60.71
+859,2025-03-22 08:00:00,Buckingham,Cat Litter,7,79.25,Dog,554.75
+860,2025-03-22 19:00:00,Aylesbury,Wet Cat Food,6,42.48,Dog,254.88
+861,2025-03-22 14:00:00,Buckingham,Bird Seed,1,13.1,Bird,13.1
+862,2025-03-22 08:00:00,Aylesbury,Aquarium Filter,6,51.28,Bird,307.68
+863,2025-03-22 09:00:00,Oxford,Dry Dog Food,8,64.15,Cat,513.2
+864,2025-03-22 19:00:00,Milton Keynes,Wet Cat Food,2,48.26,Dog,96.52
+865,2025-03-22 16:00:00,Milton Keynes,Flea Shampoo,6,54.79,Bird,328.74
+866,2025-03-22 12:00:00,Buckingham,Dog Chew Toy,3,33.99,Fish,101.97
+867,2025-03-22 11:00:00,Milton Keynes,Fish Flakes,4,5.11,Cat,20.44
+868,2025-03-23 15:00:00,Aylesbury,Fish Flakes,8,20.65,Fish,165.2
+869,2025-03-23 13:00:00,Buckingham,Hamster Wheel,7,51.25,Dog,358.75
+870,2025-03-23 18:00:00,Aylesbury,Hamster Wheel,1,34.43,Rodent,34.43
+871,2025-03-23 15:00:00,Milton Keynes,Cat Litter,2,19.38,Rodent,38.76
+872,2025-03-23 09:00:00,Buckingham,Flea Shampoo,4,64.37,Rodent,257.48
+873,2025-03-23 13:00:00,Aylesbury,Hamster Wheel,3,58.7,Fish,176.10000000000002
+874,2025-03-23 19:00:00,Milton Keynes,Dry Dog Food,1,13.52,Bird,13.52
+875,2025-03-24 14:00:00,Buckingham,Hamster Wheel,4,61.93,Dog,247.72
+876,2025-03-24 09:00:00,Oxford,Bird Seed,8,35.31,Cat,282.48
+877,2025-03-24 12:00:00,Aylesbury,Wet Cat Food,1,50.51,Cat,50.51
+878,2025-03-24 16:00:00,Aylesbury,Dry Dog Food,8,24.81,Cat,198.48
+879,2025-03-24 11:00:00,Buckingham,Fish Flakes,2,5.95,Bird,11.9
+880,2025-03-24 12:00:00,Oxford,Wet Cat Food,5,73.78,Rodent,368.9
+881,2025-03-24 09:00:00,Aylesbury,Dry Dog Food,6,18.85,Fish,113.10000000000001
+882,2025-03-24 08:00:00,Aylesbury,Rabbit Hutch,1,32.6,Fish,32.6
+883,2025-03-24 16:00:00,Milton Keynes,Bird Seed,7,18.28,Cat,127.96000000000001
+884,2025-03-25 13:00:00,Oxford,Flea Shampoo,2,46.28,Dog,92.56
+885,2025-03-25 11:00:00,Oxford,Bird Seed,5,23.55,Dog,117.75
+886,2025-03-25 19:00:00,Aylesbury,Aquarium Filter,2,62.98,Bird,125.96
+887,2025-03-25 12:00:00,Buckingham,Cat Litter,4,59.21,Rodent,236.84
+888,2025-03-25 19:00:00,Buckingham,Bird Seed,5,63.47,Bird,317.35
+889,2025-03-25 09:00:00,Aylesbury,Hamster Wheel,1,76.23,Cat,76.23
+890,2025-03-26 10:00:00,Milton Keynes,Bird Seed,2,32.13,Bird,64.26
+891,2025-03-26 18:00:00,Aylesbury,Wet Cat Food,7,42.09,Fish,294.63
+892,2025-03-26 15:00:00,Milton Keynes,Bird Seed,2,13.58,Cat,27.16
+893,2025-03-26 14:00:00,Buckingham,Dry Dog Food,3,60.62,Fish,181.85999999999999
+894,2025-03-26 19:00:00,Oxford,Dog Chew Toy,1,42.95,Dog,42.95
+895,2025-03-26 12:00:00,Buckingham,Wet Cat Food,1,67.29,Bird,67.29
+896,2025-03-26 15:00:00,Milton Keynes,Rabbit Hutch,3,73.76,Cat,221.28000000000003
+897,2025-03-26 09:00:00,Oxford,Bird Seed,3,41.67,Cat,125.01
+898,2025-03-26 11:00:00,Aylesbury,Flea Shampoo,3,40.2,Rodent,120.60000000000001
+899,2025-03-26 19:00:00,Aylesbury,Cat Litter,7,52.94,Rodent,370.58
+900,2025-03-26 14:00:00,Milton Keynes,Aquarium Filter,6,45.42,Bird,272.52
+901,2025-03-26 10:00:00,Aylesbury,Dog Chew Toy,5,62.59,Rodent,312.95000000000005
+902,2025-03-26 13:00:00,Aylesbury,Hamster Wheel,5,17.2,Bird,86.0
+903,2025-03-26 18:00:00,Milton Keynes,Fish Flakes,4,20.1,Dog,80.4
+904,2025-03-26 16:00:00,Milton Keynes,Bird Seed,3,56.8,Fish,170.39999999999998
+905,2025-03-27 20:00:00,Aylesbury,Bird Seed,2,39.7,Rodent,79.4
+906,2025-03-27 20:00:00,Aylesbury,Aquarium Filter,8,74.51,Cat,596.08
+907,2025-03-27 10:00:00,Milton Keynes,Dry Dog Food,6,27.61,Cat,165.66
+908,2025-03-27 17:00:00,Oxford,Aquarium Filter,5,28.75,Rodent,143.75
+909,2025-03-27 08:00:00,Buckingham,Aquarium Filter,3,74.37,Dog,223.11
+910,2025-03-27 09:00:00,Oxford,Flea Shampoo,3,52.03,Dog,156.09
+911,2025-03-27 10:00:00,Aylesbury,Rabbit Hutch,5,6.28,Rodent,31.400000000000002
+912,2025-03-27 13:00:00,Milton Keynes,Dog Chew Toy,2,65.43,Dog,130.86
+913,2025-03-27 17:00:00,Buckingham,Wet Cat Food,8,10.1,Dog,80.8
+914,2025-03-27 13:00:00,Aylesbury,Aquarium Filter,3,61.36,Rodent,184.07999999999998
+915,2025-03-27 18:00:00,Oxford,Cat Litter,4,50.57,Dog,202.28
+916,2025-03-27 15:00:00,Oxford,Flea Shampoo,5,75.55,Bird,377.75
+917,2025-03-27 19:00:00,Buckingham,Dog Chew Toy,4,28.65,Bird,114.6
+918,2025-03-27 09:00:00,Aylesbury,Rabbit Hutch,7,17.19,Cat,120.33000000000001
+919,2025-03-27 16:00:00,Milton Keynes,Rabbit Hutch,5,59.29,Bird,296.45
+920,2025-03-28 15:00:00,Aylesbury,Dog Chew Toy,3,75.69,Dog,227.07
+921,2025-03-28 16:00:00,Milton Keynes,Dog Chew Toy,1,53.22,Dog,53.22
+922,2025-03-28 09:00:00,Aylesbury,Wet Cat Food,5,16.18,Rodent,80.9
+923,2025-03-28 11:00:00,Oxford,Fish Flakes,6,49.5,Fish,297.0
+924,2025-03-28 14:00:00,Milton Keynes,Flea Shampoo,8,49.63,Dog,397.04
+925,2025-03-28 08:00:00,Buckingham,Dog Chew Toy,7,41.56,Cat,290.92
+926,2025-03-28 10:00:00,Milton Keynes,Flea Shampoo,6,41.32,Bird,247.92000000000002
+927,2025-03-28 10:00:00,Aylesbury,Flea Shampoo,3,43.15,Fish,129.45
+928,2025-03-28 09:00:00,Milton Keynes,Wet Cat Food,1,41.71,Rodent,41.71
+929,2025-03-29 19:00:00,Milton Keynes,Rabbit Hutch,2,19.62,Rodent,39.24
+930,2025-03-29 18:00:00,Buckingham,Dry Dog Food,5,64.71,Dog,323.54999999999995
+931,2025-03-29 15:00:00,Milton Keynes,Bird Seed,8,44.39,Rodent,355.12
+932,2025-03-29 11:00:00,Buckingham,Wet Cat Food,7,33.39,Cat,233.73000000000002
+933,2025-03-29 10:00:00,Oxford,Wet Cat Food,6,56.83,Fish,340.98
+934,2025-03-29 09:00:00,Oxford,Dry Dog Food,8,28.51,Fish,228.08
+935,2025-03-29 12:00:00,Buckingham,Bird Seed,6,7.3,Fish,43.8
+936,2025-03-29 15:00:00,Milton Keynes,Dog Chew Toy,1,21.95,Bird,21.95
+937,2025-03-29 14:00:00,Oxford,Rabbit Hutch,7,25.78,Rodent,180.46
+938,2025-03-29 09:00:00,Milton Keynes,Flea Shampoo,5,55.49,Rodent,277.45
+939,2025-03-29 14:00:00,Oxford,Dry Dog Food,1,20.53,Dog,20.53
+940,2025-03-29 11:00:00,Aylesbury,Bird Seed,2,58.51,Cat,117.02
+941,2025-03-29 17:00:00,Oxford,Bird Seed,5,54.65,Rodent,273.25
+942,2025-03-30 20:00:00,Aylesbury,Hamster Wheel,5,45.97,Cat,229.85
+943,2025-03-30 11:00:00,Aylesbury,Hamster Wheel,6,62.0,Rodent,372.0
+944,2025-03-30 19:00:00,Buckingham,Hamster Wheel,3,61.46,Bird,184.38
+945,2025-03-30 10:00:00,Aylesbury,Cat Litter,8,13.9,Bird,111.2
+946,2025-03-30 20:00:00,Aylesbury,Wet Cat Food,5,52.82,Bird,264.1
+947,2025-03-30 15:00:00,Buckingham,Flea Shampoo,3,37.74,Cat,113.22
+948,2025-03-30 18:00:00,Buckingham,Hamster Wheel,3,31.19,Bird,93.57000000000001
+949,2025-03-30 10:00:00,Milton Keynes,Hamster Wheel,3,45.96,Fish,137.88
+950,2025-03-30 17:00:00,Milton Keynes,Dog Chew Toy,7,42.43,Dog,297.01
+951,2025-03-30 14:00:00,Buckingham,Dog Chew Toy,8,58.26,Bird,466.08
+952,2025-03-30 20:00:00,Milton Keynes,Bird Seed,5,23.52,Cat,117.6
+953,2025-03-30 19:00:00,Oxford,Rabbit Hutch,8,76.2,Cat,609.6
+954,2025-03-30 15:00:00,Aylesbury,Cat Litter,3,62.01,Fish,186.03
+955,2025-03-30 13:00:00,Buckingham,Dog Chew Toy,7,11.92,Rodent,83.44
+956,2025-03-31 13:00:00,Buckingham,Aquarium Filter,6,67.45,Dog,404.70000000000005
+957,2025-03-31 09:00:00,Buckingham,Flea Shampoo,7,40.14,Fish,280.98
+958,2025-03-31 14:00:00,Buckingham,Dog Chew Toy,7,24.04,Fish,168.28
+959,2025-03-31 16:00:00,Oxford,Dry Dog Food,8,78.86,Dog,630.88
+960,2025-03-31 12:00:00,Milton Keynes,Cat Litter,3,75.93,Fish,227.79000000000002
+961,2025-03-31 10:00:00,Oxford,Bird Seed,1,12.67,Cat,12.67
+962,2025-03-31 14:00:00,Oxford,Aquarium Filter,5,18.67,Dog,93.35000000000001
+963,2025-03-31 20:00:00,Buckingham,Wet Cat Food,2,63.46,Rodent,126.92
+964,2025-03-31 18:00:00,Milton Keynes,Bird Seed,1,27.46,Cat,27.46
+965,2025-03-31 20:00:00,Milton Keynes,Dry Dog Food,8,12.52,Cat,100.16
+966,2025-03-31 11:00:00,Milton Keynes,Rabbit Hutch,3,37.6,Fish,112.80000000000001
+967,2025-03-31 12:00:00,Buckingham,Aquarium Filter,6,34.31,Fish,205.86
+968,2025-04-01 10:00:00,Buckingham,Rabbit Hutch,7,49.04,Rodent,343.28
+969,2025-04-01 13:00:00,Aylesbury,Dog Chew Toy,1,49.76,Bird,49.76
+970,2025-04-01 10:00:00,Aylesbury,Aquarium Filter,5,36.27,Fish,181.35000000000002
+971,2025-04-01 15:00:00,Milton Keynes,Bird Seed,8,51.39,Rodent,411.12
+972,2025-04-01 20:00:00,Buckingham,Cat Litter,4,14.92,Fish,59.68
+973,2025-04-01 13:00:00,Buckingham,Wet Cat Food,8,47.98,Cat,383.84
+974,2025-04-01 12:00:00,Aylesbury,Aquarium Filter,6,14.72,Dog,88.32000000000001
+975,2025-04-01 17:00:00,Buckingham,Aquarium Filter,5,43.42,Cat,217.10000000000002
+976,2025-04-01 11:00:00,Aylesbury,Bird Seed,7,7.03,Rodent,49.21
+977,2025-04-01 19:00:00,Aylesbury,Bird Seed,6,19.66,Dog,117.96000000000001
+978,2025-04-01 20:00:00,Milton Keynes,Dry Dog Food,5,78.96,Rodent,394.79999999999995
+979,2025-04-01 09:00:00,Oxford,Flea Shampoo,6,75.02,Bird,450.12
+980,2025-04-02 20:00:00,Aylesbury,Wet Cat Food,3,15.87,Dog,47.61
+981,2025-04-02 09:00:00,Aylesbury,Fish Flakes,5,63.88,Bird,319.40000000000003
+982,2025-04-02 08:00:00,Oxford,Cat Litter,7,68.36,Cat,478.52
+983,2025-04-02 20:00:00,Oxford,Cat Litter,7,15.88,Fish,111.16000000000001
+984,2025-04-02 10:00:00,Aylesbury,Dry Dog Food,6,31.42,Fish,188.52
+985,2025-04-02 15:00:00,Oxford,Bird Seed,8,9.84,Cat,78.72
+986,2025-04-02 17:00:00,Buckingham,Wet Cat Food,2,64.66,Bird,129.32
+987,2025-04-02 13:00:00,Milton Keynes,Dry Dog Food,7,38.2,Rodent,267.40000000000003
+988,2025-04-02 16:00:00,Milton Keynes,Dog Chew Toy,6,39.27,Rodent,235.62
+989,2025-04-02 10:00:00,Milton Keynes,Wet Cat Food,3,49.08,Cat,147.24
+990,2025-04-02 15:00:00,Aylesbury,Flea Shampoo,1,72.14,Rodent,72.14
+991,2025-04-02 12:00:00,Oxford,Dry Dog Food,3,41.33,Bird,123.99
+992,2025-04-02 19:00:00,Aylesbury,Rabbit Hutch,2,15.41,Rodent,30.82
+993,2025-04-03 11:00:00,Milton Keynes,Fish Flakes,5,33.9,Fish,169.5
+994,2025-04-03 20:00:00,Buckingham,Flea Shampoo,7,16.14,Bird,112.98
+995,2025-04-03 10:00:00,Milton Keynes,Hamster Wheel,1,78.27,Bird,78.27
+996,2025-04-03 16:00:00,Oxford,Bird Seed,5,43.35,Bird,216.75
+997,2025-04-03 13:00:00,Oxford,Dog Chew Toy,7,34.43,Cat,241.01
+998,2025-04-03 10:00:00,Oxford,Dry Dog Food,8,19.85,Dog,158.8
+999,2025-04-03 15:00:00,Aylesbury,Dog Chew Toy,2,69.06,Dog,138.12
+1000,2025-04-03 16:00:00,Oxford,Cat Litter,8,39.33,Bird,314.64
+1001,2025-04-03 15:00:00,Aylesbury,Dry Dog Food,2,77.61,Rodent,155.22
+1002,2025-04-04 20:00:00,Buckingham,Dog Chew Toy,8,71.97,Cat,575.76
+1003,2025-04-04 09:00:00,Milton Keynes,Wet Cat Food,3,39.88,Fish,119.64000000000001
+1004,2025-04-04 19:00:00,Buckingham,Cat Litter,7,41.73,Fish,292.10999999999996
+1005,2025-04-04 18:00:00,Milton Keynes,Dry Dog Food,1,68.55,Bird,68.55
+1006,2025-04-04 17:00:00,Milton Keynes,Dry Dog Food,6,61.21,Rodent,367.26
+1007,2025-04-04 13:00:00,Milton Keynes,Bird Seed,7,30.32,Fish,212.24
+1008,2025-04-04 18:00:00,Aylesbury,Cat Litter,3,17.63,Rodent,52.89
+1009,2025-04-04 13:00:00,Aylesbury,Fish Flakes,4,69.77,Cat,279.08
+1010,2025-04-05 14:00:00,Aylesbury,Hamster Wheel,1,56.45,Bird,56.45
+1011,2025-04-05 15:00:00,Buckingham,Flea Shampoo,1,7.51,Bird,7.51
+1012,2025-04-05 15:00:00,Milton Keynes,Rabbit Hutch,6,9.31,Rodent,55.86
+1013,2025-04-05 18:00:00,Buckingham,Flea Shampoo,8,61.55,Bird,492.4
+1014,2025-04-05 20:00:00,Oxford,Flea Shampoo,4,34.31,Rodent,137.24
+1015,2025-04-05 16:00:00,Buckingham,Wet Cat Food,6,19.67,Cat,118.02000000000001
+1016,2025-04-05 18:00:00,Buckingham,Dog Chew Toy,5,42.32,Fish,211.6
+1017,2025-04-05 19:00:00,Buckingham,Bird Seed,5,48.62,Cat,243.1
+1018,2025-04-05 18:00:00,Buckingham,Flea Shampoo,6,7.0,Dog,42.0
+1019,2025-04-05 14:00:00,Aylesbury,Flea Shampoo,3,31.49,Bird,94.47
+1020,2025-04-05 17:00:00,Milton Keynes,Fish Flakes,4,6.79,Cat,27.16
+1021,2025-04-05 20:00:00,Buckingham,Wet Cat Food,4,39.09,Bird,156.36
+1022,2025-04-06 09:00:00,Milton Keynes,Cat Litter,1,39.21,Cat,39.21
+1023,2025-04-06 11:00:00,Oxford,Hamster Wheel,6,73.49,Fish,440.93999999999994
+1024,2025-04-06 12:00:00,Oxford,Dry Dog Food,6,61.58,Cat,369.48
+1025,2025-04-06 12:00:00,Milton Keynes,Dog Chew Toy,1,60.63,Cat,60.63
+1026,2025-04-06 13:00:00,Oxford,Fish Flakes,2,36.27,Rodent,72.54
+1027,2025-04-06 19:00:00,Aylesbury,Hamster Wheel,2,53.68,Fish,107.36
+1028,2025-04-06 15:00:00,Buckingham,Dog Chew Toy,3,43.92,Bird,131.76
+1029,2025-04-06 17:00:00,Milton Keynes,Wet Cat Food,2,71.96,Bird,143.92
+1030,2025-04-06 12:00:00,Buckingham,Fish Flakes,6,35.62,Bird,213.71999999999997
+1031,2025-04-06 08:00:00,Milton Keynes,Aquarium Filter,8,40.6,Cat,324.8
+1032,2025-04-07 15:00:00,Aylesbury,Rabbit Hutch,2,79.63,Dog,159.26
+1033,2025-04-07 14:00:00,Oxford,Rabbit Hutch,3,26.92,Cat,80.76
+1034,2025-04-07 10:00:00,Oxford,Dog Chew Toy,7,15.62,Bird,109.33999999999999
+1035,2025-04-07 16:00:00,Milton Keynes,Dry Dog Food,5,57.59,Fish,287.95000000000005
+1036,2025-04-07 08:00:00,Aylesbury,Wet Cat Food,6,67.26,Cat,403.56000000000006
+1037,2025-04-07 15:00:00,Buckingham,Dog Chew Toy,7,20.64,Dog,144.48000000000002
+1038,2025-04-07 18:00:00,Buckingham,Bird Seed,1,16.25,Cat,16.25
+1039,2025-04-08 20:00:00,Buckingham,Hamster Wheel,7,16.99,Rodent,118.92999999999999
+1040,2025-04-08 18:00:00,Buckingham,Fish Flakes,5,21.62,Cat,108.10000000000001
+1041,2025-04-08 16:00:00,Buckingham,Hamster Wheel,3,59.76,Bird,179.28
+1042,2025-04-08 12:00:00,Aylesbury,Hamster Wheel,5,21.51,Fish,107.55000000000001
+1043,2025-04-08 14:00:00,Aylesbury,Wet Cat Food,6,17.34,Bird,104.03999999999999
+1044,2025-04-08 12:00:00,Aylesbury,Bird Seed,2,8.79,Bird,17.58
+1045,2025-04-09 16:00:00,Milton Keynes,Cat Litter,4,49.02,Fish,196.08
+1046,2025-04-09 17:00:00,Milton Keynes,Fish Flakes,4,28.52,Cat,114.08
+1047,2025-04-09 20:00:00,Aylesbury,Rabbit Hutch,7,23.73,Cat,166.11
+1048,2025-04-09 11:00:00,Oxford,Flea Shampoo,6,69.76,Dog,418.56000000000006
+1049,2025-04-09 15:00:00,Buckingham,Dog Chew Toy,6,75.44,Cat,452.64
+1050,2025-04-09 10:00:00,Buckingham,Hamster Wheel,1,51.37,Dog,51.37
+1051,2025-04-09 15:00:00,Buckingham,Flea Shampoo,2,10.55,Cat,21.1
+1052,2025-04-09 16:00:00,Milton Keynes,Bird Seed,1,48.91,Dog,48.91
+1053,2025-04-10 14:00:00,Buckingham,Flea Shampoo,3,21.84,Cat,65.52
+1054,2025-04-10 12:00:00,Milton Keynes,Cat Litter,8,47.02,Dog,376.16
+1055,2025-04-10 17:00:00,Aylesbury,Dry Dog Food,8,34.16,Cat,273.28
+1056,2025-04-10 10:00:00,Milton Keynes,Flea Shampoo,2,63.45,Rodent,126.9
+1057,2025-04-10 15:00:00,Aylesbury,Flea Shampoo,2,67.24,Fish,134.48
+1058,2025-04-10 14:00:00,Milton Keynes,Dog Chew Toy,3,40.75,Rodent,122.25
+1059,2025-04-10 20:00:00,Milton Keynes,Flea Shampoo,2,43.41,Rodent,86.82
+1060,2025-04-10 15:00:00,Oxford,Fish Flakes,2,37.2,Fish,74.4
+1061,2025-04-10 16:00:00,Aylesbury,Aquarium Filter,8,40.25,Rodent,322.0
+1062,2025-04-10 18:00:00,Oxford,Dog Chew Toy,6,25.2,Dog,151.2
+1063,2025-04-11 11:00:00,Milton Keynes,Aquarium Filter,3,40.52,Rodent,121.56
+1064,2025-04-11 16:00:00,Milton Keynes,Bird Seed,7,36.68,Bird,256.76
+1065,2025-04-11 10:00:00,Oxford,Rabbit Hutch,5,68.11,Fish,340.55
+1066,2025-04-11 09:00:00,Oxford,Dry Dog Food,3,55.42,Cat,166.26
+1067,2025-04-11 20:00:00,Milton Keynes,Dry Dog Food,2,47.34,Rodent,94.68
+1068,2025-04-11 17:00:00,Aylesbury,Cat Litter,2,46.58,Rodent,93.16
+1069,2025-04-11 16:00:00,Aylesbury,Bird Seed,8,42.73,Fish,341.84
+1070,2025-04-12 08:00:00,Aylesbury,Wet Cat Food,6,19.38,Cat,116.28
+1071,2025-04-12 19:00:00,Aylesbury,Dry Dog Food,4,48.14,Dog,192.56
+1072,2025-04-12 14:00:00,Aylesbury,Rabbit Hutch,2,54.1,Bird,108.2
+1073,2025-04-12 15:00:00,Buckingham,Flea Shampoo,5,13.59,Fish,67.95
+1074,2025-04-12 16:00:00,Buckingham,Dog Chew Toy,1,60.33,Fish,60.33
+1075,2025-04-12 15:00:00,Aylesbury,Hamster Wheel,6,69.85,Cat,419.09999999999997
+1076,2025-04-12 10:00:00,Aylesbury,Rabbit Hutch,3,57.68,Bird,173.04
+1077,2025-04-12 17:00:00,Aylesbury,Aquarium Filter,2,23.11,Cat,46.22
+1078,2025-04-13 12:00:00,Milton Keynes,Fish Flakes,8,10.77,Fish,86.16
+1079,2025-04-13 19:00:00,Aylesbury,Aquarium Filter,7,10.31,Rodent,72.17
+1080,2025-04-13 13:00:00,Buckingham,Aquarium Filter,7,53.94,Fish,377.58
+1081,2025-04-13 08:00:00,Oxford,Rabbit Hutch,8,43.17,Rodent,345.36
+1082,2025-04-13 17:00:00,Oxford,Wet Cat Food,7,71.5,Bird,500.5
+1083,2025-04-14 18:00:00,Milton Keynes,Rabbit Hutch,2,37.94,Rodent,75.88
+1084,2025-04-14 11:00:00,Milton Keynes,Fish Flakes,6,68.04,Dog,408.24
+1085,2025-04-14 11:00:00,Oxford,Hamster Wheel,3,54.76,Cat,164.28
+1086,2025-04-14 19:00:00,Buckingham,Dog Chew Toy,1,58.74,Cat,58.74
+1087,2025-04-14 15:00:00,Milton Keynes,Aquarium Filter,8,44.03,Dog,352.24
+1088,2025-04-14 10:00:00,Oxford,Dog Chew Toy,4,18.47,Dog,73.88
+1089,2025-04-14 10:00:00,Buckingham,Bird Seed,8,34.7,Bird,277.6
+1090,2025-04-14 16:00:00,Milton Keynes,Hamster Wheel,3,50.07,Bird,150.21
+1091,2025-04-14 20:00:00,Oxford,Cat Litter,1,8.69,Rodent,8.69
+1092,2025-04-14 10:00:00,Oxford,Fish Flakes,2,8.43,Rodent,16.86
+1093,2025-04-14 17:00:00,Oxford,Dry Dog Food,7,56.71,Bird,396.97
+1094,2025-04-14 18:00:00,Buckingham,Hamster Wheel,3,32.71,Dog,98.13
+1095,2025-04-14 11:00:00,Aylesbury,Flea Shampoo,5,24.37,Rodent,121.85000000000001
+1096,2025-04-14 10:00:00,Oxford,Dog Chew Toy,1,34.19,Fish,34.19
+1097,2025-04-15 18:00:00,Aylesbury,Aquarium Filter,3,78.64,Bird,235.92000000000002
+1098,2025-04-15 19:00:00,Oxford,Dry Dog Food,4,22.68,Rodent,90.72
+1099,2025-04-15 19:00:00,Aylesbury,Rabbit Hutch,6,6.08,Rodent,36.480000000000004
+1100,2025-04-15 10:00:00,Buckingham,Cat Litter,7,32.39,Cat,226.73000000000002
+1101,2025-04-15 13:00:00,Milton Keynes,Hamster Wheel,2,44.78,Dog,89.56
+1102,2025-04-15 13:00:00,Oxford,Rabbit Hutch,8,17.42,Cat,139.36
+1103,2025-04-15 15:00:00,Oxford,Hamster Wheel,4,65.09,Fish,260.36
+1104,2025-04-15 09:00:00,Oxford,Rabbit Hutch,7,11.9,Rodent,83.3
+1105,2025-04-15 12:00:00,Buckingham,Cat Litter,5,5.92,Rodent,29.6
+1106,2025-04-15 13:00:00,Aylesbury,Cat Litter,8,78.62,Dog,628.96
+1107,2025-04-15 08:00:00,Milton Keynes,Dog Chew Toy,1,63.56,Dog,63.56
+1108,2025-04-15 10:00:00,Buckingham,Flea Shampoo,4,28.75,Cat,115.0
+1109,2025-04-15 11:00:00,Buckingham,Hamster Wheel,4,71.19,Dog,284.76
+1110,2025-04-15 12:00:00,Buckingham,Hamster Wheel,3,59.54,Bird,178.62
+1111,2025-04-15 10:00:00,Milton Keynes,Hamster Wheel,8,6.39,Fish,51.12
+1112,2025-04-16 09:00:00,Oxford,Hamster Wheel,8,42.5,Fish,340.0
+1113,2025-04-16 20:00:00,Oxford,Fish Flakes,6,39.76,Cat,238.56
+1114,2025-04-16 15:00:00,Milton Keynes,Flea Shampoo,5,22.55,Dog,112.75
+1115,2025-04-16 18:00:00,Oxford,Cat Litter,4,33.01,Dog,132.04
+1116,2025-04-16 15:00:00,Aylesbury,Rabbit Hutch,1,18.09,Bird,18.09
+1117,2025-04-16 14:00:00,Buckingham,Wet Cat Food,8,58.65,Rodent,469.2
+1118,2025-04-16 16:00:00,Milton Keynes,Dog Chew Toy,4,69.47,Rodent,277.88
+1119,2025-04-16 08:00:00,Aylesbury,Aquarium Filter,5,51.94,Cat,259.7
+1120,2025-04-16 10:00:00,Milton Keynes,Dry Dog Food,5,77.35,Fish,386.75
+1121,2025-04-16 10:00:00,Oxford,Fish Flakes,2,7.85,Bird,15.7
+1122,2025-04-16 15:00:00,Buckingham,Hamster Wheel,1,64.77,Dog,64.77
+1123,2025-04-17 14:00:00,Aylesbury,Bird Seed,6,63.23,Dog,379.38
+1124,2025-04-17 13:00:00,Buckingham,Aquarium Filter,8,13.05,Bird,104.4
+1125,2025-04-17 15:00:00,Buckingham,Dry Dog Food,7,77.96,Rodent,545.7199999999999
+1126,2025-04-17 10:00:00,Oxford,Aquarium Filter,8,63.2,Dog,505.6
+1127,2025-04-17 10:00:00,Milton Keynes,Bird Seed,8,12.18,Cat,97.44
+1128,2025-04-17 16:00:00,Buckingham,Cat Litter,2,11.67,Fish,23.34
+1129,2025-04-17 13:00:00,Milton Keynes,Flea Shampoo,2,36.48,Rodent,72.96
+1130,2025-04-17 19:00:00,Milton Keynes,Rabbit Hutch,4,34.57,Rodent,138.28
+1131,2025-04-17 17:00:00,Oxford,Flea Shampoo,8,13.69,Cat,109.52
+1132,2025-04-18 16:00:00,Milton Keynes,Dry Dog Food,6,57.45,Cat,344.70000000000005
+1133,2025-04-18 16:00:00,Oxford,Wet Cat Food,2,69.42,Cat,138.84
+1134,2025-04-18 19:00:00,Oxford,Hamster Wheel,1,55.7,Fish,55.7
+1135,2025-04-18 08:00:00,Milton Keynes,Aquarium Filter,7,12.08,Fish,84.56
+1136,2025-04-18 08:00:00,Oxford,Aquarium Filter,7,31.05,Rodent,217.35
+1137,2025-04-18 19:00:00,Aylesbury,Bird Seed,7,15.91,Bird,111.37
+1138,2025-04-18 20:00:00,Milton Keynes,Flea Shampoo,4,76.52,Bird,306.08
+1139,2025-04-18 13:00:00,Aylesbury,Aquarium Filter,4,27.83,Rodent,111.32
+1140,2025-04-18 19:00:00,Oxford,Hamster Wheel,7,49.72,Dog,348.03999999999996
+1141,2025-04-18 09:00:00,Buckingham,Fish Flakes,2,42.03,Fish,84.06
+1142,2025-04-18 16:00:00,Buckingham,Dog Chew Toy,2,9.77,Cat,19.54
+1143,2025-04-18 17:00:00,Milton Keynes,Fish Flakes,6,79.61,Rodent,477.65999999999997
+1144,2025-04-18 09:00:00,Oxford,Cat Litter,4,13.55,Bird,54.2
+1145,2025-04-18 10:00:00,Buckingham,Wet Cat Food,2,72.22,Dog,144.44
+1146,2025-04-19 15:00:00,Aylesbury,Rabbit Hutch,3,47.27,Bird,141.81
+1147,2025-04-19 11:00:00,Aylesbury,Flea Shampoo,5,56.18,Bird,280.9
+1148,2025-04-19 14:00:00,Milton Keynes,Fish Flakes,6,25.23,Bird,151.38
+1149,2025-04-19 10:00:00,Milton Keynes,Bird Seed,6,23.12,Bird,138.72
+1150,2025-04-19 18:00:00,Milton Keynes,Bird Seed,7,53.72,Rodent,376.03999999999996
+1151,2025-04-19 10:00:00,Aylesbury,Rabbit Hutch,5,39.43,Cat,197.15
+1152,2025-04-19 08:00:00,Oxford,Aquarium Filter,7,19.22,Bird,134.54
+1153,2025-04-19 14:00:00,Aylesbury,Flea Shampoo,7,11.95,Fish,83.64999999999999
+1154,2025-04-19 19:00:00,Oxford,Bird Seed,4,17.66,Cat,70.64
+1155,2025-04-19 09:00:00,Milton Keynes,Rabbit Hutch,2,58.91,Fish,117.82
+1156,2025-04-19 08:00:00,Oxford,Dog Chew Toy,7,78.98,Dog,552.86
+1157,2025-04-19 19:00:00,Aylesbury,Dog Chew Toy,6,9.98,Cat,59.88
+1158,2025-04-19 11:00:00,Buckingham,Wet Cat Food,3,34.72,Cat,104.16
+1159,2025-04-19 17:00:00,Buckingham,Hamster Wheel,6,53.19,Rodent,319.14
+1160,2025-04-20 19:00:00,Aylesbury,Wet Cat Food,3,21.94,Rodent,65.82000000000001
+1161,2025-04-20 15:00:00,Oxford,Wet Cat Food,8,30.92,Cat,247.36
+1162,2025-04-20 10:00:00,Buckingham,Fish Flakes,2,62.38,Dog,124.76
+1163,2025-04-20 20:00:00,Milton Keynes,Bird Seed,8,72.44,Cat,579.52
+1164,2025-04-20 13:00:00,Milton Keynes,Hamster Wheel,2,21.43,Bird,42.86
+1165,2025-04-21 15:00:00,Oxford,Aquarium Filter,3,13.08,Dog,39.24
+1166,2025-04-21 09:00:00,Milton Keynes,Hamster Wheel,8,5.39,Dog,43.12
+1167,2025-04-21 19:00:00,Milton Keynes,Dog Chew Toy,5,39.45,Cat,197.25
+1168,2025-04-21 09:00:00,Aylesbury,Fish Flakes,8,79.89,Fish,639.12
+1169,2025-04-21 11:00:00,Oxford,Dry Dog Food,6,66.95,Rodent,401.70000000000005
+1170,2025-04-21 16:00:00,Aylesbury,Dry Dog Food,8,26.61,Fish,212.88
+1171,2025-04-21 10:00:00,Milton Keynes,Wet Cat Food,6,71.86,Dog,431.15999999999997
+1172,2025-04-21 08:00:00,Oxford,Aquarium Filter,5,15.63,Bird,78.15
+1173,2025-04-21 15:00:00,Milton Keynes,Dog Chew Toy,3,63.26,Rodent,189.78
+1174,2025-04-21 17:00:00,Milton Keynes,Dog Chew Toy,2,38.15,Fish,76.3
+1175,2025-04-21 13:00:00,Aylesbury,Fish Flakes,8,76.04,Rodent,608.32
+1176,2025-04-21 14:00:00,Milton Keynes,Aquarium Filter,5,20.6,Dog,103.0
+1177,2025-04-21 19:00:00,Milton Keynes,Hamster Wheel,7,35.13,Rodent,245.91000000000003
+1178,2025-04-22 20:00:00,Buckingham,Aquarium Filter,7,21.44,Dog,150.08
+1179,2025-04-22 09:00:00,Milton Keynes,Flea Shampoo,7,34.1,Dog,238.70000000000002
+1180,2025-04-22 13:00:00,Buckingham,Wet Cat Food,4,37.44,Cat,149.76
+1181,2025-04-22 10:00:00,Aylesbury,Aquarium Filter,6,23.59,Dog,141.54
+1182,2025-04-22 15:00:00,Buckingham,Fish Flakes,3,56.8,Rodent,170.39999999999998
+1183,2025-04-22 18:00:00,Aylesbury,Dog Chew Toy,2,41.41,Rodent,82.82
+1184,2025-04-22 18:00:00,Aylesbury,Bird Seed,1,17.67,Bird,17.67
+1185,2025-04-22 19:00:00,Aylesbury,Dry Dog Food,5,56.38,Rodent,281.90000000000003
+1186,2025-04-22 10:00:00,Aylesbury,Hamster Wheel,8,76.06,Cat,608.48
+1187,2025-04-22 19:00:00,Buckingham,Cat Litter,2,42.85,Cat,85.7
+1188,2025-04-22 10:00:00,Milton Keynes,Hamster Wheel,6,9.87,Fish,59.22
+1189,2025-04-22 17:00:00,Aylesbury,Flea Shampoo,3,68.83,Bird,206.49
+1190,2025-04-23 09:00:00,Milton Keynes,Rabbit Hutch,2,12.01,Dog,24.02
+1191,2025-04-23 15:00:00,Oxford,Flea Shampoo,5,30.88,Fish,154.4
+1192,2025-04-23 08:00:00,Milton Keynes,Hamster Wheel,7,9.57,Rodent,66.99000000000001
+1193,2025-04-23 11:00:00,Aylesbury,Flea Shampoo,6,58.47,Bird,350.82
+1194,2025-04-23 13:00:00,Buckingham,Fish Flakes,3,20.53,Dog,61.59
+1195,2025-04-23 09:00:00,Oxford,Dog Chew Toy,5,6.13,Bird,30.65
+1196,2025-04-23 20:00:00,Aylesbury,Cat Litter,1,57.97,Dog,57.97
+1197,2025-04-23 17:00:00,Milton Keynes,Fish Flakes,2,43.63,Bird,87.26
+1198,2025-04-23 16:00:00,Buckingham,Aquarium Filter,4,29.01,Rodent,116.04
+1199,2025-04-23 14:00:00,Milton Keynes,Flea Shampoo,5,32.61,Rodent,163.05
+1200,2025-04-24 14:00:00,Aylesbury,Wet Cat Food,1,58.29,Rodent,58.29
+1201,2025-04-24 13:00:00,Oxford,Bird Seed,3,20.54,Dog,61.62
+1202,2025-04-24 11:00:00,Buckingham,Hamster Wheel,4,32.75,Rodent,131.0
+1203,2025-04-24 11:00:00,Aylesbury,Dry Dog Food,1,77.62,Dog,77.62
+1204,2025-04-24 12:00:00,Buckingham,Bird Seed,6,7.58,Fish,45.480000000000004
+1205,2025-04-24 20:00:00,Buckingham,Bird Seed,5,54.3,Fish,271.5
+1206,2025-04-24 15:00:00,Aylesbury,Wet Cat Food,3,74.76,Bird,224.28000000000003
+1207,2025-04-25 12:00:00,Oxford,Flea Shampoo,3,11.41,Cat,34.230000000000004
+1208,2025-04-25 12:00:00,Aylesbury,Rabbit Hutch,2,8.81,Fish,17.62
+1209,2025-04-25 14:00:00,Oxford,Dry Dog Food,4,52.24,Bird,208.96
+1210,2025-04-25 08:00:00,Milton Keynes,Dog Chew Toy,5,45.71,Fish,228.55
+1211,2025-04-25 08:00:00,Milton Keynes,Flea Shampoo,8,33.56,Rodent,268.48
+1212,2025-04-25 17:00:00,Aylesbury,Flea Shampoo,7,28.67,Fish,200.69
+1213,2025-04-25 08:00:00,Aylesbury,Hamster Wheel,5,72.87,Cat,364.35
+1214,2025-04-25 18:00:00,Buckingham,Bird Seed,4,29.06,Bird,116.24
+1215,2025-04-25 08:00:00,Milton Keynes,Flea Shampoo,6,36.54,Bird,219.24
+1216,2025-04-26 11:00:00,Buckingham,Cat Litter,4,45.76,Dog,183.04
+1217,2025-04-26 15:00:00,Buckingham,Fish Flakes,1,18.74,Dog,18.74
+1218,2025-04-26 16:00:00,Aylesbury,Hamster Wheel,6,63.86,Fish,383.15999999999997
+1219,2025-04-26 20:00:00,Milton Keynes,Fish Flakes,1,9.4,Cat,9.4
+1220,2025-04-26 15:00:00,Oxford,Dog Chew Toy,2,64.55,Dog,129.1
+1221,2025-04-27 14:00:00,Oxford,Fish Flakes,1,58.74,Dog,58.74
+1222,2025-04-27 18:00:00,Buckingham,Fish Flakes,5,38.82,Cat,194.1
+1223,2025-04-27 18:00:00,Oxford,Wet Cat Food,1,21.95,Dog,21.95
+1224,2025-04-27 13:00:00,Aylesbury,Fish Flakes,6,62.2,Dog,373.20000000000005
+1225,2025-04-27 08:00:00,Milton Keynes,Bird Seed,4,66.85,Cat,267.4
+1226,2025-04-28 17:00:00,Oxford,Aquarium Filter,4,70.64,Bird,282.56
+1227,2025-04-28 11:00:00,Buckingham,Cat Litter,2,40.63,Rodent,81.26
+1228,2025-04-28 17:00:00,Milton Keynes,Flea Shampoo,7,21.34,Dog,149.38
+1229,2025-04-28 15:00:00,Milton Keynes,Dry Dog Food,7,35.57,Dog,248.99
+1230,2025-04-28 09:00:00,Aylesbury,Wet Cat Food,3,79.36,Fish,238.07999999999998
+1231,2025-04-29 18:00:00,Oxford,Hamster Wheel,7,64.74,Dog,453.17999999999995
+1232,2025-04-29 16:00:00,Buckingham,Aquarium Filter,2,37.82,Fish,75.64
+1233,2025-04-29 16:00:00,Aylesbury,Rabbit Hutch,2,12.01,Dog,24.02
+1234,2025-04-29 17:00:00,Aylesbury,Bird Seed,7,38.46,Cat,269.22
+1235,2025-04-29 14:00:00,Oxford,Rabbit Hutch,4,72.92,Cat,291.68
+1236,2025-04-30 15:00:00,Oxford,Bird Seed,4,63.53,Fish,254.12
+1237,2025-04-30 18:00:00,Oxford,Rabbit Hutch,1,72.96,Bird,72.96
+1238,2025-04-30 16:00:00,Aylesbury,Flea Shampoo,7,8.4,Rodent,58.800000000000004
+1239,2025-04-30 16:00:00,Milton Keynes,Cat Litter,6,35.99,Bird,215.94
+1240,2025-04-30 18:00:00,Buckingham,Rabbit Hutch,2,10.38,Cat,20.76
+1241,2025-04-30 19:00:00,Buckingham,Cat Litter,8,18.62,Dog,148.96
+1242,2025-04-30 19:00:00,Buckingham,Hamster Wheel,7,51.12,Bird,357.84
+1243,2025-04-30 08:00:00,Buckingham,Dog Chew Toy,1,8.35,Fish,8.35
+1244,2025-04-30 20:00:00,Milton Keynes,Aquarium Filter,1,76.3,Bird,76.3
+1245,2025-04-30 17:00:00,Aylesbury,Hamster Wheel,2,40.84,Rodent,81.68
+1246,2025-04-30 18:00:00,Aylesbury,Dry Dog Food,8,79.64,Fish,637.12
+1247,2025-04-30 16:00:00,Buckingham,Cat Litter,7,69.07,Rodent,483.48999999999995
+1248,2025-04-30 08:00:00,Aylesbury,Dry Dog Food,6,42.33,Cat,253.98
+1249,2025-05-01 13:00:00,Oxford,Flea Shampoo,6,46.56,Fish,279.36
+1250,2025-05-01 17:00:00,Buckingham,Hamster Wheel,4,38.89,Bird,155.56
+1251,2025-05-01 11:00:00,Milton Keynes,Dry Dog Food,4,46.93,Dog,187.72
+1252,2025-05-01 08:00:00,Oxford,Bird Seed,1,56.59,Rodent,56.59
+1253,2025-05-01 18:00:00,Milton Keynes,Cat Litter,6,34.42,Fish,206.52
+1254,2025-05-01 09:00:00,Oxford,Fish Flakes,3,13.33,Dog,39.99
+1255,2025-05-01 10:00:00,Aylesbury,Dog Chew Toy,2,30.44,Cat,60.88
+1256,2025-05-02 12:00:00,Buckingham,Rabbit Hutch,5,12.82,Fish,64.1
+1257,2025-05-02 19:00:00,Oxford,Rabbit Hutch,2,50.56,Cat,101.12
+1258,2025-05-02 19:00:00,Milton Keynes,Bird Seed,6,23.85,Rodent,143.10000000000002
+1259,2025-05-02 17:00:00,Aylesbury,Dog Chew Toy,3,66.15,Cat,198.45000000000002
+1260,2025-05-02 17:00:00,Oxford,Cat Litter,4,65.67,Rodent,262.68
+1261,2025-05-02 15:00:00,Milton Keynes,Cat Litter,1,73.42,Rodent,73.42
+1262,2025-05-02 10:00:00,Milton Keynes,Aquarium Filter,1,73.55,Dog,73.55
+1263,2025-05-02 13:00:00,Milton Keynes,Cat Litter,2,21.9,Bird,43.8
+1264,2025-05-02 18:00:00,Oxford,Hamster Wheel,5,78.25,Bird,391.25
+1265,2025-05-03 10:00:00,Milton Keynes,Cat Litter,4,59.34,Fish,237.36
+1266,2025-05-03 16:00:00,Oxford,Cat Litter,3,5.9,Dog,17.700000000000003
+1267,2025-05-03 20:00:00,Milton Keynes,Bird Seed,5,8.58,Fish,42.9
+1268,2025-05-03 13:00:00,Milton Keynes,Bird Seed,2,39.72,Rodent,79.44
+1269,2025-05-03 18:00:00,Oxford,Hamster Wheel,3,38.35,Bird,115.05000000000001
+1270,2025-05-03 13:00:00,Oxford,Flea Shampoo,4,25.15,Fish,100.6
+1271,2025-05-03 15:00:00,Aylesbury,Dog Chew Toy,7,77.65,Dog,543.5500000000001
+1272,2025-05-03 16:00:00,Aylesbury,Dog Chew Toy,2,57.37,Fish,114.74
+1273,2025-05-03 16:00:00,Buckingham,Dry Dog Food,2,50.23,Bird,100.46
+1274,2025-05-03 15:00:00,Oxford,Bird Seed,4,23.82,Dog,95.28
+1275,2025-05-04 14:00:00,Buckingham,Bird Seed,8,78.47,Dog,627.76
+1276,2025-05-04 20:00:00,Aylesbury,Rabbit Hutch,6,27.02,Rodent,162.12
+1277,2025-05-04 16:00:00,Aylesbury,Cat Litter,6,36.99,Bird,221.94
+1278,2025-05-04 14:00:00,Buckingham,Aquarium Filter,8,43.85,Dog,350.8
+1279,2025-05-04 08:00:00,Aylesbury,Hamster Wheel,3,33.16,Dog,99.47999999999999
+1280,2025-05-04 15:00:00,Buckingham,Cat Litter,6,36.01,Rodent,216.06
+1281,2025-05-04 17:00:00,Buckingham,Wet Cat Food,1,23.42,Bird,23.42
+1282,2025-05-04 10:00:00,Oxford,Hamster Wheel,2,32.71,Fish,65.42
+1283,2025-05-05 20:00:00,Oxford,Hamster Wheel,5,38.61,Dog,193.05
+1284,2025-05-05 20:00:00,Aylesbury,Dry Dog Food,4,77.81,Cat,311.24
+1285,2025-05-05 11:00:00,Aylesbury,Wet Cat Food,5,79.99,Fish,399.95
+1286,2025-05-05 08:00:00,Milton Keynes,Fish Flakes,1,73.38,Fish,73.38
+1287,2025-05-05 18:00:00,Oxford,Wet Cat Food,4,54.55,Cat,218.2
+1288,2025-05-05 14:00:00,Buckingham,Aquarium Filter,5,65.88,Cat,329.4
+1289,2025-05-05 19:00:00,Oxford,Flea Shampoo,2,69.12,Bird,138.24
+1290,2025-05-05 14:00:00,Aylesbury,Wet Cat Food,3,65.34,Rodent,196.02
+1291,2025-05-05 09:00:00,Buckingham,Dry Dog Food,7,75.63,Cat,529.41
+1292,2025-05-05 15:00:00,Milton Keynes,Fish Flakes,5,22.22,Bird,111.1
+1293,2025-05-05 09:00:00,Buckingham,Bird Seed,8,57.58,Dog,460.64
+1294,2025-05-05 13:00:00,Buckingham,Dry Dog Food,1,33.72,Bird,33.72
+1295,2025-05-05 10:00:00,Aylesbury,Hamster Wheel,5,69.71,Cat,348.54999999999995
+1296,2025-05-06 20:00:00,Oxford,Bird Seed,1,16.18,Bird,16.18
+1297,2025-05-06 19:00:00,Aylesbury,Dry Dog Food,4,30.07,Fish,120.28
+1298,2025-05-06 17:00:00,Milton Keynes,Dog Chew Toy,4,36.72,Cat,146.88
+1299,2025-05-06 16:00:00,Milton Keynes,Bird Seed,4,38.94,Bird,155.76
+1300,2025-05-06 15:00:00,Oxford,Dry Dog Food,1,73.23,Rodent,73.23
+1301,2025-05-06 10:00:00,Aylesbury,Dog Chew Toy,1,54.65,Rodent,54.65
+1302,2025-05-06 17:00:00,Aylesbury,Bird Seed,7,36.07,Bird,252.49
+1303,2025-05-06 18:00:00,Aylesbury,Rabbit Hutch,2,22.45,Fish,44.9
+1304,2025-05-06 12:00:00,Milton Keynes,Hamster Wheel,2,49.04,Fish,98.08
+1305,2025-05-06 14:00:00,Oxford,Hamster Wheel,4,20.28,Dog,81.12
+1306,2025-05-06 18:00:00,Aylesbury,Rabbit Hutch,6,8.82,Cat,52.92
+1307,2025-05-07 19:00:00,Aylesbury,Wet Cat Food,8,12.13,Rodent,97.04
+1308,2025-05-07 11:00:00,Buckingham,Hamster Wheel,7,60.91,Cat,426.37
+1309,2025-05-07 14:00:00,Oxford,Dog Chew Toy,6,58.02,Dog,348.12
+1310,2025-05-07 18:00:00,Buckingham,Aquarium Filter,6,40.15,Bird,240.89999999999998
+1311,2025-05-07 12:00:00,Oxford,Flea Shampoo,4,66.31,Dog,265.24
+1312,2025-05-08 15:00:00,Aylesbury,Dog Chew Toy,8,64.59,Bird,516.72
+1313,2025-05-08 10:00:00,Aylesbury,Flea Shampoo,3,18.9,Bird,56.699999999999996
+1314,2025-05-08 09:00:00,Oxford,Fish Flakes,2,64.81,Dog,129.62
+1315,2025-05-08 08:00:00,Buckingham,Rabbit Hutch,8,45.95,Bird,367.6
+1316,2025-05-08 15:00:00,Milton Keynes,Cat Litter,6,57.8,Dog,346.79999999999995
+1317,2025-05-08 13:00:00,Milton Keynes,Rabbit Hutch,1,45.2,Cat,45.2
+1318,2025-05-08 18:00:00,Buckingham,Bird Seed,2,18.83,Cat,37.66
+1319,2025-05-08 09:00:00,Oxford,Wet Cat Food,7,31.47,Cat,220.29
+1320,2025-05-08 13:00:00,Oxford,Flea Shampoo,3,20.6,Bird,61.800000000000004
+1321,2025-05-08 12:00:00,Aylesbury,Aquarium Filter,7,8.37,Cat,58.589999999999996
+1322,2025-05-08 11:00:00,Aylesbury,Bird Seed,6,6.96,Cat,41.76
+1323,2025-05-08 09:00:00,Buckingham,Rabbit Hutch,3,26.32,Bird,78.96000000000001
+1324,2025-05-08 08:00:00,Buckingham,Dry Dog Food,2,45.47,Dog,90.94
+1325,2025-05-08 14:00:00,Buckingham,Aquarium Filter,4,5.1,Cat,20.4
+1326,2025-05-09 09:00:00,Oxford,Bird Seed,5,36.02,Fish,180.10000000000002
+1327,2025-05-09 19:00:00,Buckingham,Hamster Wheel,8,53.72,Bird,429.76
+1328,2025-05-09 14:00:00,Aylesbury,Fish Flakes,5,73.92,Fish,369.6
+1329,2025-05-09 10:00:00,Buckingham,Hamster Wheel,8,57.1,Dog,456.8
+1330,2025-05-09 19:00:00,Buckingham,Cat Litter,4,39.78,Rodent,159.12
+1331,2025-05-09 10:00:00,Aylesbury,Bird Seed,7,11.57,Bird,80.99000000000001
+1332,2025-05-09 13:00:00,Oxford,Rabbit Hutch,8,68.11,Cat,544.88
+1333,2025-05-09 12:00:00,Milton Keynes,Rabbit Hutch,1,20.87,Rodent,20.87
+1334,2025-05-09 20:00:00,Buckingham,Hamster Wheel,7,77.75,Rodent,544.25
+1335,2025-05-09 15:00:00,Milton Keynes,Fish Flakes,8,59.52,Fish,476.16
+1336,2025-05-09 10:00:00,Oxford,Rabbit Hutch,2,9.59,Rodent,19.18
+1337,2025-05-09 11:00:00,Buckingham,Rabbit Hutch,1,57.96,Fish,57.96
+1338,2025-05-09 17:00:00,Buckingham,Hamster Wheel,7,8.43,Dog,59.01
+1339,2025-05-09 11:00:00,Oxford,Hamster Wheel,5,26.09,Bird,130.45
+1340,2025-05-10 12:00:00,Aylesbury,Flea Shampoo,2,8.55,Dog,17.1
+1341,2025-05-10 14:00:00,Milton Keynes,Wet Cat Food,4,54.38,Cat,217.52
+1342,2025-05-10 16:00:00,Buckingham,Cat Litter,3,26.0,Dog,78.0
+1343,2025-05-10 15:00:00,Buckingham,Bird Seed,3,74.36,Rodent,223.07999999999998
+1344,2025-05-10 10:00:00,Aylesbury,Cat Litter,5,64.81,Dog,324.05
+1345,2025-05-10 10:00:00,Buckingham,Bird Seed,5,56.23,Bird,281.15
+1346,2025-05-10 08:00:00,Buckingham,Hamster Wheel,6,8.33,Cat,49.980000000000004
+1347,2025-05-10 19:00:00,Buckingham,Flea Shampoo,7,49.43,Cat,346.01
+1348,2025-05-10 20:00:00,Buckingham,Fish Flakes,1,7.41,Cat,7.41
+1349,2025-05-10 11:00:00,Milton Keynes,Fish Flakes,7,13.2,Dog,92.39999999999999
+1350,2025-05-10 12:00:00,Oxford,Hamster Wheel,2,41.5,Fish,83.0
+1351,2025-05-10 14:00:00,Aylesbury,Cat Litter,3,78.66,Fish,235.98
+1352,2025-05-10 08:00:00,Buckingham,Fish Flakes,1,40.4,Bird,40.4
+1353,2025-05-11 14:00:00,Buckingham,Wet Cat Food,1,36.76,Cat,36.76
+1354,2025-05-11 20:00:00,Oxford,Wet Cat Food,3,38.3,Rodent,114.89999999999999
+1355,2025-05-11 16:00:00,Buckingham,Cat Litter,1,7.73,Rodent,7.73
+1356,2025-05-11 15:00:00,Oxford,Cat Litter,5,11.22,Fish,56.1
+1357,2025-05-11 16:00:00,Buckingham,Dog Chew Toy,2,12.71,Fish,25.42
+1358,2025-05-11 09:00:00,Milton Keynes,Wet Cat Food,5,40.16,Dog,200.79999999999998
+1359,2025-05-11 19:00:00,Oxford,Rabbit Hutch,8,23.37,Bird,186.96
+1360,2025-05-11 09:00:00,Aylesbury,Bird Seed,5,40.05,Cat,200.25
+1361,2025-05-11 12:00:00,Buckingham,Cat Litter,2,52.26,Cat,104.52
+1362,2025-05-11 15:00:00,Oxford,Aquarium Filter,6,71.94,Dog,431.64
+1363,2025-05-11 16:00:00,Aylesbury,Bird Seed,7,66.61,Rodent,466.27
+1364,2025-05-11 17:00:00,Milton Keynes,Bird Seed,8,39.86,Fish,318.88
+1365,2025-05-11 14:00:00,Milton Keynes,Wet Cat Food,5,19.63,Cat,98.14999999999999
+1366,2025-05-11 19:00:00,Milton Keynes,Hamster Wheel,3,35.77,Fish,107.31
+1367,2025-05-11 09:00:00,Oxford,Flea Shampoo,6,53.38,Dog,320.28000000000003
+1368,2025-05-12 15:00:00,Oxford,Aquarium Filter,8,17.51,Fish,140.08
+1369,2025-05-12 15:00:00,Oxford,Aquarium Filter,4,55.84,Fish,223.36
+1370,2025-05-12 12:00:00,Aylesbury,Hamster Wheel,7,62.7,Rodent,438.90000000000003
+1371,2025-05-12 14:00:00,Oxford,Hamster Wheel,3,17.57,Bird,52.71
+1372,2025-05-12 15:00:00,Aylesbury,Cat Litter,3,7.88,Fish,23.64
+1373,2025-05-12 12:00:00,Aylesbury,Wet Cat Food,2,43.68,Rodent,87.36
+1374,2025-05-12 18:00:00,Aylesbury,Fish Flakes,3,44.71,Cat,134.13
+1375,2025-05-12 12:00:00,Milton Keynes,Aquarium Filter,3,30.23,Bird,90.69
+1376,2025-05-13 19:00:00,Milton Keynes,Fish Flakes,8,17.55,Rodent,140.4
+1377,2025-05-13 12:00:00,Oxford,Cat Litter,3,77.18,Fish,231.54000000000002
+1378,2025-05-13 20:00:00,Aylesbury,Cat Litter,4,29.07,Dog,116.28
+1379,2025-05-13 20:00:00,Aylesbury,Rabbit Hutch,6,78.13,Dog,468.78
+1380,2025-05-13 14:00:00,Aylesbury,Aquarium Filter,1,7.22,Rodent,7.22
+1381,2025-05-13 20:00:00,Buckingham,Rabbit Hutch,1,71.18,Fish,71.18
+1382,2025-05-13 13:00:00,Buckingham,Flea Shampoo,5,20.11,Bird,100.55
+1383,2025-05-13 15:00:00,Aylesbury,Dog Chew Toy,2,34.41,Rodent,68.82
+1384,2025-05-13 13:00:00,Oxford,Dog Chew Toy,5,35.24,Rodent,176.20000000000002
+1385,2025-05-13 17:00:00,Oxford,Wet Cat Food,4,22.84,Fish,91.36
+1386,2025-05-13 17:00:00,Buckingham,Wet Cat Food,4,63.84,Dog,255.36
+1387,2025-05-13 19:00:00,Aylesbury,Dog Chew Toy,7,11.77,Fish,82.39
+1388,2025-05-14 17:00:00,Buckingham,Bird Seed,3,75.07,Cat,225.20999999999998
+1389,2025-05-14 13:00:00,Buckingham,Dry Dog Food,7,28.81,Rodent,201.67
+1390,2025-05-14 20:00:00,Oxford,Rabbit Hutch,2,72.32,Fish,144.64
+1391,2025-05-14 11:00:00,Aylesbury,Bird Seed,3,36.75,Rodent,110.25
+1392,2025-05-14 19:00:00,Buckingham,Bird Seed,5,32.41,Dog,162.04999999999998
+1393,2025-05-14 14:00:00,Milton Keynes,Dog Chew Toy,5,10.31,Bird,51.550000000000004
+1394,2025-05-14 19:00:00,Aylesbury,Rabbit Hutch,3,56.23,Cat,168.69
+1395,2025-05-14 17:00:00,Milton Keynes,Rabbit Hutch,7,18.61,Rodent,130.26999999999998
+1396,2025-05-14 11:00:00,Aylesbury,Wet Cat Food,7,78.95,Bird,552.65
+1397,2025-05-14 10:00:00,Aylesbury,Hamster Wheel,2,41.24,Dog,82.48
+1398,2025-05-14 18:00:00,Aylesbury,Hamster Wheel,1,19.6,Dog,19.6
+1399,2025-05-14 18:00:00,Oxford,Fish Flakes,8,41.16,Dog,329.28
+1400,2025-05-14 19:00:00,Buckingham,Fish Flakes,5,58.9,Dog,294.5
+1401,2025-05-14 19:00:00,Oxford,Cat Litter,6,47.82,Cat,286.92
+1402,2025-05-15 10:00:00,Oxford,Hamster Wheel,6,35.24,Fish,211.44
+1403,2025-05-15 16:00:00,Milton Keynes,Cat Litter,7,63.21,Bird,442.47
+1404,2025-05-15 20:00:00,Oxford,Cat Litter,4,56.76,Fish,227.04
+1405,2025-05-15 14:00:00,Milton Keynes,Hamster Wheel,4,33.61,Cat,134.44
+1406,2025-05-15 14:00:00,Oxford,Bird Seed,8,27.51,Fish,220.08
+1407,2025-05-15 11:00:00,Buckingham,Fish Flakes,5,18.01,Bird,90.05000000000001
+1408,2025-05-15 12:00:00,Aylesbury,Aquarium Filter,4,41.8,Dog,167.2
+1409,2025-05-15 12:00:00,Aylesbury,Bird Seed,6,14.84,Rodent,89.03999999999999
+1410,2025-05-15 09:00:00,Oxford,Wet Cat Food,2,12.01,Rodent,24.02
+1411,2025-05-16 11:00:00,Buckingham,Cat Litter,4,45.36,Rodent,181.44
+1412,2025-05-16 12:00:00,Buckingham,Fish Flakes,4,40.14,Dog,160.56
+1413,2025-05-16 18:00:00,Oxford,Dog Chew Toy,4,54.93,Fish,219.72
+1414,2025-05-16 09:00:00,Oxford,Wet Cat Food,1,34.38,Fish,34.38
+1415,2025-05-16 13:00:00,Milton Keynes,Flea Shampoo,2,56.75,Rodent,113.5
+1416,2025-05-16 12:00:00,Milton Keynes,Dog Chew Toy,6,8.57,Dog,51.42
+1417,2025-05-16 19:00:00,Milton Keynes,Cat Litter,8,62.25,Dog,498.0
+1418,2025-05-16 13:00:00,Oxford,Aquarium Filter,1,49.14,Fish,49.14
+1419,2025-05-16 08:00:00,Oxford,Aquarium Filter,7,74.33,Dog,520.31
+1420,2025-05-16 08:00:00,Aylesbury,Fish Flakes,8,9.55,Rodent,76.4
+1421,2025-05-16 20:00:00,Aylesbury,Rabbit Hutch,2,5.1,Dog,10.2
+1422,2025-05-16 17:00:00,Aylesbury,Rabbit Hutch,6,51.11,Fish,306.65999999999997
+1423,2025-05-17 19:00:00,Buckingham,Flea Shampoo,2,62.03,Dog,124.06
+1424,2025-05-17 18:00:00,Milton Keynes,Rabbit Hutch,7,71.68,Bird,501.76000000000005
+1425,2025-05-17 16:00:00,Buckingham,Aquarium Filter,1,12.77,Rodent,12.77
+1426,2025-05-17 16:00:00,Aylesbury,Hamster Wheel,1,72.17,Fish,72.17
+1427,2025-05-17 19:00:00,Milton Keynes,Dog Chew Toy,7,57.46,Fish,402.22
+1428,2025-05-18 19:00:00,Buckingham,Fish Flakes,3,12.31,Cat,36.93
+1429,2025-05-18 14:00:00,Oxford,Hamster Wheel,1,49.49,Cat,49.49
+1430,2025-05-18 17:00:00,Buckingham,Dry Dog Food,7,34.78,Rodent,243.46
+1431,2025-05-18 18:00:00,Oxford,Bird Seed,7,35.95,Bird,251.65000000000003
+1432,2025-05-18 17:00:00,Oxford,Cat Litter,7,42.71,Rodent,298.97
+1433,2025-05-18 10:00:00,Aylesbury,Hamster Wheel,2,28.58,Cat,57.16
+1434,2025-05-18 14:00:00,Milton Keynes,Fish Flakes,3,74.57,Bird,223.70999999999998
+1435,2025-05-18 09:00:00,Buckingham,Rabbit Hutch,7,35.39,Fish,247.73000000000002
+1436,2025-05-19 20:00:00,Aylesbury,Aquarium Filter,7,64.35,Bird,450.44999999999993
+1437,2025-05-19 13:00:00,Milton Keynes,Fish Flakes,6,62.19,Rodent,373.14
+1438,2025-05-19 11:00:00,Buckingham,Wet Cat Food,8,11.29,Cat,90.32
+1439,2025-05-19 13:00:00,Buckingham,Dry Dog Food,1,72.98,Bird,72.98
+1440,2025-05-19 11:00:00,Milton Keynes,Dry Dog Food,3,39.54,Rodent,118.62
+1441,2025-05-19 12:00:00,Oxford,Dog Chew Toy,2,28.1,Rodent,56.2
+1442,2025-05-19 15:00:00,Oxford,Rabbit Hutch,5,75.61,Cat,378.05
+1443,2025-05-19 10:00:00,Milton Keynes,Dry Dog Food,8,43.21,Rodent,345.68
+1444,2025-05-19 08:00:00,Aylesbury,Rabbit Hutch,8,27.6,Bird,220.8
+1445,2025-05-19 14:00:00,Milton Keynes,Hamster Wheel,6,58.34,Cat,350.04
+1446,2025-05-19 15:00:00,Oxford,Aquarium Filter,3,32.51,Bird,97.53
+1447,2025-05-19 16:00:00,Buckingham,Dry Dog Food,3,19.94,Dog,59.82000000000001
+1448,2025-05-19 16:00:00,Oxford,Wet Cat Food,4,51.92,Rodent,207.68
+1449,2025-05-19 10:00:00,Oxford,Fish Flakes,3,43.07,Bird,129.21
+1450,2025-05-20 20:00:00,Oxford,Dog Chew Toy,1,14.37,Rodent,14.37
+1451,2025-05-20 12:00:00,Oxford,Fish Flakes,5,11.55,Rodent,57.75
+1452,2025-05-20 08:00:00,Aylesbury,Dog Chew Toy,6,42.51,Dog,255.06
+1453,2025-05-20 20:00:00,Buckingham,Rabbit Hutch,3,11.96,Dog,35.88
+1454,2025-05-20 17:00:00,Aylesbury,Wet Cat Food,1,60.42,Cat,60.42
+1455,2025-05-20 09:00:00,Milton Keynes,Dry Dog Food,6,71.33,Bird,427.98
+1456,2025-05-20 16:00:00,Milton Keynes,Dry Dog Food,8,21.97,Bird,175.76
+1457,2025-05-20 15:00:00,Oxford,Fish Flakes,2,30.55,Cat,61.1
+1458,2025-05-20 13:00:00,Buckingham,Bird Seed,4,55.38,Bird,221.52
+1459,2025-05-21 17:00:00,Aylesbury,Fish Flakes,5,50.25,Rodent,251.25
+1460,2025-05-21 17:00:00,Aylesbury,Dry Dog Food,1,70.28,Rodent,70.28
+1461,2025-05-21 10:00:00,Oxford,Fish Flakes,4,50.8,Fish,203.2
+1462,2025-05-21 18:00:00,Aylesbury,Dry Dog Food,2,18.67,Rodent,37.34
+1463,2025-05-21 09:00:00,Buckingham,Cat Litter,2,69.44,Bird,138.88
+1464,2025-05-21 13:00:00,Milton Keynes,Aquarium Filter,5,32.54,Bird,162.7
+1465,2025-05-21 20:00:00,Milton Keynes,Wet Cat Food,2,53.34,Bird,106.68
+1466,2025-05-21 13:00:00,Buckingham,Rabbit Hutch,7,24.16,Cat,169.12
+1467,2025-05-21 10:00:00,Oxford,Fish Flakes,7,35.29,Dog,247.03
+1468,2025-05-21 16:00:00,Milton Keynes,Aquarium Filter,4,56.16,Cat,224.64
+1469,2025-05-21 18:00:00,Buckingham,Rabbit Hutch,7,9.16,Rodent,64.12
+1470,2025-05-21 16:00:00,Buckingham,Hamster Wheel,2,68.59,Rodent,137.18
+1471,2025-05-21 20:00:00,Oxford,Dry Dog Food,6,63.55,Bird,381.29999999999995
+1472,2025-05-21 19:00:00,Milton Keynes,Hamster Wheel,5,12.21,Fish,61.050000000000004
+1473,2025-05-22 20:00:00,Oxford,Hamster Wheel,3,35.0,Fish,105.0
+1474,2025-05-22 11:00:00,Milton Keynes,Aquarium Filter,1,66.31,Bird,66.31
+1475,2025-05-22 20:00:00,Oxford,Bird Seed,1,77.14,Cat,77.14
+1476,2025-05-22 11:00:00,Oxford,Dog Chew Toy,2,63.35,Rodent,126.7
+1477,2025-05-22 12:00:00,Buckingham,Aquarium Filter,8,72.45,Rodent,579.6
+1478,2025-05-22 12:00:00,Buckingham,Rabbit Hutch,4,21.97,Fish,87.88
+1479,2025-05-22 08:00:00,Milton Keynes,Wet Cat Food,3,21.26,Dog,63.78
+1480,2025-05-22 08:00:00,Oxford,Hamster Wheel,1,41.87,Fish,41.87
+1481,2025-05-22 10:00:00,Aylesbury,Wet Cat Food,5,15.33,Cat,76.65
+1482,2025-05-22 16:00:00,Buckingham,Dry Dog Food,4,29.93,Rodent,119.72
+1483,2025-05-22 13:00:00,Milton Keynes,Dog Chew Toy,7,50.17,Fish,351.19
+1484,2025-05-22 19:00:00,Oxford,Bird Seed,2,50.17,Bird,100.34
+1485,2025-05-22 11:00:00,Oxford,Dry Dog Food,3,51.11,Fish,153.32999999999998
+1486,2025-05-22 19:00:00,Milton Keynes,Wet Cat Food,5,54.13,Cat,270.65000000000003
+1487,2025-05-23 12:00:00,Aylesbury,Dog Chew Toy,6,57.7,Fish,346.20000000000005
+1488,2025-05-23 10:00:00,Buckingham,Rabbit Hutch,3,45.03,Dog,135.09
+1489,2025-05-23 13:00:00,Buckingham,Bird Seed,3,61.25,Fish,183.75
+1490,2025-05-23 15:00:00,Oxford,Rabbit Hutch,3,7.71,Bird,23.13
+1491,2025-05-23 20:00:00,Aylesbury,Cat Litter,1,78.04,Dog,78.04
+1492,2025-05-23 14:00:00,Buckingham,Cat Litter,1,78.89,Dog,78.89
+1493,2025-05-23 08:00:00,Milton Keynes,Dry Dog Food,1,39.67,Rodent,39.67
+1494,2025-05-23 14:00:00,Aylesbury,Hamster Wheel,2,5.16,Cat,10.32
+1495,2025-05-24 08:00:00,Oxford,Wet Cat Food,2,45.53,Fish,91.06
+1496,2025-05-24 19:00:00,Aylesbury,Hamster Wheel,1,51.38,Bird,51.38
+1497,2025-05-24 16:00:00,Aylesbury,Cat Litter,8,44.29,Cat,354.32
+1498,2025-05-24 14:00:00,Aylesbury,Fish Flakes,8,46.87,Dog,374.96
+1499,2025-05-24 15:00:00,Aylesbury,Dry Dog Food,5,29.56,Fish,147.79999999999998
+1500,2025-05-24 10:00:00,Aylesbury,Aquarium Filter,7,78.02,Bird,546.14
+1501,2025-05-24 15:00:00,Aylesbury,Hamster Wheel,1,53.26,Cat,53.26
+1502,2025-05-24 09:00:00,Aylesbury,Flea Shampoo,2,35.86,Bird,71.72
+1503,2025-05-24 12:00:00,Buckingham,Rabbit Hutch,6,40.02,Cat,240.12
+1504,2025-05-25 10:00:00,Aylesbury,Rabbit Hutch,4,9.99,Fish,39.96
+1505,2025-05-25 12:00:00,Milton Keynes,Wet Cat Food,6,66.14,Cat,396.84000000000003
+1506,2025-05-25 08:00:00,Oxford,Fish Flakes,7,5.22,Dog,36.54
+1507,2025-05-25 13:00:00,Milton Keynes,Cat Litter,6,38.97,Cat,233.82
+1508,2025-05-25 17:00:00,Aylesbury,Fish Flakes,5,39.03,Rodent,195.15
+1509,2025-05-25 14:00:00,Aylesbury,Dog Chew Toy,6,42.91,Cat,257.46
+1510,2025-05-25 12:00:00,Milton Keynes,Bird Seed,2,41.25,Cat,82.5
+1511,2025-05-25 17:00:00,Oxford,Dry Dog Food,4,22.74,Cat,90.96
+1512,2025-05-25 08:00:00,Aylesbury,Rabbit Hutch,3,24.42,Rodent,73.26
+1513,2025-05-25 13:00:00,Aylesbury,Cat Litter,2,55.89,Bird,111.78
+1514,2025-05-25 12:00:00,Milton Keynes,Fish Flakes,2,79.67,Fish,159.34
+1515,2025-05-25 20:00:00,Milton Keynes,Fish Flakes,4,72.79,Fish,291.16
+1516,2025-05-25 17:00:00,Oxford,Flea Shampoo,8,66.8,Rodent,534.4
+1517,2025-05-25 08:00:00,Oxford,Bird Seed,1,5.91,Cat,5.91
+1518,2025-05-26 15:00:00,Oxford,Flea Shampoo,6,44.62,Fish,267.71999999999997
+1519,2025-05-26 08:00:00,Milton Keynes,Fish Flakes,1,9.63,Cat,9.63
+1520,2025-05-26 09:00:00,Aylesbury,Dry Dog Food,2,71.93,Dog,143.86
+1521,2025-05-26 18:00:00,Oxford,Bird Seed,5,76.68,Dog,383.40000000000003
+1522,2025-05-26 09:00:00,Milton Keynes,Cat Litter,2,28.67,Bird,57.34
+1523,2025-05-26 09:00:00,Oxford,Fish Flakes,4,21.83,Cat,87.32
+1524,2025-05-26 12:00:00,Buckingham,Rabbit Hutch,2,56.72,Fish,113.44
+1525,2025-05-26 12:00:00,Buckingham,Fish Flakes,3,59.27,Rodent,177.81
+1526,2025-05-27 16:00:00,Milton Keynes,Hamster Wheel,6,45.87,Rodent,275.21999999999997
+1527,2025-05-27 19:00:00,Oxford,Rabbit Hutch,3,59.86,Dog,179.57999999999998
+1528,2025-05-27 15:00:00,Oxford,Dry Dog Food,7,72.06,Bird,504.42
+1529,2025-05-27 14:00:00,Buckingham,Rabbit Hutch,6,71.41,Dog,428.46
+1530,2025-05-27 20:00:00,Oxford,Flea Shampoo,2,10.29,Dog,20.58
+1531,2025-05-27 18:00:00,Milton Keynes,Dry Dog Food,1,68.73,Bird,68.73
+1532,2025-05-27 10:00:00,Buckingham,Fish Flakes,2,57.31,Rodent,114.62
+1533,2025-05-27 14:00:00,Oxford,Fish Flakes,2,25.62,Bird,51.24
+1534,2025-05-27 19:00:00,Oxford,Hamster Wheel,7,31.78,Bird,222.46
+1535,2025-05-27 11:00:00,Milton Keynes,Wet Cat Food,6,41.83,Dog,250.98
+1536,2025-05-27 18:00:00,Milton Keynes,Fish Flakes,4,70.31,Cat,281.24
+1537,2025-05-27 20:00:00,Buckingham,Aquarium Filter,4,73.54,Dog,294.16
+1538,2025-05-27 16:00:00,Milton Keynes,Dry Dog Food,5,10.7,Rodent,53.5
+1539,2025-05-27 17:00:00,Aylesbury,Cat Litter,5,48.41,Bird,242.04999999999998
+1540,2025-05-27 09:00:00,Aylesbury,Dry Dog Food,6,9.99,Rodent,59.94
+1541,2025-05-28 10:00:00,Aylesbury,Dry Dog Food,5,51.61,Fish,258.05
+1542,2025-05-28 18:00:00,Aylesbury,Wet Cat Food,8,28.8,Fish,230.4
+1543,2025-05-28 20:00:00,Aylesbury,Aquarium Filter,6,55.14,Bird,330.84000000000003
+1544,2025-05-28 18:00:00,Buckingham,Dog Chew Toy,5,8.89,Bird,44.45
+1545,2025-05-28 17:00:00,Oxford,Bird Seed,8,66.7,Dog,533.6
+1546,2025-05-28 14:00:00,Oxford,Dry Dog Food,8,12.26,Cat,98.08
+1547,2025-05-28 10:00:00,Oxford,Fish Flakes,5,58.21,Fish,291.05
+1548,2025-05-28 12:00:00,Aylesbury,Dry Dog Food,8,22.05,Dog,176.4
+1549,2025-05-28 17:00:00,Aylesbury,Cat Litter,2,23.76,Cat,47.52
+1550,2025-05-28 16:00:00,Buckingham,Rabbit Hutch,3,20.96,Bird,62.88
+1551,2025-05-28 12:00:00,Oxford,Dog Chew Toy,8,33.82,Rodent,270.56
+1552,2025-05-28 14:00:00,Oxford,Dry Dog Food,5,46.97,Dog,234.85
+1553,2025-05-28 14:00:00,Aylesbury,Flea Shampoo,2,17.49,Bird,34.98
+1554,2025-05-29 20:00:00,Oxford,Hamster Wheel,8,29.6,Dog,236.8
+1555,2025-05-29 10:00:00,Milton Keynes,Flea Shampoo,7,30.89,Cat,216.23000000000002
+1556,2025-05-29 17:00:00,Buckingham,Cat Litter,6,16.22,Cat,97.32
+1557,2025-05-29 13:00:00,Aylesbury,Bird Seed,6,27.28,Fish,163.68
+1558,2025-05-29 11:00:00,Oxford,Dry Dog Food,4,57.41,Dog,229.64
+1559,2025-05-29 12:00:00,Oxford,Hamster Wheel,8,71.45,Bird,571.6
+1560,2025-05-29 09:00:00,Oxford,Flea Shampoo,6,14.89,Bird,89.34
+1561,2025-05-29 08:00:00,Buckingham,Wet Cat Food,5,48.6,Fish,243.0
+1562,2025-05-29 12:00:00,Oxford,Hamster Wheel,8,60.67,Cat,485.36
+1563,2025-05-29 17:00:00,Aylesbury,Wet Cat Food,5,42.8,Rodent,214.0
+1564,2025-05-29 20:00:00,Milton Keynes,Flea Shampoo,4,21.54,Fish,86.16
+1565,2025-05-30 09:00:00,Buckingham,Dog Chew Toy,1,59.82,Bird,59.82
+1566,2025-05-30 15:00:00,Oxford,Cat Litter,2,55.99,Rodent,111.98
+1567,2025-05-30 16:00:00,Aylesbury,Aquarium Filter,7,64.44,Cat,451.08
+1568,2025-05-30 17:00:00,Oxford,Dog Chew Toy,7,31.54,Cat,220.78
+1569,2025-05-30 20:00:00,Oxford,Cat Litter,3,10.53,Bird,31.589999999999996
+1570,2025-05-30 11:00:00,Aylesbury,Wet Cat Food,2,50.56,Fish,101.12
+1571,2025-05-30 17:00:00,Milton Keynes,Flea Shampoo,6,39.13,Rodent,234.78000000000003
+1572,2025-05-30 15:00:00,Milton Keynes,Cat Litter,3,19.4,Bird,58.199999999999996
+1573,2025-05-31 15:00:00,Aylesbury,Cat Litter,3,38.08,Fish,114.24
+1574,2025-05-31 20:00:00,Aylesbury,Cat Litter,8,29.7,Fish,237.6
+1575,2025-05-31 08:00:00,Oxford,Bird Seed,3,65.63,Rodent,196.89
+1576,2025-05-31 13:00:00,Buckingham,Dry Dog Food,6,60.74,Rodent,364.44
+1577,2025-05-31 20:00:00,Oxford,Bird Seed,7,59.53,Rodent,416.71000000000004
+1578,2025-05-31 14:00:00,Aylesbury,Aquarium Filter,7,67.0,Dog,469.0
+1579,2025-05-31 13:00:00,Oxford,Bird Seed,4,53.11,Dog,212.44
+1580,2025-05-31 08:00:00,Buckingham,Wet Cat Food,7,58.3,Cat,408.09999999999997
+1581,2025-05-31 16:00:00,Oxford,Cat Litter,8,29.69,Fish,237.52
+1582,2025-05-31 16:00:00,Oxford,Rabbit Hutch,6,8.98,Dog,53.88
+1583,2025-05-31 13:00:00,Buckingham,Dog Chew Toy,5,7.27,Cat,36.349999999999994
+1584,2025-05-31 12:00:00,Buckingham,Hamster Wheel,4,56.94,Dog,227.76
+1585,2025-05-31 15:00:00,Oxford,Flea Shampoo,7,46.38,Rodent,324.66
+1586,2025-06-01 20:00:00,Aylesbury,Wet Cat Food,4,76.25,Cat,305.0
+1587,2025-06-01 10:00:00,Aylesbury,Dry Dog Food,4,25.23,Bird,100.92
+1588,2025-06-01 14:00:00,Aylesbury,Aquarium Filter,6,52.15,Rodent,312.9
+1589,2025-06-01 08:00:00,Aylesbury,Cat Litter,3,55.42,Dog,166.26
+1590,2025-06-01 12:00:00,Milton Keynes,Hamster Wheel,3,57.93,Cat,173.79
+1591,2025-06-01 16:00:00,Milton Keynes,Dog Chew Toy,8,72.71,Cat,581.68
+1592,2025-06-01 16:00:00,Buckingham,Hamster Wheel,2,63.53,Dog,127.06
+1593,2025-06-01 16:00:00,Milton Keynes,Cat Litter,7,51.71,Bird,361.97
+1594,2025-06-01 10:00:00,Milton Keynes,Dry Dog Food,2,45.92,Cat,91.84
+1595,2025-06-01 10:00:00,Milton Keynes,Fish Flakes,1,32.68,Rodent,32.68
+1596,2025-06-02 20:00:00,Milton Keynes,Dog Chew Toy,2,75.17,Bird,150.34
+1597,2025-06-02 09:00:00,Aylesbury,Wet Cat Food,8,23.82,Bird,190.56
+1598,2025-06-02 14:00:00,Buckingham,Flea Shampoo,8,49.11,Cat,392.88
+1599,2025-06-02 15:00:00,Aylesbury,Wet Cat Food,4,57.01,Bird,228.04
+1600,2025-06-02 12:00:00,Aylesbury,Flea Shampoo,7,22.87,Dog,160.09
+1601,2025-06-02 10:00:00,Buckingham,Rabbit Hutch,6,74.79,Rodent,448.74
+1602,2025-06-02 20:00:00,Milton Keynes,Aquarium Filter,2,57.01,Rodent,114.02
+1603,2025-06-02 20:00:00,Oxford,Bird Seed,7,26.98,Fish,188.86
+1604,2025-06-02 14:00:00,Milton Keynes,Flea Shampoo,8,20.62,Fish,164.96
+1605,2025-06-02 08:00:00,Milton Keynes,Cat Litter,3,22.96,Fish,68.88
+1606,2025-06-02 12:00:00,Buckingham,Rabbit Hutch,1,10.75,Dog,10.75
+1607,2025-06-02 08:00:00,Milton Keynes,Dry Dog Food,8,7.85,Cat,62.8
+1608,2025-06-03 11:00:00,Buckingham,Rabbit Hutch,2,62.12,Dog,124.24
+1609,2025-06-03 17:00:00,Aylesbury,Cat Litter,5,37.27,Rodent,186.35000000000002
+1610,2025-06-03 18:00:00,Oxford,Flea Shampoo,5,67.69,Rodent,338.45
+1611,2025-06-03 15:00:00,Oxford,Dog Chew Toy,4,56.68,Fish,226.72
+1612,2025-06-03 12:00:00,Aylesbury,Hamster Wheel,8,5.75,Dog,46.0
+1613,2025-06-03 18:00:00,Milton Keynes,Dry Dog Food,5,67.85,Dog,339.25
+1614,2025-06-03 09:00:00,Buckingham,Wet Cat Food,1,61.13,Dog,61.13
+1615,2025-06-03 10:00:00,Milton Keynes,Rabbit Hutch,1,65.61,Dog,65.61
+1616,2025-06-03 17:00:00,Aylesbury,Bird Seed,6,24.9,Rodent,149.39999999999998
+1617,2025-06-03 09:00:00,Milton Keynes,Dog Chew Toy,5,45.49,Cat,227.45000000000002
+1618,2025-06-04 19:00:00,Oxford,Flea Shampoo,4,22.12,Bird,88.48
+1619,2025-06-04 19:00:00,Oxford,Dog Chew Toy,3,75.75,Dog,227.25
+1620,2025-06-04 17:00:00,Buckingham,Bird Seed,6,74.57,Bird,447.41999999999996
+1621,2025-06-04 13:00:00,Oxford,Cat Litter,2,40.42,Rodent,80.84
+1622,2025-06-04 15:00:00,Milton Keynes,Flea Shampoo,8,49.35,Fish,394.8
+1623,2025-06-04 12:00:00,Oxford,Cat Litter,8,74.77,Cat,598.16
+1624,2025-06-05 20:00:00,Aylesbury,Wet Cat Food,2,79.56,Cat,159.12
+1625,2025-06-05 15:00:00,Aylesbury,Wet Cat Food,4,51.33,Bird,205.32
+1626,2025-06-05 13:00:00,Oxford,Wet Cat Food,5,59.13,Cat,295.65000000000003
+1627,2025-06-05 16:00:00,Buckingham,Bird Seed,5,41.66,Rodent,208.29999999999998
+1628,2025-06-05 18:00:00,Buckingham,Cat Litter,7,39.99,Cat,279.93
+1629,2025-06-05 17:00:00,Milton Keynes,Rabbit Hutch,7,43.96,Cat,307.72
+1630,2025-06-06 15:00:00,Milton Keynes,Fish Flakes,4,5.52,Rodent,22.08
+1631,2025-06-06 15:00:00,Buckingham,Cat Litter,3,17.72,Fish,53.16
+1632,2025-06-06 14:00:00,Oxford,Cat Litter,1,20.65,Rodent,20.65
+1633,2025-06-06 20:00:00,Oxford,Wet Cat Food,5,9.53,Rodent,47.65
+1634,2025-06-06 12:00:00,Oxford,Rabbit Hutch,3,40.14,Bird,120.42
+1635,2025-06-06 19:00:00,Oxford,Dog Chew Toy,5,15.18,Bird,75.9
+1636,2025-06-06 19:00:00,Buckingham,Aquarium Filter,4,43.93,Cat,175.72
+1637,2025-06-06 20:00:00,Milton Keynes,Cat Litter,5,56.54,Dog,282.7
+1638,2025-06-06 18:00:00,Milton Keynes,Wet Cat Food,4,11.18,Dog,44.72
+1639,2025-06-07 14:00:00,Buckingham,Aquarium Filter,8,60.68,Rodent,485.44
+1640,2025-06-07 19:00:00,Oxford,Hamster Wheel,8,56.51,Bird,452.08
+1641,2025-06-07 12:00:00,Buckingham,Rabbit Hutch,7,54.48,Bird,381.35999999999996
+1642,2025-06-07 14:00:00,Oxford,Rabbit Hutch,8,66.73,Cat,533.84
+1643,2025-06-07 18:00:00,Buckingham,Cat Litter,6,19.24,Bird,115.44
+1644,2025-06-08 12:00:00,Buckingham,Dog Chew Toy,3,15.69,Rodent,47.07
+1645,2025-06-08 10:00:00,Aylesbury,Dog Chew Toy,8,41.79,Rodent,334.32
+1646,2025-06-08 18:00:00,Buckingham,Wet Cat Food,3,31.95,Fish,95.85
+1647,2025-06-08 15:00:00,Aylesbury,Aquarium Filter,1,76.25,Bird,76.25
+1648,2025-06-08 09:00:00,Milton Keynes,Flea Shampoo,2,44.38,Bird,88.76
+1649,2025-06-08 11:00:00,Oxford,Hamster Wheel,2,5.36,Bird,10.72
+1650,2025-06-09 19:00:00,Oxford,Flea Shampoo,6,57.56,Rodent,345.36
+1651,2025-06-09 16:00:00,Oxford,Dog Chew Toy,5,56.61,Cat,283.05
+1652,2025-06-09 16:00:00,Buckingham,Hamster Wheel,1,45.55,Dog,45.55
+1653,2025-06-09 12:00:00,Buckingham,Bird Seed,7,17.48,Bird,122.36
+1654,2025-06-09 09:00:00,Aylesbury,Cat Litter,4,27.07,Rodent,108.28
+1655,2025-06-09 18:00:00,Buckingham,Bird Seed,7,63.36,Cat,443.52
+1656,2025-06-09 14:00:00,Aylesbury,Fish Flakes,1,78.95,Cat,78.95
+1657,2025-06-09 11:00:00,Aylesbury,Aquarium Filter,7,51.64,Rodent,361.48
+1658,2025-06-09 15:00:00,Aylesbury,Dog Chew Toy,2,10.67,Cat,21.34
+1659,2025-06-09 09:00:00,Oxford,Flea Shampoo,5,67.02,Rodent,335.09999999999997
+1660,2025-06-09 11:00:00,Buckingham,Fish Flakes,8,5.3,Bird,42.4
+1661,2025-06-09 18:00:00,Oxford,Flea Shampoo,3,33.09,Fish,99.27000000000001
+1662,2025-06-09 14:00:00,Milton Keynes,Hamster Wheel,8,58.52,Bird,468.16
+1663,2025-06-09 10:00:00,Buckingham,Flea Shampoo,1,35.57,Fish,35.57
+1664,2025-06-09 12:00:00,Aylesbury,Flea Shampoo,7,28.16,Bird,197.12
+1665,2025-06-10 16:00:00,Milton Keynes,Flea Shampoo,8,65.67,Bird,525.36
+1666,2025-06-10 16:00:00,Oxford,Aquarium Filter,7,9.79,Bird,68.53
+1667,2025-06-10 12:00:00,Buckingham,Dry Dog Food,6,16.26,Dog,97.56
+1668,2025-06-10 09:00:00,Milton Keynes,Dry Dog Food,3,19.27,Rodent,57.81
+1669,2025-06-10 17:00:00,Buckingham,Dry Dog Food,4,79.77,Fish,319.08
+1670,2025-06-10 15:00:00,Oxford,Cat Litter,4,62.66,Bird,250.64
+1671,2025-06-10 18:00:00,Aylesbury,Wet Cat Food,4,45.73,Dog,182.92
+1672,2025-06-10 16:00:00,Milton Keynes,Aquarium Filter,3,21.8,Dog,65.4
+1673,2025-06-10 12:00:00,Aylesbury,Hamster Wheel,5,25.97,Bird,129.85
+1674,2025-06-10 20:00:00,Milton Keynes,Bird Seed,5,7.04,Rodent,35.2
+1675,2025-06-10 09:00:00,Buckingham,Hamster Wheel,5,41.87,Bird,209.35
+1676,2025-06-10 13:00:00,Oxford,Rabbit Hutch,5,7.5,Rodent,37.5
+1677,2025-06-10 20:00:00,Milton Keynes,Dry Dog Food,8,78.64,Rodent,629.12
+1678,2025-06-10 11:00:00,Milton Keynes,Rabbit Hutch,6,16.34,Dog,98.03999999999999
+1679,2025-06-10 09:00:00,Buckingham,Flea Shampoo,4,23.98,Fish,95.92
+1680,2025-06-11 20:00:00,Oxford,Dog Chew Toy,5,47.47,Fish,237.35
+1681,2025-06-11 15:00:00,Milton Keynes,Dry Dog Food,3,26.41,Bird,79.23
+1682,2025-06-11 11:00:00,Buckingham,Wet Cat Food,5,68.41,Dog,342.04999999999995
+1683,2025-06-11 17:00:00,Oxford,Bird Seed,8,45.45,Dog,363.6
+1684,2025-06-11 15:00:00,Oxford,Cat Litter,2,51.21,Fish,102.42
+1685,2025-06-11 19:00:00,Aylesbury,Cat Litter,1,36.54,Cat,36.54
+1686,2025-06-11 20:00:00,Buckingham,Dog Chew Toy,4,51.88,Cat,207.52
+1687,2025-06-11 13:00:00,Milton Keynes,Cat Litter,6,30.62,Bird,183.72
+1688,2025-06-12 14:00:00,Aylesbury,Hamster Wheel,7,57.42,Cat,401.94
+1689,2025-06-12 15:00:00,Oxford,Bird Seed,6,5.38,Fish,32.28
+1690,2025-06-12 16:00:00,Buckingham,Fish Flakes,1,55.8,Rodent,55.8
+1691,2025-06-12 10:00:00,Oxford,Dog Chew Toy,8,22.07,Dog,176.56
+1692,2025-06-12 13:00:00,Oxford,Bird Seed,6,35.85,Cat,215.10000000000002
+1693,2025-06-12 15:00:00,Milton Keynes,Bird Seed,4,69.75,Rodent,279.0
+1694,2025-06-12 13:00:00,Aylesbury,Wet Cat Food,5,74.77,Cat,373.84999999999997
+1695,2025-06-12 17:00:00,Oxford,Aquarium Filter,7,23.06,Fish,161.42
+1696,2025-06-12 10:00:00,Oxford,Fish Flakes,7,77.45,Dog,542.15
+1697,2025-06-12 11:00:00,Oxford,Wet Cat Food,1,60.92,Cat,60.92
+1698,2025-06-12 19:00:00,Oxford,Dog Chew Toy,2,50.93,Dog,101.86
+1699,2025-06-12 17:00:00,Oxford,Wet Cat Food,4,57.69,Rodent,230.76
+1700,2025-06-12 15:00:00,Buckingham,Aquarium Filter,7,15.51,Cat,108.57
+1701,2025-06-13 14:00:00,Oxford,Wet Cat Food,7,61.43,Dog,430.01
+1702,2025-06-13 18:00:00,Aylesbury,Cat Litter,3,10.61,Fish,31.83
+1703,2025-06-13 17:00:00,Buckingham,Cat Litter,2,41.76,Dog,83.52
+1704,2025-06-13 13:00:00,Milton Keynes,Dry Dog Food,2,47.96,Rodent,95.92
+1705,2025-06-13 20:00:00,Buckingham,Rabbit Hutch,4,33.5,Fish,134.0
+1706,2025-06-13 18:00:00,Milton Keynes,Bird Seed,4,67.54,Bird,270.16
+1707,2025-06-13 17:00:00,Milton Keynes,Hamster Wheel,5,37.85,Dog,189.25
+1708,2025-06-13 16:00:00,Oxford,Wet Cat Food,8,43.94,Rodent,351.52
+1709,2025-06-13 17:00:00,Buckingham,Dry Dog Food,7,59.17,Bird,414.19
+1710,2025-06-13 08:00:00,Milton Keynes,Bird Seed,4,75.66,Dog,302.64
+1711,2025-06-13 18:00:00,Oxford,Fish Flakes,4,30.47,Cat,121.88
+1712,2025-06-13 18:00:00,Buckingham,Flea Shampoo,7,37.53,Cat,262.71000000000004
+1713,2025-06-13 08:00:00,Aylesbury,Cat Litter,7,15.45,Rodent,108.14999999999999
+1714,2025-06-13 19:00:00,Buckingham,Fish Flakes,7,57.12,Fish,399.84
+1715,2025-06-14 12:00:00,Buckingham,Dry Dog Food,7,76.62,Cat,536.34
+1716,2025-06-14 17:00:00,Milton Keynes,Flea Shampoo,5,56.37,Bird,281.84999999999997
+1717,2025-06-14 09:00:00,Aylesbury,Hamster Wheel,2,58.54,Rodent,117.08
+1718,2025-06-14 08:00:00,Milton Keynes,Wet Cat Food,8,24.03,Rodent,192.24
+1719,2025-06-14 08:00:00,Buckingham,Hamster Wheel,1,35.08,Fish,35.08
+1720,2025-06-14 08:00:00,Buckingham,Bird Seed,4,57.95,Cat,231.8
+1721,2025-06-14 15:00:00,Milton Keynes,Dry Dog Food,4,27.37,Fish,109.48
+1722,2025-06-14 20:00:00,Buckingham,Dog Chew Toy,3,27.75,Cat,83.25
+1723,2025-06-14 19:00:00,Oxford,Wet Cat Food,5,55.47,Cat,277.35
+1724,2025-06-14 09:00:00,Oxford,Hamster Wheel,2,45.48,Fish,90.96
+1725,2025-06-14 13:00:00,Oxford,Bird Seed,5,20.7,Cat,103.5
+1726,2025-06-14 09:00:00,Oxford,Hamster Wheel,2,22.19,Fish,44.38
+1727,2025-06-14 17:00:00,Aylesbury,Bird Seed,3,56.79,Fish,170.37
+1728,2025-06-14 15:00:00,Buckingham,Flea Shampoo,5,73.57,Bird,367.84999999999997
+1729,2025-06-14 15:00:00,Buckingham,Wet Cat Food,2,33.35,Bird,66.7
+1730,2025-06-15 12:00:00,Oxford,Cat Litter,7,64.02,Dog,448.14
+1731,2025-06-15 18:00:00,Oxford,Bird Seed,4,5.64,Bird,22.56
+1732,2025-06-15 09:00:00,Aylesbury,Hamster Wheel,3,15.68,Dog,47.04
+1733,2025-06-15 08:00:00,Buckingham,Rabbit Hutch,8,40.45,Dog,323.6
+1734,2025-06-15 13:00:00,Oxford,Dry Dog Food,3,49.64,Fish,148.92000000000002
+1735,2025-06-16 08:00:00,Aylesbury,Cat Litter,6,34.11,Fish,204.66
+1736,2025-06-16 10:00:00,Milton Keynes,Wet Cat Food,1,42.3,Dog,42.3
+1737,2025-06-16 13:00:00,Oxford,Hamster Wheel,8,52.06,Dog,416.48
+1738,2025-06-16 14:00:00,Buckingham,Dog Chew Toy,8,20.27,Rodent,162.16
+1739,2025-06-16 20:00:00,Aylesbury,Aquarium Filter,3,34.8,Fish,104.39999999999999
+1740,2025-06-16 14:00:00,Buckingham,Rabbit Hutch,7,51.15,Rodent,358.05
+1741,2025-06-16 16:00:00,Milton Keynes,Dog Chew Toy,4,42.92,Fish,171.68
+1742,2025-06-16 08:00:00,Aylesbury,Wet Cat Food,5,51.45,Rodent,257.25
+1743,2025-06-16 12:00:00,Buckingham,Fish Flakes,6,68.28,Dog,409.68
+1744,2025-06-16 08:00:00,Buckingham,Bird Seed,5,52.79,Dog,263.95
+1745,2025-06-16 14:00:00,Oxford,Wet Cat Food,2,56.56,Rodent,113.12
+1746,2025-06-16 19:00:00,Oxford,Rabbit Hutch,7,23.24,Fish,162.67999999999998
+1747,2025-06-16 17:00:00,Milton Keynes,Dog Chew Toy,4,33.58,Dog,134.32
+1748,2025-06-16 14:00:00,Aylesbury,Flea Shampoo,6,76.0,Cat,456.0
+1749,2025-06-16 12:00:00,Aylesbury,Dog Chew Toy,1,67.4,Dog,67.4
+1750,2025-06-17 15:00:00,Milton Keynes,Bird Seed,1,63.34,Bird,63.34
+1751,2025-06-17 09:00:00,Milton Keynes,Wet Cat Food,5,35.76,Cat,178.79999999999998
+1752,2025-06-17 19:00:00,Oxford,Aquarium Filter,4,15.2,Bird,60.8
+1753,2025-06-17 17:00:00,Milton Keynes,Flea Shampoo,4,73.17,Fish,292.68
+1754,2025-06-17 16:00:00,Oxford,Fish Flakes,4,44.49,Cat,177.96
+1755,2025-06-17 16:00:00,Oxford,Hamster Wheel,5,24.06,Cat,120.3
+1756,2025-06-17 13:00:00,Buckingham,Rabbit Hutch,1,21.74,Bird,21.74
+1757,2025-06-17 09:00:00,Aylesbury,Fish Flakes,4,33.82,Dog,135.28
+1758,2025-06-17 13:00:00,Oxford,Flea Shampoo,6,76.61,Dog,459.65999999999997
+1759,2025-06-17 17:00:00,Oxford,Bird Seed,4,79.04,Rodent,316.16
+1760,2025-06-17 08:00:00,Aylesbury,Aquarium Filter,1,11.16,Rodent,11.16
+1761,2025-06-17 13:00:00,Buckingham,Wet Cat Food,1,38.0,Rodent,38.0
+1762,2025-06-17 08:00:00,Aylesbury,Dog Chew Toy,5,16.51,Dog,82.55000000000001
+1763,2025-06-17 11:00:00,Oxford,Rabbit Hutch,1,55.19,Rodent,55.19
+1764,2025-06-18 11:00:00,Oxford,Fish Flakes,5,74.23,Fish,371.15000000000003
+1765,2025-06-18 12:00:00,Milton Keynes,Bird Seed,7,20.8,Dog,145.6
+1766,2025-06-18 15:00:00,Oxford,Aquarium Filter,2,18.96,Bird,37.92
+1767,2025-06-18 09:00:00,Milton Keynes,Dry Dog Food,7,27.11,Fish,189.76999999999998
+1768,2025-06-18 11:00:00,Milton Keynes,Wet Cat Food,8,6.07,Fish,48.56
+1769,2025-06-18 20:00:00,Aylesbury,Dry Dog Food,6,55.31,Bird,331.86
+1770,2025-06-18 14:00:00,Oxford,Bird Seed,5,58.33,Cat,291.65
+1771,2025-06-18 17:00:00,Aylesbury,Cat Litter,8,76.08,Cat,608.64
+1772,2025-06-18 14:00:00,Buckingham,Bird Seed,1,50.09,Dog,50.09
+1773,2025-06-19 09:00:00,Milton Keynes,Dog Chew Toy,3,54.43,Rodent,163.29
+1774,2025-06-19 18:00:00,Aylesbury,Hamster Wheel,2,45.02,Fish,90.04
+1775,2025-06-19 15:00:00,Buckingham,Hamster Wheel,7,21.58,Fish,151.06
+1776,2025-06-19 19:00:00,Milton Keynes,Wet Cat Food,3,39.1,Rodent,117.30000000000001
+1777,2025-06-19 17:00:00,Oxford,Wet Cat Food,4,51.8,Rodent,207.2
+1778,2025-06-19 16:00:00,Milton Keynes,Dog Chew Toy,1,37.58,Cat,37.58
+1779,2025-06-19 15:00:00,Aylesbury,Aquarium Filter,6,44.19,Fish,265.14
+1780,2025-06-19 19:00:00,Buckingham,Cat Litter,2,13.41,Bird,26.82
+1781,2025-06-19 18:00:00,Buckingham,Fish Flakes,4,38.78,Fish,155.12
+1782,2025-06-20 10:00:00,Oxford,Dry Dog Food,1,23.95,Cat,23.95
+1783,2025-06-20 10:00:00,Milton Keynes,Dry Dog Food,2,71.18,Fish,142.36
+1784,2025-06-20 12:00:00,Buckingham,Aquarium Filter,7,72.45,Bird,507.15000000000003
+1785,2025-06-20 08:00:00,Buckingham,Rabbit Hutch,6,62.34,Bird,374.04
+1786,2025-06-20 09:00:00,Oxford,Hamster Wheel,1,47.89,Dog,47.89
+1787,2025-06-20 10:00:00,Buckingham,Dog Chew Toy,5,69.21,Fish,346.04999999999995
+1788,2025-06-20 12:00:00,Aylesbury,Dog Chew Toy,4,66.13,Dog,264.52
+1789,2025-06-20 09:00:00,Oxford,Dry Dog Food,5,47.38,Bird,236.9
+1790,2025-06-20 13:00:00,Milton Keynes,Rabbit Hutch,3,49.68,Rodent,149.04
+1791,2025-06-21 17:00:00,Buckingham,Aquarium Filter,6,8.64,Bird,51.84
+1792,2025-06-21 20:00:00,Aylesbury,Wet Cat Food,5,45.23,Cat,226.14999999999998
+1793,2025-06-21 14:00:00,Aylesbury,Aquarium Filter,4,13.61,Cat,54.44
+1794,2025-06-21 20:00:00,Milton Keynes,Fish Flakes,4,44.86,Bird,179.44
+1795,2025-06-21 08:00:00,Milton Keynes,Bird Seed,4,73.73,Fish,294.92
+1796,2025-06-22 20:00:00,Milton Keynes,Hamster Wheel,4,74.82,Fish,299.28
+1797,2025-06-22 16:00:00,Aylesbury,Aquarium Filter,2,48.91,Rodent,97.82
+1798,2025-06-22 09:00:00,Milton Keynes,Fish Flakes,1,12.72,Bird,12.72
+1799,2025-06-22 14:00:00,Buckingham,Dry Dog Food,5,57.42,Bird,287.1
+1800,2025-06-22 11:00:00,Buckingham,Dry Dog Food,3,51.85,Cat,155.55
+1801,2025-06-22 16:00:00,Aylesbury,Wet Cat Food,6,14.09,Dog,84.53999999999999
+1802,2025-06-22 14:00:00,Aylesbury,Hamster Wheel,2,44.93,Fish,89.86
+1803,2025-06-22 15:00:00,Oxford,Wet Cat Food,1,23.68,Dog,23.68
+1804,2025-06-22 13:00:00,Oxford,Cat Litter,1,38.3,Cat,38.3
+1805,2025-06-22 17:00:00,Aylesbury,Hamster Wheel,7,71.54,Dog,500.78000000000003
+1806,2025-06-22 18:00:00,Milton Keynes,Flea Shampoo,7,75.73,Cat,530.11
+1807,2025-06-22 10:00:00,Oxford,Rabbit Hutch,5,59.15,Fish,295.75
+1808,2025-06-22 09:00:00,Oxford,Fish Flakes,8,62.66,Cat,501.28
+1809,2025-06-22 13:00:00,Aylesbury,Hamster Wheel,1,14.59,Cat,14.59
+1810,2025-06-22 16:00:00,Oxford,Cat Litter,4,34.47,Rodent,137.88
+1811,2025-06-23 17:00:00,Buckingham,Bird Seed,1,29.65,Rodent,29.65
+1812,2025-06-23 14:00:00,Aylesbury,Bird Seed,4,34.07,Bird,136.28
+1813,2025-06-23 11:00:00,Oxford,Dog Chew Toy,3,40.57,Cat,121.71000000000001
+1814,2025-06-23 19:00:00,Aylesbury,Cat Litter,5,77.03,Rodent,385.15
+1815,2025-06-23 16:00:00,Milton Keynes,Flea Shampoo,8,37.42,Fish,299.36
+1816,2025-06-23 15:00:00,Aylesbury,Bird Seed,1,36.64,Dog,36.64
+1817,2025-06-23 20:00:00,Oxford,Bird Seed,2,35.74,Dog,71.48
+1818,2025-06-23 10:00:00,Milton Keynes,Flea Shampoo,7,8.96,Cat,62.720000000000006
+1819,2025-06-23 18:00:00,Aylesbury,Fish Flakes,1,7.99,Dog,7.99
+1820,2025-06-23 10:00:00,Milton Keynes,Bird Seed,8,65.41,Cat,523.28
+1821,2025-06-23 17:00:00,Aylesbury,Aquarium Filter,3,18.45,Dog,55.349999999999994
+1822,2025-06-23 12:00:00,Aylesbury,Cat Litter,6,12.31,Bird,73.86
+1823,2025-06-23 12:00:00,Milton Keynes,Fish Flakes,3,63.63,Dog,190.89000000000001
+1824,2025-06-23 18:00:00,Aylesbury,Fish Flakes,3,64.32,Fish,192.95999999999998
+1825,2025-06-24 17:00:00,Oxford,Hamster Wheel,2,35.35,Bird,70.7
+1826,2025-06-24 17:00:00,Aylesbury,Flea Shampoo,4,75.87,Rodent,303.48
+1827,2025-06-24 08:00:00,Milton Keynes,Hamster Wheel,4,45.61,Rodent,182.44
+1828,2025-06-24 12:00:00,Oxford,Dog Chew Toy,7,78.24,Rodent,547.68
+1829,2025-06-24 09:00:00,Buckingham,Aquarium Filter,2,37.51,Dog,75.02
+1830,2025-06-24 17:00:00,Buckingham,Aquarium Filter,5,41.55,Rodent,207.75
+1831,2025-06-24 12:00:00,Buckingham,Rabbit Hutch,4,61.57,Dog,246.28
+1832,2025-06-24 14:00:00,Aylesbury,Dog Chew Toy,4,57.41,Cat,229.64
+1833,2025-06-24 09:00:00,Oxford,Dog Chew Toy,3,28.21,Rodent,84.63
+1834,2025-06-24 16:00:00,Milton Keynes,Fish Flakes,3,16.35,Rodent,49.050000000000004
+1835,2025-06-24 12:00:00,Oxford,Dry Dog Food,8,68.55,Fish,548.4
+1836,2025-06-25 13:00:00,Buckingham,Hamster Wheel,6,7.12,Bird,42.72
+1837,2025-06-25 15:00:00,Oxford,Dog Chew Toy,6,47.52,Cat,285.12
+1838,2025-06-25 18:00:00,Oxford,Hamster Wheel,2,55.1,Cat,110.2
+1839,2025-06-25 13:00:00,Aylesbury,Wet Cat Food,1,20.36,Rodent,20.36
+1840,2025-06-25 13:00:00,Oxford,Flea Shampoo,3,36.52,Fish,109.56
+1841,2025-06-25 12:00:00,Milton Keynes,Hamster Wheel,6,36.97,Bird,221.82
+1842,2025-06-25 14:00:00,Buckingham,Dog Chew Toy,1,61.93,Bird,61.93
+1843,2025-06-25 09:00:00,Milton Keynes,Flea Shampoo,8,62.94,Fish,503.52
+1844,2025-06-25 18:00:00,Buckingham,Bird Seed,3,30.94,Fish,92.82000000000001
+1845,2025-06-25 18:00:00,Aylesbury,Rabbit Hutch,4,8.87,Dog,35.48
+1846,2025-06-25 18:00:00,Oxford,Flea Shampoo,4,60.16,Dog,240.64
+1847,2025-06-25 12:00:00,Oxford,Wet Cat Food,2,62.65,Cat,125.3
+1848,2025-06-25 20:00:00,Aylesbury,Hamster Wheel,8,60.91,Dog,487.28
+1849,2025-06-25 09:00:00,Oxford,Fish Flakes,7,61.76,Fish,432.32
+1850,2025-06-25 16:00:00,Milton Keynes,Dog Chew Toy,4,34.52,Fish,138.08
+1851,2025-06-26 08:00:00,Milton Keynes,Dry Dog Food,2,44.26,Cat,88.52
+1852,2025-06-26 18:00:00,Milton Keynes,Dry Dog Food,4,17.44,Cat,69.76
+1853,2025-06-26 08:00:00,Aylesbury,Aquarium Filter,3,33.0,Fish,99.0
+1854,2025-06-26 14:00:00,Aylesbury,Hamster Wheel,7,19.56,Cat,136.92
+1855,2025-06-26 12:00:00,Aylesbury,Flea Shampoo,4,53.29,Fish,213.16
+1856,2025-06-26 17:00:00,Milton Keynes,Dog Chew Toy,1,56.25,Fish,56.25
+1857,2025-06-26 16:00:00,Aylesbury,Cat Litter,8,33.13,Cat,265.04
+1858,2025-06-26 15:00:00,Aylesbury,Bird Seed,3,76.21,Cat,228.63
+1859,2025-06-26 15:00:00,Oxford,Bird Seed,3,18.64,Dog,55.92
+1860,2025-06-26 14:00:00,Aylesbury,Rabbit Hutch,2,67.01,Fish,134.02
+1861,2025-06-26 15:00:00,Milton Keynes,Hamster Wheel,4,67.36,Cat,269.44
+1862,2025-06-26 08:00:00,Buckingham,Rabbit Hutch,3,30.77,Bird,92.31
+1863,2025-06-26 09:00:00,Buckingham,Cat Litter,7,10.04,Dog,70.28
+1864,2025-06-26 19:00:00,Milton Keynes,Dog Chew Toy,1,69.99,Rodent,69.99
+1865,2025-06-26 15:00:00,Buckingham,Dog Chew Toy,4,12.02,Rodent,48.08
+1866,2025-06-27 08:00:00,Milton Keynes,Hamster Wheel,5,7.93,Bird,39.65
+1867,2025-06-27 10:00:00,Buckingham,Fish Flakes,5,49.08,Rodent,245.39999999999998
+1868,2025-06-27 08:00:00,Milton Keynes,Aquarium Filter,7,35.73,Cat,250.10999999999999
+1869,2025-06-27 18:00:00,Buckingham,Cat Litter,2,42.97,Fish,85.94
+1870,2025-06-27 12:00:00,Milton Keynes,Dry Dog Food,3,19.52,Cat,58.56
+1871,2025-06-28 19:00:00,Aylesbury,Dog Chew Toy,4,72.97,Bird,291.88
+1872,2025-06-28 18:00:00,Aylesbury,Bird Seed,5,42.83,Fish,214.14999999999998
+1873,2025-06-28 09:00:00,Milton Keynes,Aquarium Filter,4,77.72,Fish,310.88
+1874,2025-06-28 15:00:00,Aylesbury,Fish Flakes,5,37.95,Rodent,189.75
+1875,2025-06-28 15:00:00,Milton Keynes,Dry Dog Food,2,11.88,Fish,23.76
+1876,2025-06-29 15:00:00,Oxford,Bird Seed,8,20.94,Bird,167.52
+1877,2025-06-29 20:00:00,Aylesbury,Wet Cat Food,5,70.07,Rodent,350.34999999999997
+1878,2025-06-29 18:00:00,Milton Keynes,Dog Chew Toy,2,9.53,Cat,19.06
+1879,2025-06-29 14:00:00,Aylesbury,Fish Flakes,2,77.55,Dog,155.1
+1880,2025-06-29 20:00:00,Aylesbury,Hamster Wheel,5,41.16,Bird,205.79999999999998
+1881,2025-06-29 14:00:00,Aylesbury,Dry Dog Food,6,10.43,Fish,62.58
+1882,2025-06-29 13:00:00,Aylesbury,Wet Cat Food,3,17.38,Fish,52.14
+1883,2025-06-29 13:00:00,Oxford,Bird Seed,8,19.64,Cat,157.12
+1884,2025-06-29 10:00:00,Milton Keynes,Wet Cat Food,4,13.64,Bird,54.56
+1885,2025-06-29 15:00:00,Milton Keynes,Wet Cat Food,5,25.11,Fish,125.55
+1886,2025-06-29 14:00:00,Aylesbury,Dog Chew Toy,8,38.5,Rodent,308.0
+1887,2025-06-30 11:00:00,Milton Keynes,Dry Dog Food,4,16.06,Fish,64.24
+1888,2025-06-30 13:00:00,Aylesbury,Dry Dog Food,4,57.65,Bird,230.6
+1889,2025-06-30 17:00:00,Aylesbury,Rabbit Hutch,6,39.94,Dog,239.64
+1890,2025-06-30 08:00:00,Milton Keynes,Dry Dog Food,3,26.96,Cat,80.88
+1891,2025-06-30 12:00:00,Aylesbury,Aquarium Filter,2,74.48,Bird,148.96
+1892,2025-07-01 18:00:00,Aylesbury,Dog Chew Toy,2,61.0,Bird,122.0
+1893,2025-07-01 16:00:00,Milton Keynes,Rabbit Hutch,8,24.54,Fish,196.32
+1894,2025-07-01 20:00:00,Milton Keynes,Aquarium Filter,8,35.79,Dog,286.32
+1895,2025-07-01 10:00:00,Buckingham,Cat Litter,1,41.76,Cat,41.76
+1896,2025-07-01 10:00:00,Milton Keynes,Flea Shampoo,8,12.01,Cat,96.08
+1897,2025-07-02 12:00:00,Milton Keynes,Hamster Wheel,3,47.68,Bird,143.04
+1898,2025-07-02 17:00:00,Oxford,Cat Litter,3,29.69,Bird,89.07000000000001
+1899,2025-07-02 20:00:00,Oxford,Fish Flakes,7,47.06,Fish,329.42
+1900,2025-07-02 13:00:00,Buckingham,Dog Chew Toy,1,49.57,Fish,49.57
+1901,2025-07-02 09:00:00,Buckingham,Dry Dog Food,4,47.85,Dog,191.4
+1902,2025-07-02 14:00:00,Milton Keynes,Flea Shampoo,3,68.27,Bird,204.81
+1903,2025-07-03 08:00:00,Oxford,Rabbit Hutch,6,73.05,Bird,438.29999999999995
+1904,2025-07-03 19:00:00,Buckingham,Fish Flakes,3,37.24,Fish,111.72
+1905,2025-07-03 16:00:00,Aylesbury,Wet Cat Food,2,40.87,Bird,81.74
+1906,2025-07-03 19:00:00,Aylesbury,Cat Litter,5,70.06,Bird,350.3
+1907,2025-07-03 13:00:00,Aylesbury,Dog Chew Toy,3,40.62,Fish,121.85999999999999
+1908,2025-07-03 20:00:00,Buckingham,Bird Seed,3,33.44,Rodent,100.32
+1909,2025-07-03 12:00:00,Aylesbury,Flea Shampoo,7,23.11,Rodent,161.76999999999998
+1910,2025-07-03 08:00:00,Oxford,Dry Dog Food,1,50.94,Fish,50.94
+1911,2025-07-03 19:00:00,Oxford,Rabbit Hutch,3,43.05,Bird,129.14999999999998
+1912,2025-07-03 09:00:00,Buckingham,Flea Shampoo,1,69.3,Cat,69.3
+1913,2025-07-03 16:00:00,Buckingham,Aquarium Filter,7,10.26,Rodent,71.82
+1914,2025-07-03 08:00:00,Buckingham,Dog Chew Toy,8,50.76,Fish,406.08
+1915,2025-07-03 20:00:00,Aylesbury,Flea Shampoo,5,76.86,Dog,384.3
+1916,2025-07-03 13:00:00,Aylesbury,Cat Litter,7,10.64,Cat,74.48
+1917,2025-07-04 14:00:00,Buckingham,Dry Dog Food,8,58.91,Rodent,471.28
+1918,2025-07-04 16:00:00,Aylesbury,Dog Chew Toy,8,71.33,Cat,570.64
+1919,2025-07-04 17:00:00,Aylesbury,Dog Chew Toy,6,36.56,Fish,219.36
+1920,2025-07-04 16:00:00,Buckingham,Rabbit Hutch,8,47.31,Bird,378.48
+1921,2025-07-04 13:00:00,Oxford,Bird Seed,6,66.67,Rodent,400.02
+1922,2025-07-05 10:00:00,Aylesbury,Dry Dog Food,7,65.13,Rodent,455.90999999999997
+1923,2025-07-05 08:00:00,Milton Keynes,Cat Litter,2,15.91,Rodent,31.82
+1924,2025-07-05 08:00:00,Buckingham,Cat Litter,7,39.55,Dog,276.84999999999997
+1925,2025-07-05 10:00:00,Milton Keynes,Bird Seed,6,24.56,Fish,147.35999999999999
+1926,2025-07-05 17:00:00,Milton Keynes,Dry Dog Food,4,60.0,Fish,240.0
+1927,2025-07-05 16:00:00,Aylesbury,Cat Litter,3,60.12,Bird,180.35999999999999
+1928,2025-07-05 12:00:00,Milton Keynes,Hamster Wheel,5,72.49,Dog,362.45
+1929,2025-07-05 20:00:00,Oxford,Dog Chew Toy,4,53.55,Bird,214.2
+1930,2025-07-06 15:00:00,Aylesbury,Cat Litter,4,29.52,Cat,118.08
+1931,2025-07-06 11:00:00,Milton Keynes,Dry Dog Food,1,45.18,Cat,45.18
+1932,2025-07-06 15:00:00,Buckingham,Flea Shampoo,8,35.27,Cat,282.16
+1933,2025-07-06 09:00:00,Milton Keynes,Fish Flakes,8,34.74,Cat,277.92
+1934,2025-07-06 11:00:00,Buckingham,Flea Shampoo,2,64.29,Fish,128.58
+1935,2025-07-07 17:00:00,Oxford,Bird Seed,7,52.21,Bird,365.47
+1936,2025-07-07 10:00:00,Aylesbury,Hamster Wheel,3,35.27,Bird,105.81
+1937,2025-07-07 16:00:00,Aylesbury,Flea Shampoo,2,14.51,Rodent,29.02
+1938,2025-07-07 11:00:00,Milton Keynes,Flea Shampoo,6,77.03,Rodent,462.18
+1939,2025-07-07 12:00:00,Aylesbury,Wet Cat Food,3,58.44,Bird,175.32
+1940,2025-07-07 10:00:00,Oxford,Fish Flakes,3,56.21,Bird,168.63
+1941,2025-07-07 13:00:00,Oxford,Cat Litter,6,26.56,Bird,159.35999999999999
+1942,2025-07-08 09:00:00,Oxford,Rabbit Hutch,7,19.71,Bird,137.97
+1943,2025-07-08 14:00:00,Aylesbury,Hamster Wheel,6,40.86,Cat,245.16
+1944,2025-07-08 13:00:00,Aylesbury,Rabbit Hutch,3,38.0,Dog,114.0
+1945,2025-07-08 08:00:00,Buckingham,Bird Seed,6,10.76,Fish,64.56
+1946,2025-07-08 17:00:00,Oxford,Dog Chew Toy,3,28.01,Rodent,84.03
+1947,2025-07-08 09:00:00,Buckingham,Hamster Wheel,5,60.38,Dog,301.90000000000003
+1948,2025-07-08 12:00:00,Milton Keynes,Wet Cat Food,3,69.68,Bird,209.04000000000002
+1949,2025-07-08 08:00:00,Oxford,Dog Chew Toy,4,78.44,Cat,313.76
+1950,2025-07-08 18:00:00,Milton Keynes,Wet Cat Food,5,41.61,Cat,208.05
+1951,2025-07-08 16:00:00,Milton Keynes,Dog Chew Toy,1,42.64,Fish,42.64
+1952,2025-07-08 13:00:00,Milton Keynes,Bird Seed,8,54.71,Rodent,437.68
+1953,2025-07-09 16:00:00,Milton Keynes,Dry Dog Food,6,69.24,Fish,415.43999999999994
+1954,2025-07-09 10:00:00,Oxford,Aquarium Filter,8,39.75,Rodent,318.0
+1955,2025-07-09 09:00:00,Buckingham,Rabbit Hutch,5,44.56,Bird,222.8
+1956,2025-07-09 08:00:00,Milton Keynes,Wet Cat Food,1,6.62,Fish,6.62
+1957,2025-07-09 16:00:00,Buckingham,Dry Dog Food,6,67.51,Cat,405.06000000000006
+1958,2025-07-10 15:00:00,Buckingham,Rabbit Hutch,7,49.2,Cat,344.40000000000003
+1959,2025-07-10 16:00:00,Oxford,Hamster Wheel,7,31.81,Rodent,222.67
+1960,2025-07-10 18:00:00,Buckingham,Aquarium Filter,5,38.66,Rodent,193.29999999999998
+1961,2025-07-10 08:00:00,Milton Keynes,Flea Shampoo,7,5.31,Bird,37.169999999999995
+1962,2025-07-10 20:00:00,Buckingham,Aquarium Filter,5,59.63,Dog,298.15000000000003
+1963,2025-07-10 18:00:00,Oxford,Hamster Wheel,2,52.17,Dog,104.34
+1964,2025-07-10 20:00:00,Milton Keynes,Aquarium Filter,7,51.67,Bird,361.69
+1965,2025-07-10 20:00:00,Buckingham,Wet Cat Food,6,35.05,Bird,210.29999999999998
+1966,2025-07-10 17:00:00,Milton Keynes,Bird Seed,3,71.23,Bird,213.69
+1967,2025-07-10 16:00:00,Aylesbury,Bird Seed,6,25.6,Cat,153.60000000000002
+1968,2025-07-10 15:00:00,Buckingham,Cat Litter,6,52.96,Bird,317.76
+1969,2025-07-10 18:00:00,Oxford,Flea Shampoo,8,64.95,Cat,519.6
+1970,2025-07-10 17:00:00,Milton Keynes,Rabbit Hutch,3,27.68,Dog,83.03999999999999
+1971,2025-07-10 20:00:00,Milton Keynes,Fish Flakes,6,21.71,Bird,130.26
+1972,2025-07-10 09:00:00,Milton Keynes,Dry Dog Food,6,68.85,Cat,413.09999999999997
+1973,2025-07-11 12:00:00,Oxford,Cat Litter,2,16.68,Dog,33.36
+1974,2025-07-11 11:00:00,Buckingham,Wet Cat Food,1,74.12,Rodent,74.12
+1975,2025-07-11 18:00:00,Buckingham,Cat Litter,7,42.39,Cat,296.73
+1976,2025-07-11 15:00:00,Buckingham,Rabbit Hutch,6,70.18,Fish,421.08000000000004
+1977,2025-07-11 16:00:00,Milton Keynes,Dry Dog Food,5,47.62,Dog,238.1
+1978,2025-07-11 17:00:00,Aylesbury,Flea Shampoo,6,8.75,Cat,52.5
+1979,2025-07-11 10:00:00,Milton Keynes,Cat Litter,2,21.89,Rodent,43.78
+1980,2025-07-11 18:00:00,Buckingham,Wet Cat Food,5,46.52,Rodent,232.60000000000002
+1981,2025-07-11 16:00:00,Oxford,Dry Dog Food,5,73.67,Rodent,368.35
+1982,2025-07-12 16:00:00,Oxford,Cat Litter,6,20.92,Bird,125.52000000000001
+1983,2025-07-12 18:00:00,Milton Keynes,Dog Chew Toy,8,71.07,Bird,568.56
+1984,2025-07-12 20:00:00,Oxford,Dog Chew Toy,5,54.51,Fish,272.55
+1985,2025-07-12 20:00:00,Oxford,Bird Seed,6,41.48,Cat,248.88
+1986,2025-07-12 14:00:00,Milton Keynes,Aquarium Filter,4,68.74,Rodent,274.96
+1987,2025-07-12 13:00:00,Aylesbury,Dry Dog Food,5,39.06,Bird,195.3
+1988,2025-07-12 10:00:00,Aylesbury,Flea Shampoo,7,45.13,Dog,315.91
+1989,2025-07-12 16:00:00,Aylesbury,Aquarium Filter,6,26.1,Bird,156.60000000000002
+1990,2025-07-13 16:00:00,Milton Keynes,Flea Shampoo,3,45.01,Dog,135.03
+1991,2025-07-13 10:00:00,Milton Keynes,Dog Chew Toy,4,9.18,Bird,36.72
+1992,2025-07-13 19:00:00,Oxford,Dry Dog Food,8,75.09,Bird,600.72
+1993,2025-07-13 17:00:00,Oxford,Hamster Wheel,5,70.76,Fish,353.8
+1994,2025-07-13 20:00:00,Aylesbury,Flea Shampoo,7,68.95,Fish,482.65000000000003
+1995,2025-07-13 19:00:00,Buckingham,Flea Shampoo,6,60.99,Bird,365.94
+1996,2025-07-13 19:00:00,Oxford,Aquarium Filter,1,74.77,Dog,74.77
+1997,2025-07-13 16:00:00,Aylesbury,Rabbit Hutch,3,44.61,Rodent,133.82999999999998
+1998,2025-07-13 11:00:00,Milton Keynes,Bird Seed,6,72.33,Bird,433.98
+1999,2025-07-13 16:00:00,Buckingham,Bird Seed,7,47.41,Rodent,331.87
+2000,2025-07-13 17:00:00,Buckingham,Dry Dog Food,2,49.46,Rodent,98.92
+2001,2025-07-13 08:00:00,Aylesbury,Rabbit Hutch,3,17.26,Fish,51.78
+2002,2025-07-13 09:00:00,Buckingham,Dry Dog Food,2,25.12,Rodent,50.24
+2003,2025-07-13 16:00:00,Oxford,Aquarium Filter,7,11.98,Cat,83.86
+2004,2025-07-13 17:00:00,Oxford,Wet Cat Food,7,45.46,Fish,318.22
+2005,2025-07-14 14:00:00,Aylesbury,Flea Shampoo,1,67.92,Rodent,67.92
+2006,2025-07-14 09:00:00,Milton Keynes,Rabbit Hutch,1,54.19,Fish,54.19
+2007,2025-07-14 09:00:00,Oxford,Cat Litter,6,43.0,Dog,258.0
+2008,2025-07-14 11:00:00,Buckingham,Aquarium Filter,2,12.14,Dog,24.28
+2009,2025-07-14 16:00:00,Buckingham,Bird Seed,8,48.87,Cat,390.96
+2010,2025-07-14 12:00:00,Oxford,Cat Litter,3,56.78,Dog,170.34
+2011,2025-07-14 15:00:00,Buckingham,Flea Shampoo,7,26.15,Dog,183.04999999999998
+2012,2025-07-14 17:00:00,Buckingham,Wet Cat Food,1,78.93,Rodent,78.93
+2013,2025-07-14 18:00:00,Buckingham,Cat Litter,8,51.87,Cat,414.96
+2014,2025-07-14 11:00:00,Aylesbury,Fish Flakes,3,9.0,Rodent,27.0
+2015,2025-07-14 17:00:00,Oxford,Bird Seed,3,14.07,Fish,42.21
+2016,2025-07-15 19:00:00,Oxford,Cat Litter,2,17.81,Cat,35.62
+2017,2025-07-15 16:00:00,Milton Keynes,Aquarium Filter,4,17.07,Cat,68.28
+2018,2025-07-15 10:00:00,Oxford,Aquarium Filter,3,37.86,Bird,113.58
+2019,2025-07-15 11:00:00,Aylesbury,Flea Shampoo,5,56.75,Bird,283.75
+2020,2025-07-15 12:00:00,Aylesbury,Dog Chew Toy,3,78.13,Bird,234.39
+2021,2025-07-15 14:00:00,Aylesbury,Rabbit Hutch,3,16.56,Fish,49.67999999999999
+2022,2025-07-15 09:00:00,Buckingham,Bird Seed,2,45.55,Cat,91.1
+2023,2025-07-15 09:00:00,Oxford,Fish Flakes,4,12.15,Fish,48.6
+2024,2025-07-15 11:00:00,Milton Keynes,Aquarium Filter,6,14.89,Bird,89.34
+2025,2025-07-15 13:00:00,Milton Keynes,Bird Seed,3,49.33,Bird,147.99
+2026,2025-07-16 17:00:00,Oxford,Wet Cat Food,3,69.92,Fish,209.76
+2027,2025-07-16 08:00:00,Aylesbury,Bird Seed,4,67.57,Rodent,270.28
+2028,2025-07-16 17:00:00,Milton Keynes,Wet Cat Food,1,34.38,Bird,34.38
+2029,2025-07-16 20:00:00,Oxford,Wet Cat Food,1,71.0,Bird,71.0
+2030,2025-07-16 10:00:00,Buckingham,Fish Flakes,4,44.02,Bird,176.08
+2031,2025-07-16 08:00:00,Aylesbury,Fish Flakes,7,56.0,Fish,392.0
+2032,2025-07-16 20:00:00,Buckingham,Dry Dog Food,1,48.33,Dog,48.33
+2033,2025-07-16 15:00:00,Oxford,Bird Seed,1,50.41,Bird,50.41
+2034,2025-07-16 18:00:00,Buckingham,Bird Seed,4,65.9,Bird,263.6
+2035,2025-07-16 19:00:00,Aylesbury,Aquarium Filter,3,51.41,Cat,154.23
+2036,2025-07-17 20:00:00,Oxford,Flea Shampoo,8,53.18,Bird,425.44
+2037,2025-07-17 10:00:00,Oxford,Aquarium Filter,4,9.93,Dog,39.72
+2038,2025-07-17 10:00:00,Milton Keynes,Fish Flakes,3,66.51,Fish,199.53000000000003
+2039,2025-07-17 12:00:00,Oxford,Dry Dog Food,7,47.11,Dog,329.77
+2040,2025-07-17 13:00:00,Buckingham,Bird Seed,1,34.98,Bird,34.98
+2041,2025-07-17 08:00:00,Buckingham,Rabbit Hutch,5,31.34,Cat,156.7
+2042,2025-07-18 14:00:00,Oxford,Aquarium Filter,2,65.04,Dog,130.08
+2043,2025-07-18 18:00:00,Milton Keynes,Cat Litter,3,52.61,Rodent,157.82999999999998
+2044,2025-07-18 10:00:00,Aylesbury,Aquarium Filter,4,30.33,Rodent,121.32
+2045,2025-07-18 15:00:00,Milton Keynes,Flea Shampoo,2,38.33,Dog,76.66
+2046,2025-07-18 10:00:00,Milton Keynes,Bird Seed,1,68.99,Cat,68.99
+2047,2025-07-18 15:00:00,Oxford,Fish Flakes,2,66.53,Cat,133.06
+2048,2025-07-18 13:00:00,Aylesbury,Fish Flakes,6,6.54,Rodent,39.24
+2049,2025-07-18 14:00:00,Oxford,Rabbit Hutch,3,56.69,Rodent,170.07
+2050,2025-07-18 15:00:00,Milton Keynes,Flea Shampoo,4,21.51,Rodent,86.04
+2051,2025-07-18 20:00:00,Aylesbury,Fish Flakes,8,25.01,Dog,200.08
+2052,2025-07-18 14:00:00,Oxford,Aquarium Filter,8,45.08,Fish,360.64
+2053,2025-07-18 17:00:00,Milton Keynes,Hamster Wheel,8,5.4,Dog,43.2
+2054,2025-07-18 12:00:00,Buckingham,Flea Shampoo,3,61.96,Dog,185.88
+2055,2025-07-19 09:00:00,Milton Keynes,Bird Seed,1,69.29,Dog,69.29
+2056,2025-07-19 13:00:00,Oxford,Hamster Wheel,7,69.06,Dog,483.42
+2057,2025-07-19 16:00:00,Milton Keynes,Wet Cat Food,3,52.61,Rodent,157.82999999999998
+2058,2025-07-19 16:00:00,Milton Keynes,Aquarium Filter,3,16.85,Bird,50.550000000000004
+2059,2025-07-19 20:00:00,Aylesbury,Cat Litter,7,76.13,Dog,532.91
+2060,2025-07-20 11:00:00,Milton Keynes,Aquarium Filter,6,37.34,Dog,224.04000000000002
+2061,2025-07-20 18:00:00,Oxford,Flea Shampoo,8,46.92,Bird,375.36
+2062,2025-07-20 10:00:00,Buckingham,Cat Litter,7,26.85,Fish,187.95000000000002
+2063,2025-07-20 15:00:00,Aylesbury,Hamster Wheel,3,68.38,Fish,205.14
+2064,2025-07-20 19:00:00,Aylesbury,Fish Flakes,6,5.05,Dog,30.299999999999997
+2065,2025-07-20 18:00:00,Milton Keynes,Aquarium Filter,8,73.52,Fish,588.16
+2066,2025-07-20 20:00:00,Buckingham,Aquarium Filter,5,61.62,Cat,308.09999999999997
+2067,2025-07-20 10:00:00,Oxford,Dog Chew Toy,8,9.45,Fish,75.6
+2068,2025-07-20 15:00:00,Buckingham,Aquarium Filter,2,45.77,Rodent,91.54
+2069,2025-07-21 12:00:00,Oxford,Bird Seed,3,24.18,Fish,72.53999999999999
+2070,2025-07-21 19:00:00,Buckingham,Dry Dog Food,4,16.38,Cat,65.52
+2071,2025-07-21 08:00:00,Aylesbury,Dog Chew Toy,2,48.85,Fish,97.7
+2072,2025-07-21 12:00:00,Milton Keynes,Hamster Wheel,4,48.0,Dog,192.0
+2073,2025-07-21 16:00:00,Aylesbury,Rabbit Hutch,8,59.53,Rodent,476.24
+2074,2025-07-22 16:00:00,Aylesbury,Dog Chew Toy,2,12.91,Dog,25.82
+2075,2025-07-22 16:00:00,Buckingham,Dog Chew Toy,8,5.3,Rodent,42.4
+2076,2025-07-22 17:00:00,Milton Keynes,Flea Shampoo,4,44.91,Fish,179.64
+2077,2025-07-22 14:00:00,Buckingham,Cat Litter,5,77.47,Bird,387.35
+2078,2025-07-22 16:00:00,Oxford,Rabbit Hutch,4,8.29,Rodent,33.16
+2079,2025-07-22 18:00:00,Milton Keynes,Flea Shampoo,8,18.15,Cat,145.2
+2080,2025-07-22 14:00:00,Oxford,Dog Chew Toy,2,61.48,Dog,122.96
+2081,2025-07-22 17:00:00,Aylesbury,Wet Cat Food,1,77.11,Fish,77.11
+2082,2025-07-22 15:00:00,Milton Keynes,Flea Shampoo,1,65.9,Bird,65.9
+2083,2025-07-22 08:00:00,Buckingham,Flea Shampoo,4,28.37,Fish,113.48
+2084,2025-07-22 17:00:00,Aylesbury,Hamster Wheel,5,55.68,Rodent,278.4
+2085,2025-07-23 11:00:00,Aylesbury,Flea Shampoo,1,32.79,Dog,32.79
+2086,2025-07-23 16:00:00,Oxford,Hamster Wheel,5,31.86,Rodent,159.3
+2087,2025-07-23 11:00:00,Buckingham,Dog Chew Toy,2,44.51,Bird,89.02
+2088,2025-07-23 15:00:00,Milton Keynes,Fish Flakes,2,23.01,Cat,46.02
+2089,2025-07-23 18:00:00,Aylesbury,Aquarium Filter,3,68.86,Bird,206.57999999999998
+2090,2025-07-23 10:00:00,Aylesbury,Aquarium Filter,3,30.81,Rodent,92.42999999999999
+2091,2025-07-23 16:00:00,Milton Keynes,Dog Chew Toy,3,24.65,Cat,73.94999999999999
+2092,2025-07-23 08:00:00,Oxford,Cat Litter,8,68.26,Rodent,546.08
+2093,2025-07-24 13:00:00,Oxford,Wet Cat Food,8,72.78,Fish,582.24
+2094,2025-07-24 18:00:00,Oxford,Dry Dog Food,2,79.21,Cat,158.42
+2095,2025-07-24 11:00:00,Buckingham,Flea Shampoo,6,42.32,Dog,253.92000000000002
+2096,2025-07-24 13:00:00,Buckingham,Hamster Wheel,2,32.74,Dog,65.48
+2097,2025-07-24 19:00:00,Aylesbury,Flea Shampoo,5,76.64,Rodent,383.2
+2098,2025-07-24 10:00:00,Aylesbury,Hamster Wheel,8,68.96,Dog,551.68
+2099,2025-07-24 16:00:00,Aylesbury,Dry Dog Food,4,54.9,Fish,219.6
+2100,2025-07-24 09:00:00,Milton Keynes,Cat Litter,1,67.51,Rodent,67.51
+2101,2025-07-24 08:00:00,Aylesbury,Cat Litter,5,10.03,Bird,50.15
+2102,2025-07-24 20:00:00,Oxford,Hamster Wheel,4,40.08,Dog,160.32
+2103,2025-07-24 19:00:00,Milton Keynes,Fish Flakes,2,38.23,Cat,76.46
+2104,2025-07-24 17:00:00,Milton Keynes,Aquarium Filter,4,72.34,Fish,289.36
+2105,2025-07-24 08:00:00,Aylesbury,Dog Chew Toy,5,31.12,Rodent,155.6
+2106,2025-07-24 20:00:00,Buckingham,Dry Dog Food,1,11.34,Fish,11.34
+2107,2025-07-25 15:00:00,Aylesbury,Dry Dog Food,6,59.53,Rodent,357.18
+2108,2025-07-25 10:00:00,Aylesbury,Fish Flakes,5,49.58,Cat,247.89999999999998
+2109,2025-07-25 12:00:00,Oxford,Dog Chew Toy,6,20.15,Dog,120.89999999999999
+2110,2025-07-25 11:00:00,Oxford,Aquarium Filter,5,61.47,Dog,307.35
+2111,2025-07-25 11:00:00,Buckingham,Flea Shampoo,5,12.89,Cat,64.45
+2112,2025-07-25 18:00:00,Aylesbury,Dry Dog Food,5,47.76,Bird,238.79999999999998
+2113,2025-07-25 18:00:00,Milton Keynes,Aquarium Filter,7,34.37,Cat,240.58999999999997
+2114,2025-07-25 10:00:00,Milton Keynes,Rabbit Hutch,3,76.2,Dog,228.60000000000002
+2115,2025-07-26 19:00:00,Aylesbury,Hamster Wheel,5,79.93,Dog,399.65000000000003
+2116,2025-07-26 16:00:00,Aylesbury,Dog Chew Toy,4,20.72,Rodent,82.88
+2117,2025-07-26 08:00:00,Oxford,Fish Flakes,3,7.7,Bird,23.1
+2118,2025-07-26 10:00:00,Aylesbury,Hamster Wheel,4,58.64,Fish,234.56
+2119,2025-07-26 11:00:00,Aylesbury,Dry Dog Food,3,5.19,Bird,15.57
+2120,2025-07-26 09:00:00,Milton Keynes,Flea Shampoo,7,63.59,Fish,445.13
+2121,2025-07-26 19:00:00,Oxford,Wet Cat Food,7,52.89,Bird,370.23
+2122,2025-07-26 10:00:00,Buckingham,Bird Seed,4,33.81,Fish,135.24
+2123,2025-07-26 13:00:00,Milton Keynes,Cat Litter,3,25.08,Cat,75.24
+2124,2025-07-26 19:00:00,Oxford,Rabbit Hutch,8,15.11,Dog,120.88
+2125,2025-07-26 09:00:00,Buckingham,Dry Dog Food,8,42.35,Bird,338.8
+2126,2025-07-27 09:00:00,Milton Keynes,Flea Shampoo,6,9.29,Rodent,55.739999999999995
+2127,2025-07-27 14:00:00,Milton Keynes,Wet Cat Food,5,9.41,Cat,47.05
+2128,2025-07-27 18:00:00,Oxford,Hamster Wheel,5,43.85,Bird,219.25
+2129,2025-07-27 17:00:00,Milton Keynes,Aquarium Filter,2,78.61,Fish,157.22
+2130,2025-07-27 12:00:00,Milton Keynes,Flea Shampoo,4,14.84,Bird,59.36
+2131,2025-07-27 14:00:00,Oxford,Flea Shampoo,1,14.96,Fish,14.96
+2132,2025-07-27 15:00:00,Buckingham,Hamster Wheel,7,13.7,Rodent,95.89999999999999
+2133,2025-07-27 17:00:00,Buckingham,Flea Shampoo,6,62.6,Bird,375.6
+2134,2025-07-27 14:00:00,Oxford,Cat Litter,1,40.77,Fish,40.77
+2135,2025-07-27 08:00:00,Aylesbury,Bird Seed,7,65.35,Fish,457.44999999999993
+2136,2025-07-27 16:00:00,Aylesbury,Flea Shampoo,6,27.55,Cat,165.3
+2137,2025-07-28 16:00:00,Aylesbury,Fish Flakes,7,51.36,Dog,359.52
+2138,2025-07-28 16:00:00,Milton Keynes,Aquarium Filter,3,33.94,Dog,101.82
+2139,2025-07-28 17:00:00,Oxford,Aquarium Filter,6,20.3,Dog,121.80000000000001
+2140,2025-07-28 13:00:00,Oxford,Dry Dog Food,8,19.09,Dog,152.72
+2141,2025-07-28 14:00:00,Aylesbury,Dog Chew Toy,1,76.07,Bird,76.07
+2142,2025-07-28 20:00:00,Oxford,Wet Cat Food,5,53.19,Bird,265.95
+2143,2025-07-28 13:00:00,Aylesbury,Rabbit Hutch,3,6.44,Dog,19.32
+2144,2025-07-28 19:00:00,Oxford,Wet Cat Food,2,29.11,Cat,58.22
+2145,2025-07-28 17:00:00,Aylesbury,Dry Dog Food,4,30.99,Cat,123.96
+2146,2025-07-28 10:00:00,Oxford,Hamster Wheel,4,63.31,Cat,253.24
+2147,2025-07-28 13:00:00,Aylesbury,Cat Litter,5,9.44,Bird,47.199999999999996
+2148,2025-07-28 15:00:00,Oxford,Cat Litter,1,51.67,Bird,51.67
+2149,2025-07-28 12:00:00,Milton Keynes,Bird Seed,8,10.83,Fish,86.64
+2150,2025-07-29 09:00:00,Milton Keynes,Flea Shampoo,1,58.82,Cat,58.82
+2151,2025-07-29 09:00:00,Buckingham,Aquarium Filter,4,64.03,Rodent,256.12
+2152,2025-07-29 17:00:00,Buckingham,Dry Dog Food,4,46.76,Bird,187.04
+2153,2025-07-29 12:00:00,Aylesbury,Cat Litter,8,72.99,Cat,583.92
+2154,2025-07-29 19:00:00,Aylesbury,Wet Cat Food,1,26.61,Rodent,26.61
+2155,2025-07-29 18:00:00,Milton Keynes,Dog Chew Toy,6,45.86,Cat,275.15999999999997
+2156,2025-07-29 10:00:00,Aylesbury,Dry Dog Food,1,31.97,Fish,31.97
+2157,2025-07-29 17:00:00,Milton Keynes,Rabbit Hutch,6,22.05,Bird,132.3
+2158,2025-07-29 13:00:00,Aylesbury,Dry Dog Food,2,59.07,Cat,118.14
+2159,2025-07-29 09:00:00,Milton Keynes,Hamster Wheel,8,65.86,Cat,526.88
+2160,2025-07-29 17:00:00,Oxford,Rabbit Hutch,8,32.28,Fish,258.24
+2161,2025-07-30 14:00:00,Milton Keynes,Hamster Wheel,6,31.58,Cat,189.48
+2162,2025-07-30 18:00:00,Aylesbury,Wet Cat Food,7,75.3,Fish,527.1
+2163,2025-07-30 13:00:00,Aylesbury,Wet Cat Food,4,19.43,Bird,77.72
+2164,2025-07-30 19:00:00,Oxford,Cat Litter,8,71.41,Fish,571.28
+2165,2025-07-30 09:00:00,Buckingham,Bird Seed,1,77.35,Cat,77.35
+2166,2025-07-30 09:00:00,Buckingham,Flea Shampoo,1,16.18,Dog,16.18
+2167,2025-07-30 10:00:00,Buckingham,Bird Seed,1,42.41,Dog,42.41
+2168,2025-07-30 09:00:00,Buckingham,Hamster Wheel,4,47.31,Bird,189.24
+2169,2025-07-30 18:00:00,Oxford,Dry Dog Food,1,33.64,Bird,33.64
+2170,2025-07-30 19:00:00,Buckingham,Bird Seed,8,43.35,Dog,346.8
+2171,2025-07-30 11:00:00,Aylesbury,Cat Litter,6,64.32,Fish,385.91999999999996
+2172,2025-07-31 17:00:00,Buckingham,Hamster Wheel,8,32.39,Fish,259.12
+2173,2025-07-31 10:00:00,Buckingham,Aquarium Filter,8,55.12,Dog,440.96
+2174,2025-07-31 13:00:00,Milton Keynes,Hamster Wheel,2,45.36,Dog,90.72
+2175,2025-07-31 13:00:00,Milton Keynes,Aquarium Filter,2,59.55,Cat,119.1
+2176,2025-07-31 17:00:00,Oxford,Fish Flakes,7,37.79,Bird,264.53
+2177,2025-07-31 20:00:00,Oxford,Dog Chew Toy,6,77.2,Cat,463.20000000000005
+2178,2025-07-31 08:00:00,Milton Keynes,Flea Shampoo,1,63.46,Bird,63.46
