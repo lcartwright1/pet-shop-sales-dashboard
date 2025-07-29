@@ -1,12 +1,12 @@
 # 🐾 Pet Shop Sales Dashboard (Power BI)
 
-This project is a clean, themed sales dashboard built in Power BI to showcase data storytelling and interactivity for a fictional UK-based pet supply chain.
+This project is a clean sales dashboard built in Power BI to showcase data storytelling and interactivity for a fictional UK-based pet supply chain.
 
 ## 📈 Project Summary
 
 - **Tool:** Power BI Desktop
 - **Data:** 2,000-row synthetic sales dataset (`.csv`) generated programmatically with AI to simulate realistic pet store sales activity
-- **Design Focus:** Visual storytelling, branding, slicers, and conditional formatting
+- **Design Focus:** Visual storytelling, slicers, and conditional formatting
 
 ## 📊 Key Features
 
@@ -15,8 +15,8 @@ This project is a clean, themed sales dashboard built in Power BI to showcase da
 - **Pie chart** for category-level breakdown
 - **Slicers** for product-level interactivity
 - Custom **traffic light colour coding** to visually reflect performance
-- Branded **background styling** (paw prints, hearts) for a customer-friendly look
 - Optimised for both **desktop and mobile** layout
+- Use of DAX for calculated metrics and single graph metric swapping 
 
 ## 💼 Why This Matters
 
@@ -24,8 +24,9 @@ This dashboard demonstrates:
 
 - A strong layout and clean data storytelling
 - Ability to create engaging, stakeholder-ready visuals from raw data
-- Balance of creative flair with practical analysis
 - Familiarity with Power BI features like slicers, formatting, filters, and responsive design
+- Use of DAX elements for styling (dynamic traffic light coloured graphs)
+
 
 ## 📁 Project Structure
 
@@ -34,10 +35,4 @@ This dashboard demonstrates:
 - `PetStoreDashboard.pbix` – Power BI report file
 - `README.md` – Project summary and roadmap
 
-## 🔮 Future Plans
-
-- Add a second dashboard page with **DAX-powered time series analysis**
-- Introduce **custom measures** (e.g., monthly change, moving average)
-- Improve interactivity with **tooltip drill-through** and page navigation
-- Implement a custom `.json` theme for consistent branding
 
