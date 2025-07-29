@@ -16,7 +16,7 @@ This project is a clean sales dashboard built in Power BI to showcase data story
 - **Slicers** for product-level interactivity
 - Custom **traffic light colour coding** to visually reflect performance
 - Optimised for both **desktop and mobile** layout
-- Use of DAX for calculated metrics and single graph metric swapping 
+- Use of **DAX** for calculated metrics and single graph metric swapping 
 
 ## 💼 Why This Matters
 
